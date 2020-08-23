@@ -6,4 +6,28 @@ I'm a **french developer** :fr: my name is **Geoffrey** and I've got 23yo.
 
 ![Grezor github stats](https://github-readme-stats.vercel.app/api?username=Grezor&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grezor)](https://github.com/Grezor/github-readme-stats)
+<table><tr><td valign="top" width="33%">
+
+### Update / Mise a jour
+[ChopTaPhoto](https://github.com/Grezor/ChopTaPhoto_2020) - 2020-06-13
+
+[Tools](https://github.com/Grezor/Tools) - 2020-08-17
+
+</td><td valign="top" width="34%">
+
+### En cours
+[Weather App](https://github.com/Grezor/Weather-App) - 2020-05-30
+
+
+</td><td valign="top" width="33%">
+
+### Start Projets
+<!-- tils starts -->
+[APIGithubReactJS](https://github.com/Grezor/ApiGithubReactJS) - 2020-07-20
+
+[Mark I](https://github.com/Grezor/Mark-I) - 2020-05-12
+
+
+</td></tr></table>
+
+
