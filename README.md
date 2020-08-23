@@ -1,7 +1,6 @@
 ### Hello friend 👋
 
 I'm a **french developer** :fr: my name is **Geoffrey** and I've got 23yo.
-<<<<<<< HEAD
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Geoffrey_Dev?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Geoffrey_Dev)
 
@@ -32,5 +31,3 @@ I'm a **french developer** :fr: my name is **Geoffrey** and I've got 23yo.
 </td></tr></table>
 
 
-=======
->>>>>>> d1c61bf5ef65057fdfc2852af3920a66e902a772
