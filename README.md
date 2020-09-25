@@ -1,33 +1,22 @@
 ### Hello friend 👋
 
-I'm a **french developer** :fr: my name is **Geoffrey** and I've got 23yo.
+Hi, I’m Duplessi Geoffrey
+Actuellement Développeur Backend et j'adore:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Geoffrey_Dev?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Geoffrey_Dev)
+🚧 Construire des trucs en JS, Php
+-  NodeJS, React, Symfony
 
-![Grezor github stats](https://github-readme-stats.vercel.app/api?username=Grezor&show_icons=true&theme=highcontrast)
+🔌 Connectez l'application ensemble
+- api, HTTP
 
+🔬 Conception des relations entre les composants
+- Docker
 
-<table><tr><td valign="top" width="33%">
+🔎 Améliorez la qualité du code
+- Test unitaire, Github Action, standardisation des versions
 
-### Update / Mise a jour
-[ChopTaPhoto](https://github.com/Grezor/ChopTaPhoto_2020)
+🎓 Apprendre de nouvelles choses
+- Reddit, Twitter, Meetups,… [more infos](https://github.com/Grezor/Tools/tree/master/Veille)
 
-[Tools](https://github.com/Grezor/Tools)
-
-</td><td valign="top" width="34%">
-
-### En cours
-[Weather App](https://github.com/Grezor/Weather-App)
-
-
-</td><td valign="top" width="33%">
-
-### Start Projets
-<!-- tils starts -->
-[APIGithubReactJS](https://github.com/Grezor/ApiGithubReactJS)
-
-[Mark I](https://github.com/Grezor/Mark-I)
-</td>
-</td></tr></table>
-
-mise a jour le 23/08/20
+🔧 Mes outils
+- mes outils - [plus d'infos](https://github.com/Grezor/Tools)
