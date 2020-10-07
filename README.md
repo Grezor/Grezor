@@ -4,7 +4,7 @@ Hi, I’m Duplessi Geoffrey
 Actuellement Développeur Backend et j'adore:
 
 🚧 Construire des trucs en JS, Php
--  NodeJS, React, Symfony
+-  NodeJS, React, ![icon sf](https://user-images.githubusercontent.com/38507456/95331053-b854ea00-08a9-11eb-8bf6-cd6167eb074e.png)
 
 🔌 Connectez l'application ensemble
 - api, HTTP
