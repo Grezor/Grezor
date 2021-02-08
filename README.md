@@ -5,3 +5,28 @@
 
 - Developpeur Back-end
 - Technologies: Symfony, Docker, PHP, NodeJS, JS
+
+<table><tr><td valign="top" width="50%">
+
+### Idea project />
+- Raspberry Pie : PIHOLE
+- Script Mysql Dump to shell
+- ReactJS learn 
+- API space/spaceX 
+- Create Bot
+- Create Blog 
+- Create Server (apache/ngnix)
+- Contributions to Github 
+
+</td>
+<td valign="top" width="45%">
+
+### In progress />
+
+- build my portfolio on a PHP framework 
+- WeatherApp 
+- Tools settings
+- Create forum without framework PHP
+- Choptaphoto
+
+</td>
