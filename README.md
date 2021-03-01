@@ -29,3 +29,5 @@
 - Choptaphoto
 
 </td>
+
+![Metrics](https://metrics.lecoq.io/Grezor)
