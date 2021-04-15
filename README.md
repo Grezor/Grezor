@@ -6,8 +6,7 @@
 
 <img alt="Geoffrey D" src="https://github-readme-stats.vercel.app/api?username=Grezor&count_private=1&show_icons=true" />
 <table><tr><td valign="top" width="50%">
-# time 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grezor&theme=vue)
+
 ### Idea project />
 - Raspberry Pie : PIHOLE
 - Script Mysql Dump to shell
@@ -32,3 +31,5 @@
 </td>
 
 ![Metrics](https://metrics.lecoq.io/Grezor)
+# time 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grezor&theme=vue)
