@@ -31,5 +31,9 @@
 </td>
 
 ![Metrics](https://metrics.lecoq.io/Grezor)
-# time 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grezor&theme=vue)
+
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grezor&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Grezor&theme=default)
