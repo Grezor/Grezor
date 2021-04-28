@@ -1,6 +1,6 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  I am Geoffrey Duplessi </h2>
-
+- [Profile github memory](https://githubmemory.com/@Grezor?page=2)
 - Developpeur Back-end
 - Technologies: Symfony, Docker, PHP, NodeJS, JS
 
@@ -31,9 +31,4 @@
 </td>
 
 ![Metrics](https://metrics.lecoq.io/Grezor)
-
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grezor&theme=default)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Grezor&theme=default)
