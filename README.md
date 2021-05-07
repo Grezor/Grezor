@@ -25,7 +25,7 @@
 - [Portfolio Laravel](https://github.com/Grezor/Portfolio_v2) 
 - [WeatherApp](https://github.com/Grezor/Weather-App)
 - [Tools settings](https://github.com/Grezor/Tools)
-- [Create forum without framework PHP](https://github.com/Grezor/Forum-infinity)
+- [Forum PHP POO](https://github.com/Grezor/Forum-infinity)
 - [Choptaphoto](https://github.com/Grezor/ChopTaPhoto_2020)
 
 </td>
