@@ -11,7 +11,7 @@
 - Raspberry Pie : PIHOLE
 - Script Mysql Dump to shell
 - ReactJS learn 
-- [API space/spaceX](https://github.com/Grezor/SpaceMan)
+- [SapceMan](https://github.com/Grezor/SpaceMan)
 - Create Bot
 - Create Blog 
 - Create Server (apache/ngnix)
