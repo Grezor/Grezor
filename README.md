@@ -3,30 +3,30 @@
 - [Profile github memory](https://githubmemory.com/@Grezor?page=2)
 - Developpeur Back-end
 - Technologies: Symfony, Docker, PHP, NodeJS, JS
+--- 
 
-<img alt="Geoffrey D" src="https://github-readme-stats.vercel.app/api?username=Grezor&count_private=1&show_icons=true" />
 <table><tr><td valign="top" width="50%">
 
 ### Idea project />
 - Raspberry Pie : PIHOLE
 - Script Mysql Dump to shell
 - ReactJS learn 
-- API space/spaceX 
+- [API space/spaceX](https://github.com/Grezor/SpaceMan)
 - Create Bot
 - Create Blog 
 - Create Server (apache/ngnix)
 - Contributions to Github 
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="50%">
 
 ### In progress />
 
-- build my portfolio on a PHP framework 
-- WeatherApp 
-- Tools settings
-- Create forum without framework PHP
-- Choptaphoto
+- [Portfolio Laravel](https://github.com/Grezor/Portfolio_v2) 
+- [WeatherApp](https://github.com/Grezor/Weather-App)
+- [Tools settings](https://github.com/Grezor/Tools)
+- [Create forum without framework PHP](https://github.com/Grezor/Forum-infinity)
+- [Choptaphoto](https://github.com/Grezor/ChopTaPhoto_2020)
 
 </td>
 
