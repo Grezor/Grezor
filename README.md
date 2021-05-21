@@ -4,6 +4,8 @@
 - Developpeur Back-end
 - Technologies: Symfony, Docker, PHP, NodeJS, JS
 --- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Grezor&label=Views&color=blue&style=plastic" alt="Grezor" /> </p>
+
 
 <table><tr><td valign="top" width="50%">
 
