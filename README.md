@@ -6,29 +6,35 @@
 --- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Grezor&label=Views&color=blue&style=plastic" alt="Grezor" /> </p>
 
-
+| Idea project  | En progress |
+| ----------------------- | ------------- |
+| Raspberry Pie : PIHOLE  | [SapceMan](https://github.com/Grezor/SpaceMan)  |
+| Script Mysql Dump to shell  | [Portfolio Laravel](https://github.com/Grezor/Portfolio_v2)   |
+| ReactJS learn   | [WeatherApp](https://github.com/Grezor/Weather-App) | 
+| Create Bot  | [Tools settings](https://github.com/Grezor/Tools)  |
+| Create Server (apache/ngnix)  | [Forum PHP POO](https://github.com/Grezor/Forum-infinity)  |
+| Contributions to Github  | [Choptaphoto](https://github.com/Grezor/ChopTaPhoto_2020)  |
 <table><tr><td valign="top" width="50%">
 
 ### Idea project />
-- Raspberry Pie : PIHOLE
-- Script Mysql Dump to shell
-- ReactJS learn 
-- [SapceMan](https://github.com/Grezor/SpaceMan)
-- Create Bot
-- Create Blog 
-- Create Server (apache/ngnix)
-- Contributions to Github 
+- 
+- 
+- 
+- 
+-  
+- 
+-  
 
 </td>
 <td valign="top" width="50%">
 
 ### In progress />
 
-- [Portfolio Laravel](https://github.com/Grezor/Portfolio_v2) 
-- [WeatherApp](https://github.com/Grezor/Weather-App)
-- [Tools settings](https://github.com/Grezor/Tools)
-- [Forum PHP POO](https://github.com/Grezor/Forum-infinity)
-- [Choptaphoto](https://github.com/Grezor/ChopTaPhoto_2020)
+- 
+- 
+- 
+- 
+- 
 
 </td>
 
