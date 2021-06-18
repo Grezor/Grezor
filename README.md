@@ -6,37 +6,15 @@
 --- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Grezor&label=Views&color=blue&style=plastic" alt="Grezor" /> </p>
 
-| Idea project  | En progress |
-| ----------------------- | ------------- |
-| Raspberry Pie : PIHOLE  | [SapceMan](https://github.com/Grezor/SpaceMan)  |
+| Idea project  | En progress | Maintenance |
+| ----------------------- | ------------- | ------------- |
+| Raspberry Pie : PIHOLE  | [SapceMan](https://github.com/Grezor/SpaceMan)  |[Choptaphoto](https://github.com/Grezor/ChopTaPhoto_2020) |
 | Script Mysql Dump to shell  | [Portfolio Laravel](https://github.com/Grezor/Portfolio_v2)   |
 | ReactJS learn   | [WeatherApp](https://github.com/Grezor/Weather-App) | 
 | Create Bot  | [Tools settings](https://github.com/Grezor/Tools)  |
 | Create Server (apache/ngnix)  | [Forum PHP POO](https://github.com/Grezor/Forum-infinity)  |
-| Contributions to Github  | [Choptaphoto](https://github.com/Grezor/ChopTaPhoto_2020)  |
-<table><tr><td valign="top" width="50%">
+| Contributions to Github  |  | 
 
-### Idea project />
-- 
-- 
-- 
-- 
--  
-- 
--  
-
-</td>
-<td valign="top" width="50%">
-
-### In progress />
-
-- 
-- 
-- 
-- 
-- 
-
-</td>
 
 ![Metrics](https://metrics.lecoq.io/Grezor)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grezor&theme=default)
