@@ -6,6 +6,8 @@
 --- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Grezor&label=Views&color=blue&style=plastic" alt="Grezor" /> </p>
 
+![Metrics](https://github.com/Grezor/Grezor/blob/master/github-metrics.svg)
+
 | Idea project  | En progress | Maintenance |
 | ----------------------- | ------------- | ------------- |
 | Raspberry Pie : PIHOLE  | [SapceMan](https://github.com/Grezor/SpaceMan)  |[Choptaphoto](https://github.com/Grezor/ChopTaPhoto_2020) |
