@@ -7,8 +7,8 @@
 
 
 ## metrics
-![Metrics](https://metrics.lecoq.io/Grezor)
-
+<!-- ![Metrics](https://metrics.lecoq.io/Grezor) -->
+![Metrics](https://metrics.lecoq.io/Grezor?template=classic&projects=1&gists=1&activity=1&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Europe%2FParis)
 
 | Idea project  | En progress | Maintenance |
 | ----------------------- | ------------- | ------------- |
