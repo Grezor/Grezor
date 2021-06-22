@@ -35,6 +35,7 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
+          plugin_habits_trim: yes
           plugin_lines: yes
           plugin_people: yes
           plugin_people_limit: 24
