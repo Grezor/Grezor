@@ -1,33 +1,23 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.10
+      # See action.yml for all options
+      - uses: lowlighter/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.PROFILE }}
 
-          # Options
-          user: Grezor
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Paris
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-          plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
-          plugin_habits_days: 14        # Keep only events from last 14 days
-          plugin_habits_facts: yes      # Display facts section
-          plugin_habits_charts: yes     # Display charts section
-          plugin_habits_trim: yes       # Trim unused hours on daily chart
- # Set timezone
+          plugin_reactions: yes
+          plugin_reactions_limit: 200                 # Compute reactions over last 200 issue comments
+          plugin_reactions_limit_issues: 100          # Compute reactions over laste 100 issues/pull requests opened
+          plugin_reactions_days: 14                   # Compute reactions on issue comments posted less than 14 days ago
+          plugin_reactions_details: count, percentage # Display reactions count and percentage
+          plugin_reactions_ignored: bot  
