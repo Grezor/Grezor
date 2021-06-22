@@ -7,8 +7,8 @@
 
 
 ## metrics
-![Metrics](https://metrics.lecoq.io/Grezor)
-
+<!-- ![Metrics](https://metrics.lecoq.io/Grezor) -->
+![Metrics](https://github.com/Grezor/Grezor/blob/master/github-metrics.svg)
 
 | Idea project  | En progress | Maintenance |
 | ----------------------- | ------------- | ------------- |
