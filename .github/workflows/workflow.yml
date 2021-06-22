@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.10
         with:
           # Your GitHub token
           token: ${{ secrets.PROFILE }}
@@ -20,3 +20,14 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: yes       # Trim unused hours on daily chart
+ # Set timezone
