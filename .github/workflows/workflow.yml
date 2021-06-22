@@ -7,24 +7,16 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
+    name: Test lowlighter/metrics@latest
     runs-on: ubuntu-latest
+    needs: [ update-latest ]
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master' && contains(github.event.head_commit.message, '[release]')
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Run tests
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          token: ${{ secrets.PROFILE }}
-
-          # Options
-          user: Grezor
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Paris
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_gists: yes
-          plugin_projects: yes
-          plugin_projects_limit: 4
+          token: PROFILE
+          plugins_errors_fatal: yes
+          dryrun: yes
+          use_mocked_data: yes
+          verify: yes
