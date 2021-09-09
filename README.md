@@ -6,19 +6,10 @@
 --- 
 
 
-## metrics
-<!-- ![Metrics](https://metrics.lecoq.io/Grezor) -->
-![Metrics](https://github.com/Grezor/Grezor/blob/master/github-metrics.svg)
-
-| Idea project  | En progress | Maintenance |
-| ----------------------- | ------------- | ------------- |
-| Raspberry Pie : PIHOLE  | [SapceMan](https://github.com/Grezor/SpaceMan)  |[Choptaphoto](https://github.com/Grezor/ChopTaPhoto_2020) |
-| Script Mysql Dump to shell  | [Portfolio Laravel](https://github.com/Grezor/Portfolio_v2)   |
-| ReactJS learn   | [WeatherApp](https://github.com/Grezor/Weather-App) | 
-| Create Bot  | [Tools settings](https://github.com/Grezor/Tools)  |
-| Create Server (apache/ngnix)  | [Forum PHP POO](https://github.com/Grezor/Forum-infinity)  |
-| Contributions to Github  |  | 
-
-
-<!-- ![Metrics](https://metrics.lecoq.io/Grezor)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grezor&theme=default) -->
+| Project                   | Idea | In Progress | Incident|
+| :---  |     :---:      |          ---: |          ---: |
+| `PiHole`                  | X |   |    |
+| `Create Bot`              | X |   |   |
+| `Portfolio Laravel`       |   | X |   |
+| `SpaceMan`                |   | X |   |
+| `WeatherApp`              |   | X |   |
