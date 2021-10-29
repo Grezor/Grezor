@@ -6,10 +6,11 @@
 --- 
 
 
-| Project                   | Idea | In Progress | Incident|
-| :---  |     :---:      |          ---: |          ---: |
-| `PiHole`                  | X |   |    |
-| `Create Bot`              | X |   |   |
-| `Portfolio Laravel`       |   | X |   |
-| `SpaceMan`                |   | X |   |
-| `WeatherApp`              |   | X |   |
+| Project                   | Idea | In Progress | Pause |  Finish|
+| :---  |     :---:      |          ---: |      ---: |      ---: |
+| `SiteEcommerce`                  | X |   |    |  |
+| `Trick or treat`          | X |   |    |  |
+| `Create Bot`              | X |   |   |  |
+| `Portfolio Laravel`       |   | X |   |  |
+| `WeatherApp`              |   | |   X|  |
+| `Todolist`              |   | |   | X|
