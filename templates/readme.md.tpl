@@ -7,3 +7,8 @@
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
+
+#### 📓 Gists I wrote
+{{range gists 5}}
+- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
