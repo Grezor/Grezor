@@ -9,6 +9,16 @@
 {{- end}}
 
 #### 📓 Gists I wrote
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+{{range recentContributions 10}}
+Name: {{.Repo.Name}}
+Description: {{.Repo.Description}}
+URL: {{.Repo.URL}})
+Occurred: {{humanize .OccurredAt}}
+{{end}}
+
+{{range followers 5}}
+Username: {{.Login}}
+Name: {{.Name}}
+Avatar: {{.AvatarURL}}
+URL: {{.URL}}
+{{end}}
