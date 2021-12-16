@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/training-Docusaurus](https://github.com/Grezor/training-Docusaurus) -  (5 days ago)
+- [Grezor/training-Docusaurus](https://github.com/Grezor/training-Docusaurus) -  (6 days ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (1 week ago)
 - [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) -  (1 week ago)
 - [Grezor/configs](https://github.com/Grezor/configs) - configuration wsl (3 weeks ago)
