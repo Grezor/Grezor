@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (1 day ago)
+- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (2 days ago)
 - [Grezor/training-Docusaurus](https://github.com/Grezor/training-Docusaurus) -  (1 week ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (1 week ago)
 - [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) -  (1 week ago)
-- [Grezor/configs](https://github.com/Grezor/configs) - configuration wsl (3 weeks ago)
+- [Grezor/configs](https://github.com/Grezor/configs) - configuration wsl (4 weeks ago)
 
 #### 🌱 My latest projects
 
