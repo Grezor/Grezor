@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (2 days ago)
+- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (3 days ago)
 - [Grezor/training-Docusaurus](https://github.com/Grezor/training-Docusaurus) -  (1 week ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (1 week ago)
 - [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) -  (1 week ago)
@@ -18,6 +18,6 @@
 
 - [Crud booking](https://github.com/Farcy-Corentin/leClosMesnilLaravel/pull/12) on [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) (1 week ago)
 - [Feat: Validation phone #9](https://github.com/Farcy-Corentin/leClosMesnilLaravel/pull/10) on [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) (3 weeks ago)
-- [feat: add feature paginator](https://github.com/Grezor/Dashboard-API/pull/4) on [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) (4 weeks ago)
+- [feat: add feature paginator](https://github.com/Grezor/Dashboard-API/pull/4) on [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) (1 month ago)
 - [update dependencies](https://github.com/Grezor/Todolist/pull/27) on [Grezor/Todolist](https://github.com/Grezor/Todolist) (3 months ago)
 - [update dependencies](https://github.com/Grezor/Todolist/pull/26) on [Grezor/Todolist](https://github.com/Grezor/Todolist) (3 months ago)
