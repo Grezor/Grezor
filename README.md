@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (today)
+- [Grezor/Issue-Github](https://github.com/Grezor/Issue-Github) -  (today)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (today)
+- [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (today)
 - [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (1 day ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (2 weeks ago)
-- [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [Grezor/Issue-Github](https://github.com/Grezor/Issue-Github) - 
 - [Grezor/configs](https://github.com/Grezor/configs) - configuration wsl
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request
 - [Grezor/MonitoringWebApp](https://github.com/Grezor/MonitoringWebApp) - Monitoring of web applications
 - [Grezor/RoadToSymfony5](https://github.com/Grezor/RoadToSymfony5) - 
-- [Grezor/poo-php](https://github.com/Grezor/poo-php) - 
 
 #### 🔨 Latest Pull Requests I published
 
