@@ -11,8 +11,8 @@
 - [Grezor/Issue-Github](https://github.com/Grezor/Issue-Github) - 
 - [Grezor/configs](https://github.com/Grezor/configs) - configuration wsl
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request
-- [Grezor/MonitoringWebApp](https://github.com/Grezor/MonitoringWebApp) - Monitoring of web applications
 - [Grezor/RoadToSymfony5](https://github.com/Grezor/RoadToSymfony5) - 
+- [Grezor/poo-php](https://github.com/Grezor/poo-php) - 
 
 #### 🔨 Latest Pull Requests I published
 
