@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (today)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (today)
 - [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (1 day ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 days ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (2 weeks ago)
 - [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) -  (2 weeks ago)
-- [Grezor/configs](https://github.com/Grezor/configs) - configuration wsl (1 month ago)
 
 #### 🌱 My latest projects
 
