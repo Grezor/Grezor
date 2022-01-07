@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (6 days ago)
+- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (1 week ago)
 - [Grezor/PowerPoint-Markdown](https://github.com/Grezor/PowerPoint-Markdown) - tools =&gt; https://marp.app/  (1 week ago)
 - [Grezor/Issue-Github](https://github.com/Grezor/Issue-Github) - Script that allows me to insert my issues on github (2 weeks ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 weeks ago)
