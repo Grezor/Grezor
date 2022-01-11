@@ -16,8 +16,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Feature/lcm29](https://github.com/Grezor/leClosMesnilLaravel/pull/1) on [Grezor/leClosMesnilLaravel](https://github.com/Grezor/leClosMesnilLaravel) (today)
 - [Crud booking](https://github.com/Farcy-Corentin/leClosMesnilLaravel/pull/12) on [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) (1 month ago)
 - [Feat: Validation phone #9](https://github.com/Farcy-Corentin/leClosMesnilLaravel/pull/10) on [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) (1 month ago)
 - [feat: add feature paginator](https://github.com/Grezor/Dashboard-API/pull/4) on [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) (1 month ago)
 - [update dependencies](https://github.com/Grezor/Todolist/pull/27) on [Grezor/Todolist](https://github.com/Grezor/Todolist) (4 months ago)
-- [update dependencies](https://github.com/Grezor/Todolist/pull/26) on [Grezor/Todolist](https://github.com/Grezor/Todolist) (4 months ago)
