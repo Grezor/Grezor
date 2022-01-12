@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/Onboarding](https://github.com/Grezor/Onboarding) -  (today)
 - [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (1 week ago)
 - [Grezor/PowerPoint-Markdown](https://github.com/Grezor/PowerPoint-Markdown) - tools =&gt; https://marp.app/  (2 weeks ago)
 - [Grezor/Issue-Github](https://github.com/Grezor/Issue-Github) - Script that allows me to insert my issues on github (3 weeks ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 weeks ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [Grezor/Onboarding](https://github.com/Grezor/Onboarding) - 
 - [Grezor/PowerPoint-Markdown](https://github.com/Grezor/PowerPoint-Markdown) - tools =&gt; https://marp.app/ 
 - [Grezor/Issue-Github](https://github.com/Grezor/Issue-Github) - Script that allows me to insert my issues on github
 - [Grezor/configs](https://github.com/Grezor/configs) - configuration wsl
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request
-- [Grezor/RoadToSymfony5](https://github.com/Grezor/RoadToSymfony5) - 
 
 #### 🔨 Latest Pull Requests I published
 
