@@ -1,9 +1,9 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/symfony-book](https://github.com/Grezor/symfony-book) -  (today)
 - [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (2 weeks ago)
 - [Grezor/PowerPoint-Markdown](https://github.com/Grezor/PowerPoint-Markdown) - tools =&gt; https://marp.app/  (2 weeks ago)
 - [Grezor/Issue-Github](https://github.com/Grezor/Issue-Github) - Script that allows me to insert my issues on github (3 weeks ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 weeks ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (3 weeks ago)
 
 #### 🌱 My latest projects
