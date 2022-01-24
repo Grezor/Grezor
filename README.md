@@ -18,5 +18,5 @@
 
 - [Merge Develop to main](https://github.com/Grezor/symfony-book/pull/1) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (1 week ago)
 - [Develop](https://github.com/Farcy-Corentin/leClosMesnilLaravel/pull/20) on [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) (1 week ago)
-- [Feature/lcm29](https://github.com/Grezor/leClosMesnilLaravel/pull/1) on [Grezor/leClosMesnilLaravel](https://github.com/Grezor/leClosMesnilLaravel) (1 week ago)
 - [Crud booking](https://github.com/Farcy-Corentin/leClosMesnilLaravel/pull/12) on [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) (1 month ago)
+- [Feat: Validation phone #9](https://github.com/Farcy-Corentin/leClosMesnilLaravel/pull/10) on [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) (1 month ago)
