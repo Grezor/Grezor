@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/symfony-book](https://github.com/Grezor/symfony-book) -  (2 days ago)
+- [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony (2 days ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (4 days ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (4 days ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (1 month ago)
@@ -8,7 +8,7 @@
 
 #### 🌱 My latest projects
 
-- [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - 
+- [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request
 - [Grezor/RoadToSymfony5](https://github.com/Grezor/RoadToSymfony5) - 
 - [Grezor/scssTraining](https://github.com/Grezor/scssTraining) - 
