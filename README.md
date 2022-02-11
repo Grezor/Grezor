@@ -3,8 +3,8 @@
 - [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony (1 week ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 week ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (1 week ago)
+- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (1 month ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (1 month ago)
-- [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) -  (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -12,7 +12,7 @@
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request
 - [Grezor/scssTraining](https://github.com/Grezor/scssTraining) - 
 - [Grezor/movie-app](https://github.com/Grezor/movie-app) - Create website movie
-- [Grezor/miniprojet-lp-2020-franck-olivier-azzibrouck](https://github.com/Grezor/miniprojet-lp-2020-franck-olivier-azzibrouck) - 
+- [Grezor/lessons](https://github.com/Grezor/lessons) - 
 
 #### 🔨 Latest Pull Requests I published
 
