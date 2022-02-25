@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/TestingFakerSymfony](https://github.com/Grezor/TestingFakerSymfony) - testing https://github.com/FakerPHP/Faker (2 days ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (5 days ago)
+- [Grezor/TestingFakerSymfony](https://github.com/Grezor/TestingFakerSymfony) - testing https://github.com/FakerPHP/Faker (3 days ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (6 days ago)
 - [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony (3 weeks ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (3 weeks ago)
 - [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (1 month ago)
