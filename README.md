@@ -4,7 +4,7 @@
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (3 weeks ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (1 month ago)
 - [Grezor/TestingFakerSymfony](https://github.com/Grezor/TestingFakerSymfony) - testing https://github.com/FakerPHP/Faker (1 month ago)
-- [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony (1 month ago)
+- [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -17,6 +17,6 @@
 #### 🔨 Latest Pull Requests I published
 
 - [latest version phpmyadmin #298](https://github.com/leokhoa/laragon/pull/299) on [leokhoa/laragon](https://github.com/leokhoa/laragon) (3 weeks ago)
-- [Develop](https://github.com/Grezor/symfony-book/pull/2) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (1 month ago)
+- [Develop](https://github.com/Grezor/symfony-book/pull/2) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (2 months ago)
 - [Merge Develop to main](https://github.com/Grezor/symfony-book/pull/1) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (2 months ago)
 - [Develop](https://github.com/Farcy-Corentin/leClosMesnilLaravel/pull/20) on [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) (2 months ago)
