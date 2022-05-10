@@ -16,7 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [latest version phpmyadmin #298](https://github.com/leokhoa/laragon/pull/299) on [leokhoa/laragon](https://github.com/leokhoa/laragon) (1 month ago)
+- [latest version phpmyadmin #298](https://github.com/leokhoa/laragon/pull/299) on [leokhoa/laragon](https://github.com/leokhoa/laragon) (2 months ago)
 - [Develop](https://github.com/Grezor/symfony-book/pull/2) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (3 months ago)
 - [Merge Develop to main](https://github.com/Grezor/symfony-book/pull/1) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (3 months ago)
 - [Develop](https://github.com/Farcy-Corentin/leClosMesnilLaravel/pull/20) on [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) (3 months ago)
