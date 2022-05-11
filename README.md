@@ -8,11 +8,11 @@
 
 #### 🌱 My latest projects
 
+- [Grezor/TestPrestashop](https://github.com/Grezor/TestPrestashop) - 1-7-8-5
 - [Grezor/TestingFakerSymfony](https://github.com/Grezor/TestingFakerSymfony) - testing https://github.com/FakerPHP/Faker
 - [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request
 - [Grezor/scssTraining](https://github.com/Grezor/scssTraining) - 
-- [Grezor/movie-app](https://github.com/Grezor/movie-app) - Create website movie
 
 #### 🔨 Latest Pull Requests I published
 
