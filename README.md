@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/mrRobot_Prestashop](https://github.com/Grezor/mrRobot_Prestashop) -  (today)
 - [Grezor/TestPrestashop](https://github.com/Grezor/TestPrestashop) - 1-7-8-5 (2 days ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (2 months ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (2 months ago)
-- [Grezor/TestingFakerSymfony](https://github.com/Grezor/TestingFakerSymfony) - testing https://github.com/FakerPHP/Faker (2 months ago)
 
 #### 🌱 My latest projects
 
+- [Grezor/mrRobot_Prestashop](https://github.com/Grezor/mrRobot_Prestashop) - 
 - [Grezor/TestPrestashop](https://github.com/Grezor/TestPrestashop) - 1-7-8-5
 - [Grezor/TestingFakerSymfony](https://github.com/Grezor/TestingFakerSymfony) - testing https://github.com/FakerPHP/Faker
 - [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request
-- [Grezor/scssTraining](https://github.com/Grezor/scssTraining) - 
 
 #### 🔨 Latest Pull Requests I published
 
