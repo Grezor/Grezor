@@ -4,7 +4,7 @@
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 week ago)
 - [Grezor/TestPrestashop](https://github.com/Grezor/TestPrestashop) - 1-7-8-5 (3 weeks ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (3 months ago)
-- [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (3 months ago)
+- [Grezor/TestingFakerSymfony](https://github.com/Grezor/TestingFakerSymfony) - testing https://github.com/FakerPHP/Faker (3 months ago)
 
 #### 🌱 My latest projects
 
