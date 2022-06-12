@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/ModuloPresto](https://github.com/Grezor/ModuloPresto) - Construire module presta (today)
 - [Grezor/mrRobot_Prestashop](https://github.com/Grezor/mrRobot_Prestashop) -  (2 days ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 week ago)
 - [Grezor/TestPrestashop](https://github.com/Grezor/TestPrestashop) - 1-7-8-5 (3 weeks ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (3 months ago)
-- [Grezor/TestingFakerSymfony](https://github.com/Grezor/TestingFakerSymfony) - testing https://github.com/FakerPHP/Faker (3 months ago)
 
 #### 🌱 My latest projects
 
