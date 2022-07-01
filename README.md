@@ -8,11 +8,11 @@
 
 #### 🌱 My latest projects
 
+- [Grezor/PrestaFOP_testing](https://github.com/Grezor/PrestaFOP_testing) - 
 - [Grezor/ModuloPresto](https://github.com/Grezor/ModuloPresto) - Construire module presta
 - [Grezor/mrRobot_Prestashop](https://github.com/Grezor/mrRobot_Prestashop) - 
 - [Grezor/TestPrestashop](https://github.com/Grezor/TestPrestashop) - 1-7-8-5
 - [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony
-- [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request
 
 #### 🔨 Latest Pull Requests I published
 
