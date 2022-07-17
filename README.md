@@ -1,9 +1,9 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/SpaceMan](https://github.com/Grezor/SpaceMan) - 🚀 This project allows to retrieve data from an api (today)
-- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (2 days ago)
+- [Grezor/SpaceMan](https://github.com/Grezor/SpaceMan) - 🚀 This project allows to retrieve data from an api (1 day ago)
+- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (3 days ago)
 - [Grezor/PrestaFOP_testing](https://github.com/Grezor/PrestaFOP_testing) -  (1 week ago)
-- [Grezor/mrRobot_Prestashop](https://github.com/Grezor/mrRobot_Prestashop) -  (3 weeks ago)
+- [Grezor/mrRobot_Prestashop](https://github.com/Grezor/mrRobot_Prestashop) -  (4 weeks ago)
 - [Grezor/ModuloPresto](https://github.com/Grezor/ModuloPresto) - Construire module presta (1 month ago)
 
 #### 🌱 My latest projects
