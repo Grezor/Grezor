@@ -8,11 +8,11 @@
 
 #### 🌱 My latest projects
 
+- [Grezor/revolution](https://github.com/Grezor/revolution) - repository to PrestaShop 1.7
 - [Grezor/PrestaFOP_testing](https://github.com/Grezor/PrestaFOP_testing) - 
 - [Grezor/TestPrestashop](https://github.com/Grezor/TestPrestashop) - 1-7-8-5
 - [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request
-- [Grezor/scssTraining](https://github.com/Grezor/scssTraining) - 
 
 #### 🔨 Latest Pull Requests I published
 
