@@ -3,16 +3,16 @@
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (1 week ago)
 - [Grezor/PrestaFOP_testing](https://github.com/Grezor/PrestaFOP_testing) -  (2 months ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 months ago)
-- [Grezor/TestPrestashop](https://github.com/Grezor/TestPrestashop) - 1-7-8-5 (3 months ago)
 - [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony (7 months ago)
+- [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) -  (9 months ago)
 
 #### 🌱 My latest projects
 
 - [Grezor/revolution](https://github.com/Grezor/revolution) - repository to PrestaShop 1.7
 - [Grezor/PrestaFOP_testing](https://github.com/Grezor/PrestaFOP_testing) - 
-- [Grezor/TestPrestashop](https://github.com/Grezor/TestPrestashop) - 1-7-8-5
 - [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request
+- [Grezor/scssTraining](https://github.com/Grezor/scssTraining) - 
 
 #### 🔨 Latest Pull Requests I published
 
