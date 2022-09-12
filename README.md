@@ -1,6 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Grezor&theme=neon-dark&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 days ago)
