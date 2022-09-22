@@ -27,6 +27,7 @@
 
 #### ⭐ Recent Stars
 
+- [PrestaShop/statsbestproducts](https://github.com/PrestaShop/statsbestproducts) - Adds a list of the best-selling products to the Stats dashboard. (today)
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (1 week ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (1 week ago)
 - [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started. (1 week ago)
@@ -36,4 +37,3 @@
 - [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An &#34;Awesome&#34; list of code review resources - articles, papers, tools, etc (2 weeks ago)
 - [lloricode/laravel-favicon](https://github.com/lloricode/laravel-favicon) - Create dynamic favicons based on your environment settings. (4 weeks ago)
 - [opcodesio/log-viewer](https://github.com/opcodesio/log-viewer) - Fast and beautiful Log Viewer for Laravel (1 month ago)
-- [PrestaShop/presthubot](https://github.com/PrestaShop/presthubot) - PrestaShop maintainer&#39;s best friend (1 month ago)
