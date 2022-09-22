@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (4 days ago)
-- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (4 days ago)
+- [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (5 days ago)
+- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (5 days ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 week ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (3 weeks ago)
 - [Grezor/PrestaFOP_testing](https://github.com/Grezor/PrestaFOP_testing) -  (2 months ago)
@@ -34,6 +34,6 @@
 - [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows (1 week ago)
 - [thetestcoder/power-calculator](https://github.com/thetestcoder/power-calculator) - Package Help you to conversion power units into different units (2 weeks ago)
 - [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An &#34;Awesome&#34; list of code review resources - articles, papers, tools, etc (2 weeks ago)
-- [lloricode/laravel-favicon](https://github.com/lloricode/laravel-favicon) - Create dynamic favicons based on your environment settings. (3 weeks ago)
+- [lloricode/laravel-favicon](https://github.com/lloricode/laravel-favicon) - Create dynamic favicons based on your environment settings. (4 weeks ago)
 - [opcodesio/log-viewer](https://github.com/opcodesio/log-viewer) - Fast and beautiful Log Viewer for Laravel (1 month ago)
 - [PrestaShop/presthubot](https://github.com/PrestaShop/presthubot) - PrestaShop maintainer&#39;s best friend (1 month ago)
