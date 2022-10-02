@@ -4,7 +4,7 @@
 - [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (2 weeks ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 weeks ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (1 month ago)
-- [Grezor/PrestaFOP_testing](https://github.com/Grezor/PrestaFOP_testing) -  (2 months ago)
+- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (2 months ago)
 
 #### 🌱 My latest projects
 
