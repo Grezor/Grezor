@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (3 weeks ago)
-- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (3 weeks ago)
+- [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (4 weeks ago)
+- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (4 weeks ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (1 month ago)
 - [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (2 months ago)
@@ -22,7 +22,7 @@
 
 #### 📓 Gists I wrote
 
-- [Memo_Prestashop_1.7.8.5 | docker-compose.yml](https://gist.github.com/eb78b378ed9f40780dc077b361ead337) (4 months ago)
+- [Memo_Prestashop_1.7.8.5 | docker-compose.yml](https://gist.github.com/eb78b378ed9f40780dc077b361ead337) (5 months ago)
 - [file config phpcs](https://gist.github.com/27d8a6056d2e171aed20c26699439861) (8 months ago)
 
 #### ⭐ Recent Stars
