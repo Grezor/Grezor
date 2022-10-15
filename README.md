@@ -16,6 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs: add section mailhog](https://github.com/quentinsvn/barcodefinder/pull/2) on [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) (today)
 - [latest version phpmyadmin #298](https://github.com/leokhoa/laragon/pull/299) on [leokhoa/laragon](https://github.com/leokhoa/laragon) (7 months ago)
 - [Develop](https://github.com/Grezor/symfony-book/pull/2) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (8 months ago)
 - [Merge Develop to main](https://github.com/Grezor/symfony-book/pull/1) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (9 months ago)
@@ -27,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono) - A nice code font (today)
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring (2 weeks ago)
 - [PrestaShop/statsbestproducts](https://github.com/PrestaShop/statsbestproducts) - Adds a list of the best-selling products to the Stats dashboard. (3 weeks ago)
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (1 month ago)
@@ -36,4 +38,3 @@
 - [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows (1 month ago)
 - [thetestcoder/power-calculator](https://github.com/thetestcoder/power-calculator) - Package Help you to conversion power units into different units (1 month ago)
 - [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An &#34;Awesome&#34; list of code review resources - articles, papers, tools, etc (1 month ago)
-- [lloricode/laravel-favicon](https://github.com/lloricode/laravel-favicon) - Create dynamic favicons based on your environment settings. (1 month ago)
