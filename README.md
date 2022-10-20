@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (4 days ago)
-- [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) - Plateforme web de recherche de produits selon son code barre (ISBN) sous Symfony 6 (4 days ago)
+- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (5 days ago)
+- [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) - Plateforme web de recherche de produits selon son code barre (ISBN) sous Symfony 6 (5 days ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (1 month ago)
 - [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (1 month ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
@@ -16,7 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: add section mailhog](https://github.com/quentinsvn/barcodefinder/pull/2) on [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) (4 days ago)
+- [docs: add section mailhog](https://github.com/quentinsvn/barcodefinder/pull/2) on [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) (5 days ago)
 - [latest version phpmyadmin #298](https://github.com/leokhoa/laragon/pull/299) on [leokhoa/laragon](https://github.com/leokhoa/laragon) (7 months ago)
 - [Develop](https://github.com/Grezor/symfony-book/pull/2) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (8 months ago)
 - [Merge Develop to main](https://github.com/Grezor/symfony-book/pull/1) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (9 months ago)
@@ -28,9 +28,9 @@
 
 #### ⭐ Recent Stars
 
-- [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono) - A nice code font (4 days ago)
+- [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono) - A nice code font (5 days ago)
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring (3 weeks ago)
-- [PrestaShop/statsbestproducts](https://github.com/PrestaShop/statsbestproducts) - Adds a list of the best-selling products to the Stats dashboard. (3 weeks ago)
+- [PrestaShop/statsbestproducts](https://github.com/PrestaShop/statsbestproducts) - Adds a list of the best-selling products to the Stats dashboard. (4 weeks ago)
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (1 month ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (1 month ago)
 - [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started. (1 month ago)
