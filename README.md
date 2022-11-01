@@ -8,11 +8,11 @@
 
 #### 🌱 My latest projects
 
+- [Grezor/php_oop](https://github.com/Grezor/php_oop) - PHP 8 - Programmation Orientée Objet
 - [Grezor/PrestaFOP_testing](https://github.com/Grezor/PrestaFOP_testing) - 
 - [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request
 - [Grezor/scssTraining](https://github.com/Grezor/scssTraining) - 
-- [Grezor/movie-app](https://github.com/Grezor/movie-app) - Create website movie
 
 #### 🔨 Latest Pull Requests I published
 
