@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/php_oop](https://github.com/Grezor/php_oop) - PHP 8 - Programmation Orientée Objet (today)
+- [Grezor/php_oop](https://github.com/Grezor/php_oop) - PHP 8 - Programmation Orientée Objet (1 day ago)
 - [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (2 weeks ago)
 - [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) - Plateforme web de recherche de produits selon son code barre (ISBN) sous Symfony 6 (2 weeks ago)
 - [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (1 month ago)
@@ -36,5 +36,5 @@
 - [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started. (1 month ago)
 - [cybercog/laravel-ban](https://github.com/cybercog/laravel-ban) - Laravel Ban simplify blocking and banning Eloquent models. (1 month ago)
 - [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows (1 month ago)
-- [thetestcoder/power-calculator](https://github.com/thetestcoder/power-calculator) - Package Help you to conversion power units into different units (1 month ago)
-- [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An &#34;Awesome&#34; list of code review resources - articles, papers, tools, etc (1 month ago)
+- [thetestcoder/power-calculator](https://github.com/thetestcoder/power-calculator) - Package Help you to conversion power units into different units (2 months ago)
+- [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An &#34;Awesome&#34; list of code review resources - articles, papers, tools, etc (2 months ago)
