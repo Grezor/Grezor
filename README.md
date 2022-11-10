@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (4 days ago)
+- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (5 days ago)
 - [Grezor/php_oop](https://github.com/Grezor/php_oop) - PHP 8 - Programmation Orientée Objet (1 week ago)
 - [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) - Plateforme web de recherche de produits selon son code barre (ISBN) sous Symfony 6 (3 weeks ago)
 - [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (1 month ago)
