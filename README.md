@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (5 days ago)
+- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (6 days ago)
 - [Grezor/php_oop](https://github.com/Grezor/php_oop) - PHP 8 - Programmation Orientée Objet (1 week ago)
 - [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) - Plateforme web de recherche de produits selon son code barre (ISBN) sous Symfony 6 (3 weeks ago)
 - [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (1 month ago)
@@ -31,9 +31,9 @@
 - [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono) - A nice code font (3 weeks ago)
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring (1 month ago)
 - [PrestaShop/statsbestproducts](https://github.com/PrestaShop/statsbestproducts) - Adds a list of the best-selling products to the Stats dashboard. (1 month ago)
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (1 month ago)
-- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (1 month ago)
-- [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started. (1 month ago)
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (2 months ago)
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (2 months ago)
+- [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started. (2 months ago)
 - [cybercog/laravel-ban](https://github.com/cybercog/laravel-ban) - Laravel Ban simplify blocking and banning Eloquent models. (2 months ago)
 - [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows (2 months ago)
 - [thetestcoder/power-calculator](https://github.com/thetestcoder/power-calculator) - Package Help you to conversion power units into different units (2 months ago)
