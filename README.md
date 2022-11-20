@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [AnderUR/Employee-Scheduling-System](https://github.com/AnderUR/Employee-Scheduling-System) - A scheduling application for keeping track of employees&#39; arrival time and hours worked. (today)
 - [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono) - A nice code font (1 month ago)
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring (1 month ago)
 - [PrestaShop/statsbestproducts](https://github.com/PrestaShop/statsbestproducts) - Adds a list of the best-selling products to the Stats dashboard. (1 month ago)
@@ -37,4 +38,3 @@
 - [cybercog/laravel-ban](https://github.com/cybercog/laravel-ban) - Laravel Ban simplify blocking and banning Eloquent models. (2 months ago)
 - [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows (2 months ago)
 - [thetestcoder/power-calculator](https://github.com/thetestcoder/power-calculator) - Package Help you to conversion power units into different units (2 months ago)
-- [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An &#34;Awesome&#34; list of code review resources - articles, papers, tools, etc (2 months ago)
