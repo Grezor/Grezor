@@ -17,7 +17,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [docs: add section mailhog](https://github.com/quentinsvn/barcodefinder/pull/2) on [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) (1 month ago)
-- [latest version phpmyadmin #298](https://github.com/leokhoa/laragon/pull/299) on [leokhoa/laragon](https://github.com/leokhoa/laragon) (8 months ago)
+- [latest version phpmyadmin #298](https://github.com/leokhoa/laragon/pull/299) on [leokhoa/laragon](https://github.com/leokhoa/laragon) (9 months ago)
 - [Develop](https://github.com/Grezor/symfony-book/pull/2) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (10 months ago)
 - [Merge Develop to main](https://github.com/Grezor/symfony-book/pull/1) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (10 months ago)
 
