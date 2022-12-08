@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [BinarCode/laravel-mailator](https://github.com/BinarCode/laravel-mailator) - Email scheduler for Laravel (today)
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers. (1 week ago)
 - [AnderUR/Employee-Scheduling-System](https://github.com/AnderUR/Employee-Scheduling-System) - A scheduling application for keeping track of employees&#39; arrival time and hours worked. (2 weeks ago)
 - [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono) - A nice code font (1 month ago)
@@ -37,4 +38,3 @@
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (2 months ago)
 - [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started. (2 months ago)
 - [cybercog/laravel-ban](https://github.com/cybercog/laravel-ban) - Laravel Ban simplify blocking and banning Eloquent models. (2 months ago)
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows (2 months ago)
