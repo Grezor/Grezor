@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/BasiQPHP](https://github.com/Grezor/BasiQPHP) -  (1 day ago)
+- [Grezor/BasiQPHP](https://github.com/Grezor/BasiQPHP) -  (today)
 - [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (3 weeks ago)
 - [Grezor/php_oop](https://github.com/Grezor/php_oop) - PHP 8 - Programmation Orientée Objet (1 month ago)
 - [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) - Plateforme web de recherche de produits selon son code barre (ISBN) sous Symfony 6 (1 month ago)
