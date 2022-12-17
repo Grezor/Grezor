@@ -11,8 +11,8 @@
 - [Grezor/BasiQPHP](https://github.com/Grezor/BasiQPHP) - 
 - [Grezor/feedrss](https://github.com/Grezor/feedrss) - 
 - [Grezor/php_oop](https://github.com/Grezor/php_oop) - PHP 8 - Programmation Orientée Objet
-- [Grezor/PrestaFOP_testing](https://github.com/Grezor/PrestaFOP_testing) - 
 - [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony
+- [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request
 
 #### 🔨 Latest Pull Requests I published
 
