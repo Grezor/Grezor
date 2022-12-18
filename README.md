@@ -1,8 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (today)
-- [Grezor/Testing-laravel-filament](https://github.com/Grezor/Testing-laravel-filament) -  (today)
-- [Grezor/BasiQPHP](https://github.com/Grezor/BasiQPHP) -  (6 days ago)
+- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (1 day ago)
+- [Grezor/Testing-laravel-filament](https://github.com/Grezor/Testing-laravel-filament) -  (1 day ago)
+- [Grezor/BasiQPHP](https://github.com/Grezor/BasiQPHP) -  (1 week ago)
 - [Grezor/php_oop](https://github.com/Grezor/php_oop) - PHP 8 - Programmation Orientée Objet (1 month ago)
 - [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) - Plateforme web de recherche de produits selon son code barre (ISBN) sous Symfony 6 (2 months ago)
 
@@ -28,11 +28,11 @@
 
 #### ⭐ Recent Stars
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) - Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans. (today)
-- [sudoaugustin/vslook](https://github.com/sudoaugustin/vslook) - Easiest way to create vscode theme. (2 days ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans. (1 day ago)
+- [sudoaugustin/vslook](https://github.com/sudoaugustin/vslook) - Easiest way to create vscode theme. (3 days ago)
 - [BinarCode/laravel-mailator](https://github.com/BinarCode/laravel-mailator) - Email scheduler for Laravel (1 week ago)
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers. (3 weeks ago)
-- [AnderUR/Employee-Scheduling-System](https://github.com/AnderUR/Employee-Scheduling-System) - A scheduling application for keeping track of employees&#39; arrival time and hours worked. (3 weeks ago)
+- [AnderUR/Employee-Scheduling-System](https://github.com/AnderUR/Employee-Scheduling-System) - A scheduling application for keeping track of employees&#39; arrival time and hours worked. (4 weeks ago)
 - [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono) - A nice code font (2 months ago)
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring (2 months ago)
 - [PrestaShop/statsbestproducts](https://github.com/PrestaShop/statsbestproducts) - Adds a list of the best-selling products to the Stats dashboard. (2 months ago)
