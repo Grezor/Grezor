@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind (today)
 - [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (6 days ago)
 - [Grezor/Testing-laravel-filament](https://github.com/Grezor/Testing-laravel-filament) -  (6 days ago)
 - [Grezor/BasiQPHP](https://github.com/Grezor/BasiQPHP) -  (1 week ago)
 - [Grezor/php_oop](https://github.com/Grezor/php_oop) - PHP 8 - Programmation Orientée Objet (1 month ago)
-- [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) - Plateforme web de recherche de produits selon son code barre (ISBN) sous Symfony 6 (2 months ago)
 
 #### 🌱 My latest projects
 
+- [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind
 - [Grezor/Testing-laravel-filament](https://github.com/Grezor/Testing-laravel-filament) - 
 - [Grezor/BasiQPHP](https://github.com/Grezor/BasiQPHP) - 
 - [Grezor/feedrss](https://github.com/Grezor/feedrss) - 
 - [Grezor/php_oop](https://github.com/Grezor/php_oop) - PHP 8 - Programmation Orientée Objet
-- [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony
 
 #### 🔨 Latest Pull Requests I published
 
