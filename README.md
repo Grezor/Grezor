@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar) - Laravel Livewire component to show Events in a good looking monthly calendar (today)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans. (1 week ago)
 - [sudoaugustin/vslook](https://github.com/sudoaugustin/vslook) - Easiest way to create vscode theme. (1 week ago)
 - [BinarCode/laravel-mailator](https://github.com/BinarCode/laravel-mailator) - Email scheduler for Laravel (2 weeks ago)
@@ -37,4 +38,3 @@
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring (2 months ago)
 - [PrestaShop/statsbestproducts](https://github.com/PrestaShop/statsbestproducts) - Adds a list of the best-selling products to the Stats dashboard. (3 months ago)
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (3 months ago)
-- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (3 months ago)
