@@ -2,9 +2,9 @@
 
 - [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind (today)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 day ago)
-- [Grezor/template-underconstruction](https://github.com/Grezor/template-underconstruction) -  (1 day ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (1 day ago)
-- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (1 week ago)
+- [Grezor/template-underconstruction](https://github.com/Grezor/template-underconstruction) -  (1 day ago)
+- [Grezor/Testing-laravel-filament](https://github.com/Grezor/Testing-laravel-filament) -  (1 week ago)
 
 #### 🌱 My latest projects
 
