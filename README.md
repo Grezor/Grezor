@@ -12,7 +12,7 @@
 - [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind
 - [Grezor/Testing-laravel-filament](https://github.com/Grezor/Testing-laravel-filament) - 
 - [Grezor/BasiQPHP](https://github.com/Grezor/BasiQPHP) - 
-- [Grezor/feedrss](https://github.com/Grezor/feedrss) - 
+- [Grezor/php_oop](https://github.com/Grezor/php_oop) - PHP 8 - Programmation Orientée Objet
 
 #### 🔨 Latest Pull Requests I published
 
