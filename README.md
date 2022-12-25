@@ -1,9 +1,9 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind (today)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 day ago)
-- [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (1 day ago)
 - [Grezor/template-underconstruction](https://github.com/Grezor/template-underconstruction) -  (1 day ago)
-- [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind (2 days ago)
+- [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (1 day ago)
 - [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [dietercoopman/laravel-showsql](https://github.com/dietercoopman/laravel-showsql) - A Laravel package to output a specific sql to your favourite debugging tool. The supported log output is Laravel Telescope, Laravel Log, Ray, Clockwork, Laravel Debugbar and your browser. (today)
 - [infureal/artisan-gui](https://github.com/infureal/artisan-gui) - Simple but yet powerful library for running almost all artisan commands. (today)
 - [CrestApps/laravel-code-generator](https://github.com/CrestApps/laravel-code-generator) - An intelligent code generator for Laravel framework that will save you time! This awesome tool will help you generate resources like views, controllers, routes, migrations, languages and/or form-requests! It is extremely flexible and customizable to cover many of the use cases. It is shipped with cross-browsers compatible template, along with a client-side validation to modernize your application. (1 day ago)
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) - A code generation tool for Laravel developers. (1 day ago)
@@ -37,4 +38,3 @@
 - [BinarCode/laravel-mailator](https://github.com/BinarCode/laravel-mailator) - Email scheduler for Laravel (2 weeks ago)
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers. (4 weeks ago)
 - [AnderUR/Employee-Scheduling-System](https://github.com/AnderUR/Employee-Scheduling-System) - A scheduling application for keeping track of employees&#39; arrival time and hours worked. (1 month ago)
-- [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono) - A nice code font (2 months ago)
