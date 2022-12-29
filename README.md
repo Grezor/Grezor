@@ -1,9 +1,9 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind (3 days ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (4 days ago)
-- [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (4 days ago)
-- [Grezor/template-underconstruction](https://github.com/Grezor/template-underconstruction) -  (4 days ago)
+- [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind (4 days ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (5 days ago)
+- [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (5 days ago)
+- [Grezor/template-underconstruction](https://github.com/Grezor/template-underconstruction) -  (5 days ago)
 - [Grezor/Testing-laravel-filament](https://github.com/Grezor/Testing-laravel-filament) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,13 +28,13 @@
 
 #### ⭐ Recent Stars
 
-- [dietercoopman/laravel-showsql](https://github.com/dietercoopman/laravel-showsql) - A Laravel package to output a specific sql to your favourite debugging tool. The supported log output is Laravel Telescope, Laravel Log, Ray, Clockwork, Laravel Debugbar and your browser. (3 days ago)
-- [infureal/artisan-gui](https://github.com/infureal/artisan-gui) - Simple but yet powerful library for running almost all artisan commands. (3 days ago)
-- [CrestApps/laravel-code-generator](https://github.com/CrestApps/laravel-code-generator) - An intelligent code generator for Laravel framework that will save you time! This awesome tool will help you generate resources like views, controllers, routes, migrations, languages and/or form-requests! It is extremely flexible and customizable to cover many of the use cases. It is shipped with cross-browsers compatible template, along with a client-side validation to modernize your application. (4 days ago)
-- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) - A code generation tool for Laravel developers. (4 days ago)
-- [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar) - Laravel Livewire component to show Events in a good looking monthly calendar (4 days ago)
+- [dietercoopman/laravel-showsql](https://github.com/dietercoopman/laravel-showsql) - A Laravel package to output a specific sql to your favourite debugging tool. The supported log output is Laravel Telescope, Laravel Log, Ray, Clockwork, Laravel Debugbar and your browser. (4 days ago)
+- [infureal/artisan-gui](https://github.com/infureal/artisan-gui) - Simple but yet powerful library for running almost all artisan commands. (4 days ago)
+- [CrestApps/laravel-code-generator](https://github.com/CrestApps/laravel-code-generator) - An intelligent code generator for Laravel framework that will save you time! This awesome tool will help you generate resources like views, controllers, routes, migrations, languages and/or form-requests! It is extremely flexible and customizable to cover many of the use cases. It is shipped with cross-browsers compatible template, along with a client-side validation to modernize your application. (5 days ago)
+- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) - A code generation tool for Laravel developers. (5 days ago)
+- [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar) - Laravel Livewire component to show Events in a good looking monthly calendar (5 days ago)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans. (1 week ago)
-- [sudoaugustin/vslook](https://github.com/sudoaugustin/vslook) - Easiest way to create vscode theme. (1 week ago)
-- [BinarCode/laravel-mailator](https://github.com/BinarCode/laravel-mailator) - Email scheduler for Laravel (2 weeks ago)
+- [sudoaugustin/vslook](https://github.com/sudoaugustin/vslook) - Easiest way to create vscode theme. (2 weeks ago)
+- [BinarCode/laravel-mailator](https://github.com/BinarCode/laravel-mailator) - Email scheduler for Laravel (3 weeks ago)
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers. (1 month ago)
 - [AnderUR/Employee-Scheduling-System](https://github.com/AnderUR/Employee-Scheduling-System) - A scheduling application for keeping track of employees&#39; arrival time and hours worked. (1 month ago)
