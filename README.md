@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind (1 week ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 week ago)
-- [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (1 week ago)
-- [Grezor/template-underconstruction](https://github.com/Grezor/template-underconstruction) -  (1 week ago)
-- [Grezor/Testing-laravel-filament](https://github.com/Grezor/Testing-laravel-filament) -  (2 weeks ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 weeks ago)
+- [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (2 weeks ago)
+- [Grezor/template-underconstruction](https://github.com/Grezor/template-underconstruction) -  (2 weeks ago)
+- [Grezor/Testing-laravel-filament](https://github.com/Grezor/Testing-laravel-filament) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 - [dietercoopman/laravel-showsql](https://github.com/dietercoopman/laravel-showsql) - A Laravel package to output a specific sql to your favourite debugging tool. The supported log output is Laravel Telescope, Laravel Log, Ray, Clockwork, Laravel Debugbar and your browser. (1 week ago)
 - [infureal/artisan-gui](https://github.com/infureal/artisan-gui) - Simple but yet powerful library for running almost all artisan commands. (1 week ago)
-- [CrestApps/laravel-code-generator](https://github.com/CrestApps/laravel-code-generator) - An intelligent code generator for Laravel framework that will save you time! This awesome tool will help you generate resources like views, controllers, routes, migrations, languages and/or form-requests! It is extremely flexible and customizable to cover many of the use cases. It is shipped with cross-browsers compatible template, along with a client-side validation to modernize your application. (1 week ago)
-- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) - A code generation tool for Laravel developers. (1 week ago)
-- [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar) - Laravel Livewire component to show Events in a good looking monthly calendar (1 week ago)
-- [filamentphp/filament](https://github.com/filamentphp/filament) - Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans. (2 weeks ago)
+- [CrestApps/laravel-code-generator](https://github.com/CrestApps/laravel-code-generator) - An intelligent code generator for Laravel framework that will save you time! This awesome tool will help you generate resources like views, controllers, routes, migrations, languages and/or form-requests! It is extremely flexible and customizable to cover many of the use cases. It is shipped with cross-browsers compatible template, along with a client-side validation to modernize your application. (2 weeks ago)
+- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) - A code generation tool for Laravel developers. (2 weeks ago)
+- [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar) - Laravel Livewire component to show Events in a good looking monthly calendar (2 weeks ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans. (3 weeks ago)
 - [sudoaugustin/vslook](https://github.com/sudoaugustin/vslook) - Easiest way to create vscode theme. (3 weeks ago)
-- [BinarCode/laravel-mailator](https://github.com/BinarCode/laravel-mailator) - Email scheduler for Laravel (4 weeks ago)
+- [BinarCode/laravel-mailator](https://github.com/BinarCode/laravel-mailator) - Email scheduler for Laravel (1 month ago)
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers. (1 month ago)
 - [AnderUR/Employee-Scheduling-System](https://github.com/AnderUR/Employee-Scheduling-System) - A scheduling application for keeping track of employees&#39; arrival time and hours worked. (1 month ago)
