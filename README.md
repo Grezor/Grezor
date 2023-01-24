@@ -2,8 +2,8 @@
 
 - [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (1 week ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (1 week ago)
-- [Grezor/Multi-step-form_FrontendMentor](https://github.com/Grezor/Multi-step-form_FrontendMentor) - Challenge Frontend Mentor (1 week ago)
-- [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind (4 weeks ago)
+- [Grezor/Multi-step-form_FrontendMentor](https://github.com/Grezor/Multi-step-form_FrontendMentor) - Challenge Frontend Mentor (2 weeks ago)
+- [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind (1 month ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
 
 #### 🌱 My latest projects
@@ -28,9 +28,9 @@
 
 #### ⭐ Recent Stars
 
-- [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) -  (1 week ago)
-- [dietercoopman/laravel-showsql](https://github.com/dietercoopman/laravel-showsql) - A Laravel package to output a specific sql to your favourite debugging tool. The supported log output is Laravel Telescope, Laravel Log, Ray, Clockwork, Laravel Debugbar and your browser. (4 weeks ago)
-- [infureal/artisan-gui](https://github.com/infureal/artisan-gui) - Simple but yet powerful library for running almost all artisan commands. (4 weeks ago)
+- [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) -  (2 weeks ago)
+- [dietercoopman/laravel-showsql](https://github.com/dietercoopman/laravel-showsql) - A Laravel package to output a specific sql to your favourite debugging tool. The supported log output is Laravel Telescope, Laravel Log, Ray, Clockwork, Laravel Debugbar and your browser. (1 month ago)
+- [infureal/artisan-gui](https://github.com/infureal/artisan-gui) - Simple but yet powerful library for running almost all artisan commands. (1 month ago)
 - [CrestApps/laravel-code-generator](https://github.com/CrestApps/laravel-code-generator) - An intelligent code generator for Laravel framework that will save you time! This awesome tool will help you generate resources like views, controllers, routes, migrations, languages and/or form-requests! It is extremely flexible and customizable to cover many of the use cases. It is shipped with cross-browsers compatible template, along with a client-side validation to modernize your application. (1 month ago)
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) - A code generation tool for Laravel developers. (1 month ago)
 - [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar) - Laravel Livewire component to show Events in a good looking monthly calendar (1 month ago)
