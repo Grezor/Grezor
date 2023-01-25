@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (today)
 - [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (1 week ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (1 week ago)
 - [Grezor/Multi-step-form_FrontendMentor](https://github.com/Grezor/Multi-step-form_FrontendMentor) - Challenge Frontend Mentor (2 weeks ago)
 - [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind (1 month ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
 
 #### 🌱 My latest projects
 
