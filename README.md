@@ -37,4 +37,4 @@
 - [filamentphp/filament](https://github.com/filamentphp/filament) - Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans. (1 month ago)
 - [sudoaugustin/vslook](https://github.com/sudoaugustin/vslook) - Easiest way to create vscode theme. (1 month ago)
 - [BinarCode/laravel-mailator](https://github.com/BinarCode/laravel-mailator) - Email scheduler for Laravel (1 month ago)
-- [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers. (1 month ago)
+- [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers. (2 months ago)
