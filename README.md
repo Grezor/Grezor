@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 days ago)
-- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (3 days ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 days ago)
+- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (4 days ago)
 - [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (2 weeks ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (2 weeks ago)
 - [Grezor/Multi-step-form_FrontendMentor](https://github.com/Grezor/Multi-step-form_FrontendMentor) - Challenge Frontend Mentor (3 weeks ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Recent Stars
 
-- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output (4 days ago)
+- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output (5 days ago)
 - [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) -  (3 weeks ago)
 - [dietercoopman/laravel-showsql](https://github.com/dietercoopman/laravel-showsql) - A Laravel package to output a specific sql to your favourite debugging tool. The supported log output is Laravel Telescope, Laravel Log, Ray, Clockwork, Laravel Debugbar and your browser. (1 month ago)
 - [infureal/artisan-gui](https://github.com/infureal/artisan-gui) - Simple but yet powerful library for running almost all artisan commands. (1 month ago)
