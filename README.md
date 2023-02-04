@@ -1,8 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/IpAddress-Tracker](https://github.com/Grezor/IpAddress-Tracker) -  (today)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (5 days ago)
-- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (6 days ago)
+- [Grezor/IpAddress-Tracker](https://github.com/Grezor/IpAddress-Tracker) -  (1 day ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (6 days ago)
+- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (1 week ago)
 - [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (3 weeks ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (3 weeks ago)
 
@@ -17,7 +17,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [docs: add section mailhog](https://github.com/quentinsvn/barcodefinder/pull/2) on [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) (3 months ago)
-- [latest version phpmyadmin #298](https://github.com/leokhoa/laragon/pull/299) on [leokhoa/laragon](https://github.com/leokhoa/laragon) (10 months ago)
+- [latest version phpmyadmin #298](https://github.com/leokhoa/laragon/pull/299) on [leokhoa/laragon](https://github.com/leokhoa/laragon) (11 months ago)
 - [Develop](https://github.com/Grezor/symfony-book/pull/2) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (1 year ago)
 - [Merge Develop to main](https://github.com/Grezor/symfony-book/pull/1) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (1 year ago)
 
