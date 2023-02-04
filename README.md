@@ -1,14 +1,14 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/IpAddress-Tracker](https://github.com/Grezor/IpAddress-Tracker) -  (1 day ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (6 days ago)
 - [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (1 week ago)
 - [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (3 weeks ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (3 weeks ago)
+- [Grezor/Multi-step-form_FrontendMentor](https://github.com/Grezor/Multi-step-form_FrontendMentor) - Challenge Frontend Mentor (3 weeks ago)
 
 #### 🌱 My latest projects
 
-- [Grezor/IpAddress-Tracker](https://github.com/Grezor/IpAddress-Tracker) - 
+- [Grezor/VueJS-learning](https://github.com/Grezor/VueJS-learning) - 
 - [Grezor/Multi-step-form_FrontendMentor](https://github.com/Grezor/Multi-step-form_FrontendMentor) - Challenge Frontend Mentor
 - [Grezor/template-underconstruction](https://github.com/Grezor/template-underconstruction) - 
 - [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind
