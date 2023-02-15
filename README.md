@@ -36,5 +36,5 @@
 - [CrestApps/laravel-code-generator](https://github.com/CrestApps/laravel-code-generator) - An intelligent code generator for Laravel framework that will save you time! This awesome tool will help you generate resources like views, controllers, routes, migrations, languages and/or form-requests! It is extremely flexible and customizable to cover many of the use cases. It is shipped with cross-browsers compatible template, along with a client-side validation to modernize your application. (1 month ago)
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) - A code generation tool for Laravel developers. (1 month ago)
 - [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar) - Laravel Livewire component to show Events in a good looking monthly calendar (1 month ago)
-- [filamentphp/filament](https://github.com/filamentphp/filament) - Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans. (1 month ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans. (2 months ago)
 - [sudoaugustin/vslook](https://github.com/sudoaugustin/vslook) - Easiest way to create vscode theme. (2 months ago)
