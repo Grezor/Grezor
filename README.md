@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Project_API](https://github.com/Grezor/Project_API) - Exercice JSON (today)
 - [Grezor/API_2017](https://github.com/Grezor/API_2017) - api mobile android (today)
+- [Grezor/Project_API](https://github.com/Grezor/Project_API) - Exercice JSON (today)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (1 day ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 weeks ago)
 - [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (2 weeks ago)
