@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/API_2017](https://github.com/Grezor/API_2017) - api mobile android (today)
+- [Grezor/Project_API](https://github.com/Grezor/Project_API) - Exercice JSON (today)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (1 day ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 weeks ago)
 - [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (2 weeks ago)
-- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (1 month ago)
-- [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (1 month ago)
 
 #### 🌱 My latest projects
 
