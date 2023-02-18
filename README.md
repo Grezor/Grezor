@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/Choptaphoto](https://github.com/Grezor/Choptaphoto) - Projet 2 Efficom (today)
 - [Grezor/API_2017](https://github.com/Grezor/API_2017) - api mobile android (1 day ago)
 - [Grezor/Project_API](https://github.com/Grezor/Project_API) - Exercice JSON (1 day ago)
 - [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (2 days ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 weeks ago)
-- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (3 weeks ago)
 
 #### 🌱 My latest projects
 
-- [Grezor/VueJS-learning](https://github.com/Grezor/VueJS-learning) - 
 - [Grezor/Multi-step-form_FrontendMentor](https://github.com/Grezor/Multi-step-form_FrontendMentor) - Challenge Frontend Mentor
 - [Grezor/template-underconstruction](https://github.com/Grezor/template-underconstruction) - 
 - [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind
 - [Grezor/Testing-laravel-filament](https://github.com/Grezor/Testing-laravel-filament) - 
+- [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony
 
 #### 🔨 Latest Pull Requests I published
 
