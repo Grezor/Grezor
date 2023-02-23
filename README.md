@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (4 days ago)
-- [Grezor/Choptaphoto](https://github.com/Grezor/Choptaphoto) - Projet 2 Efficom (4 days ago)
-- [Grezor/Project_API](https://github.com/Grezor/Project_API) - Exercice JSON (5 days ago)
-- [Grezor/API_2017](https://github.com/Grezor/API_2017) - api mobile android (5 days ago)
-- [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (6 days ago)
+- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (5 days ago)
+- [Grezor/Choptaphoto](https://github.com/Grezor/Choptaphoto) - Projet 2 Efficom (5 days ago)
+- [Grezor/API_2017](https://github.com/Grezor/API_2017) - api mobile android (6 days ago)
+- [Grezor/Project_API](https://github.com/Grezor/Project_API) - Exercice JSON (6 days ago)
+- [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,13 +28,13 @@
 
 #### ⭐ Recent Stars
 
-- [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards. (1 day ago)
-- [Grezor/codeimage](https://github.com/Grezor/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (2 days ago)
-- [Grezor/bootstrap](https://github.com/Grezor/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (2 days ago)
+- [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards. (2 days ago)
+- [Grezor/codeimage](https://github.com/Grezor/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (3 days ago)
+- [Grezor/bootstrap](https://github.com/Grezor/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (3 days ago)
 - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (1 week ago)
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (2 weeks ago)
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output (3 weeks ago)
 - [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) -  (1 month ago)
-- [dietercoopman/laravel-showsql](https://github.com/dietercoopman/laravel-showsql) - A Laravel package to output a specific sql to your favourite debugging tool. The supported log output is Laravel Telescope, Laravel Log, Ray, Clockwork, Laravel Debugbar and your browser. (1 month ago)
-- [infureal/artisan-gui](https://github.com/infureal/artisan-gui) - Simple but yet powerful library for running almost all artisan commands. (1 month ago)
+- [dietercoopman/laravel-showsql](https://github.com/dietercoopman/laravel-showsql) - A Laravel package to output a specific sql to your favourite debugging tool. The supported log output is Laravel Telescope, Laravel Log, Ray, Clockwork, Laravel Debugbar and your browser. (2 months ago)
+- [infureal/artisan-gui](https://github.com/infureal/artisan-gui) - Simple but yet powerful library for running almost all artisan commands. (2 months ago)
 - [CrestApps/laravel-code-generator](https://github.com/CrestApps/laravel-code-generator) - An intelligent code generator for Laravel framework that will save you time! This awesome tool will help you generate resources like views, controllers, routes, migrations, languages and/or form-requests! It is extremely flexible and customizable to cover many of the use cases. It is shipped with cross-browsers compatible template, along with a client-side validation to modernize your application. (2 months ago)
