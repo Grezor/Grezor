@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/TailwindComponents](https://github.com/Grezor/TailwindComponents) - Tailwind Components project SF6 (today)
 - [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (1 day ago)
 - [Grezor/Choptaphoto](https://github.com/Grezor/Choptaphoto) - Projet 2 Efficom (1 week ago)
 - [Grezor/Project_API](https://github.com/Grezor/Project_API) - Exercice JSON (1 week ago)
 - [Grezor/API_2017](https://github.com/Grezor/API_2017) - api mobile android (1 week ago)
-- [Grezor/Dashboard-API](https://github.com/Grezor/Dashboard-API) - github dashboard, which displays issues, repository, pull request (1 week ago)
 
 #### 🌱 My latest projects
 
+- [Grezor/TailwindComponents](https://github.com/Grezor/TailwindComponents) - Tailwind Components project SF6
 - [Grezor/Multi-step-form_FrontendMentor](https://github.com/Grezor/Multi-step-form_FrontendMentor) - Challenge Frontend Mentor
 - [Grezor/template-underconstruction](https://github.com/Grezor/template-underconstruction) - 
 - [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind
 - [Grezor/Testing-laravel-filament](https://github.com/Grezor/Testing-laravel-filament) - 
-- [Grezor/symfony-book](https://github.com/Grezor/symfony-book) - The Fast Track - Official Symfony
 
 #### 🔨 Latest Pull Requests I published
 
