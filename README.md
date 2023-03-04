@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/TailwindComponents](https://github.com/Grezor/TailwindComponents) - Tailwind Components project SF6 (4 days ago)
+- [Grezor/challenge_frontendmentor](https://github.com/Grezor/challenge_frontendmentor) - https://www.frontendmentor.io/challenges (today)
 - [Grezor/Cercle-logo](https://github.com/Grezor/Cercle-logo) - Dégradé CSS de mon logo  (4 days ago)
+- [Grezor/TailwindComponents](https://github.com/Grezor/TailwindComponents) - Tailwind Components project SF6 (4 days ago)
 - [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (6 days ago)
 - [Grezor/Choptaphoto](https://github.com/Grezor/Choptaphoto) - Projet 2 Efficom (2 weeks ago)
-- [Grezor/Project_API](https://github.com/Grezor/Project_API) - Exercice JSON (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [Grezor/challenge_frontendmentor](https://github.com/Grezor/challenge_frontendmentor) - https://www.frontendmentor.io/challenges
 - [Grezor/TailwindComponents](https://github.com/Grezor/TailwindComponents) - Tailwind Components project SF6
 - [Grezor/Multi-step-form_FrontendMentor](https://github.com/Grezor/Multi-step-form_FrontendMentor) - Challenge Frontend Mentor
 - [Grezor/template-underconstruction](https://github.com/Grezor/template-underconstruction) - 
 - [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind
-- [Grezor/Testing-laravel-filament](https://github.com/Grezor/Testing-laravel-filament) - 
 
 #### 🔨 Latest Pull Requests I published
 
