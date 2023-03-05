@@ -1,9 +1,9 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor (today)
-- [Grezor/Cercle-logo](https://github.com/Grezor/Cercle-logo) - Dégradé CSS de mon logo  (4 days ago)
-- [Grezor/TailwindComponents](https://github.com/Grezor/TailwindComponents) - Tailwind Components project SF6 (4 days ago)
-- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (6 days ago)
+- [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor (1 day ago)
+- [Grezor/Cercle-logo](https://github.com/Grezor/Cercle-logo) - Dégradé CSS de mon logo  (5 days ago)
+- [Grezor/TailwindComponents](https://github.com/Grezor/TailwindComponents) - Tailwind Components project SF6 (5 days ago)
+- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (1 week ago)
 - [Grezor/Choptaphoto](https://github.com/Grezor/Choptaphoto) - Projet 2 Efficom (2 weeks ago)
 
 #### 🌱 My latest projects
