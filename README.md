@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/Flexbox-Simplified](https://github.com/Grezor/Flexbox-Simplified) -  (today)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (6 days ago)
 - [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor (2 weeks ago)
 - [Grezor/Cercle-logo](https://github.com/Grezor/Cercle-logo) - Dégradé CSS de mon logo  (3 weeks ago)
 - [Grezor/TailwindComponents](https://github.com/Grezor/TailwindComponents) - Tailwind Components project SF6 (3 weeks ago)
-- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [Grezor/Flexbox-Simplified](https://github.com/Grezor/Flexbox-Simplified) - 
 - [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor
 - [Grezor/TailwindComponents](https://github.com/Grezor/TailwindComponents) - Tailwind Components project SF6
 - [Grezor/Multi-step-form_FrontendMentor](https://github.com/Grezor/Multi-step-form_FrontendMentor) - Challenge Frontend Mentor
 - [Grezor/template-underconstruction](https://github.com/Grezor/template-underconstruction) - 
-- [Grezor/Laravel-Terminal-Termwind](https://github.com/Grezor/Laravel-Terminal-Termwind) - Your Artisan Commands With Termwind
 
 #### 🔨 Latest Pull Requests I published
 
