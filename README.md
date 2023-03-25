@@ -1,8 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Flexbox-Simplified](https://github.com/Grezor/Flexbox-Simplified) -  (today)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (6 days ago)
-- [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor (2 weeks ago)
+- [Grezor/Flexbox-Simplified](https://github.com/Grezor/Flexbox-Simplified) -  (1 day ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 week ago)
+- [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor (3 weeks ago)
 - [Grezor/Cercle-logo](https://github.com/Grezor/Cercle-logo) - Dégradé CSS de mon logo  (3 weeks ago)
 - [Grezor/TailwindComponents](https://github.com/Grezor/TailwindComponents) - Tailwind Components project SF6 (3 weeks ago)
 
@@ -28,7 +28,7 @@
 
 #### ⭐ Recent Stars
 
-- [LeBezout/clean-code-fr](https://github.com/LeBezout/clean-code-fr) - Vue d&#39;ensemble des principes de codage propre (3 weeks ago)
+- [LeBezout/clean-code-fr](https://github.com/LeBezout/clean-code-fr) - Vue d&#39;ensemble des principes de codage propre (4 weeks ago)
 - [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards. (1 month ago)
 - [Grezor/codeimage](https://github.com/Grezor/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (1 month ago)
 - [Grezor/bootstrap](https://github.com/Grezor/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (1 month ago)
@@ -36,5 +36,5 @@
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (1 month ago)
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output (1 month ago)
 - [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) -  (2 months ago)
-- [dietercoopman/laravel-showsql](https://github.com/dietercoopman/laravel-showsql) - A Laravel package to output a specific sql to your favourite debugging tool. The supported log output is Laravel Telescope, Laravel Log, Ray, Clockwork, Laravel Debugbar and your browser. (2 months ago)
-- [infureal/artisan-gui](https://github.com/infureal/artisan-gui) - Simple but yet powerful library for running almost all artisan commands. (2 months ago)
+- [dietercoopman/laravel-showsql](https://github.com/dietercoopman/laravel-showsql) - A Laravel package to output a specific sql to your favourite debugging tool. The supported log output is Laravel Telescope, Laravel Log, Ray, Clockwork, Laravel Debugbar and your browser. (3 months ago)
+- [infureal/artisan-gui](https://github.com/infureal/artisan-gui) - Simple but yet powerful library for running almost all artisan commands. (3 months ago)
