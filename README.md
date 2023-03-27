@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Flexbox-Simplified](https://github.com/Grezor/Flexbox-Simplified) -  (2 days ago)
+- [Grezor/Flexbox-Simplified](https://github.com/Grezor/Flexbox-Simplified) -  (3 days ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 week ago)
 - [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor (3 weeks ago)
 - [Grezor/Cercle-logo](https://github.com/Grezor/Cercle-logo) - Dégradé CSS de mon logo  (3 weeks ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Recent Stars
 
-- [LeBezout/clean-code-fr](https://github.com/LeBezout/clean-code-fr) - Vue d&#39;ensemble des principes de codage propre (4 weeks ago)
+- [LeBezout/clean-code-fr](https://github.com/LeBezout/clean-code-fr) - Vue d&#39;ensemble des principes de codage propre (1 month ago)
 - [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards. (1 month ago)
 - [Grezor/codeimage](https://github.com/Grezor/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (1 month ago)
 - [Grezor/bootstrap](https://github.com/Grezor/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (1 month ago)
