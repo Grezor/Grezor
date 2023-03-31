@@ -8,11 +8,11 @@
 
 #### 🌱 My latest projects
 
+- [Grezor/PHPForBeginners](https://github.com/Grezor/PHPForBeginners) - Laracast Tutorial
 - [Grezor/Flexbox-Simplified](https://github.com/Grezor/Flexbox-Simplified) - 
 - [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor
 - [Grezor/TailwindComponents](https://github.com/Grezor/TailwindComponents) - Tailwind Components project SF6
 - [Grezor/Multi-step-form_FrontendMentor](https://github.com/Grezor/Multi-step-form_FrontendMentor) - Challenge Frontend Mentor
-- [Grezor/template-underconstruction](https://github.com/Grezor/template-underconstruction) - 
 
 #### 🔨 Latest Pull Requests I published
 
