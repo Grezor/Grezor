@@ -2,7 +2,7 @@
 
 - [Grezor/Flexbox-Simplified](https://github.com/Grezor/Flexbox-Simplified) -  (1 week ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 weeks ago)
-- [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor (4 weeks ago)
+- [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor (1 month ago)
 - [Grezor/Cercle-logo](https://github.com/Grezor/Cercle-logo) - Dégradé CSS de mon logo  (1 month ago)
 - [Grezor/TailwindComponents](https://github.com/Grezor/TailwindComponents) - Tailwind Components project SF6 (1 month ago)
 
