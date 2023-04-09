@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/php-for-beginners](https://github.com/Grezor/php-for-beginners) - Laravel (1 day ago)
+- [Grezor/php-for-beginners](https://github.com/Grezor/php-for-beginners) - Laravel (today)
 - [Grezor/Flexbox-Simplified](https://github.com/Grezor/Flexbox-Simplified) -  (2 weeks ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 weeks ago)
 - [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor (1 month ago)
