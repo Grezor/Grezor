@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/php-for-beginners](https://github.com/Grezor/php-for-beginners) - Laravel (3 days ago)
+- [Grezor/php-for-beginners](https://github.com/Grezor/php-for-beginners) - Laravel (4 days ago)
 - [Grezor/Flexbox-Simplified](https://github.com/Grezor/Flexbox-Simplified) -  (2 weeks ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 weeks ago)
 - [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor (1 month ago)
@@ -16,14 +16,14 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: add section mailhog](https://github.com/quentinsvn/barcodefinder/pull/2) on [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) (5 months ago)
+- [docs: add section mailhog](https://github.com/quentinsvn/barcodefinder/pull/2) on [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) (6 months ago)
 - [latest version phpmyadmin #298](https://github.com/leokhoa/laragon/pull/299) on [leokhoa/laragon](https://github.com/leokhoa/laragon) (1 year ago)
 - [Develop](https://github.com/Grezor/symfony-book/pull/2) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (1 year ago)
 - [Merge Develop to main](https://github.com/Grezor/symfony-book/pull/1) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (1 year ago)
 
 #### 📓 Gists I wrote
 
-- [Memo_Prestashop_1.7.8.5 | docker-compose.yml](https://gist.github.com/eb78b378ed9f40780dc077b361ead337) (10 months ago)
+- [Memo_Prestashop_1.7.8.5 | docker-compose.yml](https://gist.github.com/eb78b378ed9f40780dc077b361ead337) (11 months ago)
 - [file config phpcs](https://gist.github.com/27d8a6056d2e171aed20c26699439861) (1 year ago)
 
 #### ⭐ Recent Stars
