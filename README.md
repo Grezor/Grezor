@@ -1,8 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (today)
-- [Grezor/php-for-beginners](https://github.com/Grezor/php-for-beginners) - Laravel (4 days ago)
-- [Grezor/Flexbox-Simplified](https://github.com/Grezor/Flexbox-Simplified) -  (2 weeks ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 day ago)
+- [Grezor/php-for-beginners](https://github.com/Grezor/php-for-beginners) - Laravel (5 days ago)
+- [Grezor/Flexbox-Simplified](https://github.com/Grezor/Flexbox-Simplified) -  (3 weeks ago)
 - [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor (1 month ago)
 - [Grezor/Cercle-logo](https://github.com/Grezor/Cercle-logo) - Dégradé CSS de mon logo  (1 month ago)
 
