@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/ChopTaPhoto_2020](https://github.com/Grezor/ChopTaPhoto_2020) - 🛒 [2019/2020] Creation of an e-commerce site for my bts exam. I had to integrate a connection service for the client as well as create the Choptaphoto database and implement the reservation of photo terminals / purchase of photo albums (2 days ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (6 days ago)
+- [Grezor/ChopTaPhoto_2020](https://github.com/Grezor/ChopTaPhoto_2020) - 🛒 [2019/2020] Creation of an e-commerce site for my bts exam. I had to integrate a connection service for the client as well as create the Choptaphoto database and implement the reservation of photo terminals / purchase of photo albums (3 days ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 week ago)
 - [Grezor/php-for-beginners](https://github.com/Grezor/php-for-beginners) - Laravel (1 week ago)
 - [Grezor/Flexbox-Simplified](https://github.com/Grezor/Flexbox-Simplified) -  (3 weeks ago)
 - [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor (1 month ago)
