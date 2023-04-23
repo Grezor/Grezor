@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/SpaceMan_v2](https://github.com/Grezor/SpaceMan_v2) -  (today)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (today)
 - [Grezor/ChopTaPhoto_2020](https://github.com/Grezor/ChopTaPhoto_2020) - 🛒 [2019/2020] Creation of an e-commerce site for my bts exam. I had to integrate a connection service for the client as well as create the Choptaphoto database and implement the reservation of photo terminals / purchase of photo albums (6 days ago)
 - [Grezor/php-for-beginners](https://github.com/Grezor/php-for-beginners) - Laravel (2 weeks ago)
 - [Grezor/Flexbox-Simplified](https://github.com/Grezor/Flexbox-Simplified) -  (1 month ago)
-- [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor (1 month ago)
 
 #### 🌱 My latest projects
 
+- [Grezor/SpaceMan_v2](https://github.com/Grezor/SpaceMan_v2) - 
 - [Grezor/php-for-beginners](https://github.com/Grezor/php-for-beginners) - Laravel
 - [Grezor/PHPForBeginners](https://github.com/Grezor/PHPForBeginners) - Laracast Tutorial
 - [Grezor/Flexbox-Simplified](https://github.com/Grezor/Flexbox-Simplified) - 
 - [Grezor/challenges_frontendmentor](https://github.com/Grezor/challenges_frontendmentor) - Challenges Frontend Mentor
-- [Grezor/TailwindComponents](https://github.com/Grezor/TailwindComponents) - Tailwind Components project SF6
 
 #### 🔨 Latest Pull Requests I published
 
