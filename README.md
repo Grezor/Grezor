@@ -1,8 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (1 day ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 days ago)
-- [Grezor/SpaceMan_v2](https://github.com/Grezor/SpaceMan_v2) -  (2 days ago)
+- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (2 days ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 days ago)
+- [Grezor/SpaceMan_v2](https://github.com/Grezor/SpaceMan_v2) -  (3 days ago)
 - [Grezor/ChopTaPhoto_2020](https://github.com/Grezor/ChopTaPhoto_2020) - 🛒 [2019/2020] Creation of an e-commerce site for my bts exam. I had to integrate a connection service for the client as well as create the Choptaphoto database and implement the reservation of photo terminals / purchase of photo albums (1 week ago)
 - [Grezor/php-for-beginners](https://github.com/Grezor/php-for-beginners) - Laravel (2 weeks ago)
 
@@ -28,7 +28,7 @@
 
 #### ⭐ Recent Stars
 
-- [LeBezout/clean-code-fr](https://github.com/LeBezout/clean-code-fr) - Vue d&#39;ensemble des principes de codage propre (1 month ago)
+- [LeBezout/clean-code-fr](https://github.com/LeBezout/clean-code-fr) - Vue d&#39;ensemble des principes de codage propre (2 months ago)
 - [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards. (2 months ago)
 - [Grezor/codeimage](https://github.com/Grezor/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (2 months ago)
 - [Grezor/bootstrap](https://github.com/Grezor/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (2 months ago)
