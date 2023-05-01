@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/construction](https://github.com/Grezor/construction) -  (3 days ago)
-- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (6 days ago)
+- [Grezor/construction](https://github.com/Grezor/construction) -  (4 days ago)
+- [Grezor/Portfolio_v2](https://github.com/Grezor/Portfolio_v2) - Portfolio sur Laravel 8 (1 week ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 week ago)
 - [Grezor/SpaceMan_v2](https://github.com/Grezor/SpaceMan_v2) -  (1 week ago)
-- [Grezor/ChopTaPhoto_2020](https://github.com/Grezor/ChopTaPhoto_2020) - 🛒 [2019/2020] Creation of an e-commerce site for my bts exam. I had to integrate a connection service for the client as well as create the Choptaphoto database and implement the reservation of photo terminals / purchase of photo albums (1 week ago)
+- [Grezor/ChopTaPhoto_2020](https://github.com/Grezor/ChopTaPhoto_2020) - 🛒 [2019/2020] Creation of an e-commerce site for my bts exam. I had to integrate a connection service for the client as well as create the Choptaphoto database and implement the reservation of photo terminals / purchase of photo albums (2 weeks ago)
 
 #### 🌱 My latest projects
 
