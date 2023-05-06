@@ -28,7 +28,7 @@
 
 #### ⭐ Recent Stars
 
-- [spatie/laravel-image-optimizer](https://github.com/spatie/laravel-image-optimizer) - Optimize images in your Laravel app (today)
+- [spatie/laravel-image-optimizer](https://github.com/spatie/laravel-image-optimizer) - Optimize images in your Laravel app (1 day ago)
 - [LeBezout/clean-code-fr](https://github.com/LeBezout/clean-code-fr) - Vue d&#39;ensemble des principes de codage propre (2 months ago)
 - [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards. (2 months ago)
 - [Grezor/codeimage](https://github.com/Grezor/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (2 months ago)
