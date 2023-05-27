@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/construction](https://github.com/Grezor/construction) -  (4 weeks ago)
+- [Grezor/construction](https://github.com/Grezor/construction) -  (1 month ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
 - [Grezor/SpaceMan_v2](https://github.com/Grezor/SpaceMan_v2) -  (1 month ago)
 - [Grezor/ChopTaPhoto_2020](https://github.com/Grezor/ChopTaPhoto_2020) - 🛒 [2019/2020] Creation of an e-commerce site for my bts exam. I had to integrate a connection service for the client as well as create the Choptaphoto database and implement the reservation of photo terminals / purchase of photo albums (1 month ago)
@@ -35,6 +35,6 @@
 - [Grezor/bootstrap](https://github.com/Grezor/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (3 months ago)
 - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (3 months ago)
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (3 months ago)
-- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output (3 months ago)
+- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output (4 months ago)
 - [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) -  (4 months ago)
 - [dietercoopman/laravel-showsql](https://github.com/dietercoopman/laravel-showsql) - A Laravel package to output a specific sql to your favourite debugging tool. The supported log output is Laravel Telescope, Laravel Log, Ray, Clockwork, Laravel Debugbar and your browser. (5 months ago)
