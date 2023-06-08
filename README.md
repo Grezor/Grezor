@@ -4,7 +4,7 @@
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
 - [Grezor/SpaceMan_v2](https://github.com/Grezor/SpaceMan_v2) -  (1 month ago)
 - [Grezor/ChopTaPhoto_2020](https://github.com/Grezor/ChopTaPhoto_2020) - 🛒 [2019/2020] Creation of an e-commerce site for my bts exam. I had to integrate a connection service for the client as well as create the Choptaphoto database and implement the reservation of photo terminals / purchase of photo albums (1 month ago)
-- [Grezor/php-for-beginners](https://github.com/Grezor/php-for-beginners) - Laravel (1 month ago)
+- [Grezor/php-for-beginners](https://github.com/Grezor/php-for-beginners) - Laravel (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### ⭐ Recent Stars
 
-- [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design (1 day ago)
+- [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design (2 days ago)
 - [spatie/laravel-image-optimizer](https://github.com/spatie/laravel-image-optimizer) - Optimize images in your Laravel app (1 month ago)
 - [LeBezout/clean-code-fr](https://github.com/LeBezout/clean-code-fr) - Vue d&#39;ensemble des principes de codage propre (3 months ago)
 - [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards. (3 months ago)
