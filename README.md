@@ -28,7 +28,7 @@
 
 #### ⭐ Recent Stars
 
-- [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design (2 days ago)
+- [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design (3 days ago)
 - [spatie/laravel-image-optimizer](https://github.com/spatie/laravel-image-optimizer) - Optimize images in your Laravel app (1 month ago)
 - [LeBezout/clean-code-fr](https://github.com/LeBezout/clean-code-fr) - Vue d&#39;ensemble des principes de codage propre (3 months ago)
 - [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards. (3 months ago)
@@ -37,4 +37,4 @@
 - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (3 months ago)
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (4 months ago)
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output (4 months ago)
-- [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) -  (4 months ago)
+- [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) -  (5 months ago)
