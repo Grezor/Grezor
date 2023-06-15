@@ -34,7 +34,7 @@
 - [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards. (3 months ago)
 - [Grezor/codeimage](https://github.com/Grezor/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (3 months ago)
 - [Grezor/bootstrap](https://github.com/Grezor/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (3 months ago)
-- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (3 months ago)
+- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (4 months ago)
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (4 months ago)
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output (4 months ago)
 - [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) -  (5 months ago)
