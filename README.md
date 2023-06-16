@@ -3,7 +3,7 @@
 - [Grezor/construction](https://github.com/Grezor/construction) -  (1 month ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
 - [Grezor/SpaceMan_v2](https://github.com/Grezor/SpaceMan_v2) -  (1 month ago)
-- [Grezor/ChopTaPhoto_2020](https://github.com/Grezor/ChopTaPhoto_2020) - 🛒 [2019/2020] Creation of an e-commerce site for my bts exam. I had to integrate a connection service for the client as well as create the Choptaphoto database and implement the reservation of photo terminals / purchase of photo albums (1 month ago)
+- [Grezor/ChopTaPhoto_2020](https://github.com/Grezor/ChopTaPhoto_2020) - 🛒 [2019/2020] Creation of an e-commerce site for my bts exam. I had to integrate a connection service for the client as well as create the Choptaphoto database and implement the reservation of photo terminals / purchase of photo albums (2 months ago)
 - [Grezor/php-for-beginners](https://github.com/Grezor/php-for-beginners) - Laravel (2 months ago)
 
 #### 🌱 My latest projects
