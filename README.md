@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/learn_Vue.js](https://github.com/Grezor/learn_Vue.js) -  (1 day ago)
+- [Grezor/learn_Vue.js](https://github.com/Grezor/learn_Vue.js) -  (2 days ago)
 - [Grezor/construction](https://github.com/Grezor/construction) -  (2 months ago)
 - [Grezor/SpaceMan_v2](https://github.com/Grezor/SpaceMan_v2) -  (2 months ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 months ago)
@@ -27,7 +27,7 @@
 
 #### ⭐ Recent Stars
 
-- [marcocesarato/php-conventional-changelog](https://github.com/marcocesarato/php-conventional-changelog) - A PHP tool built to generate a changelog from a project&#39;s commit messages and metadata following the conventionalcommits.org and automate versioning with semver.org. (6 days ago)
+- [marcocesarato/php-conventional-changelog](https://github.com/marcocesarato/php-conventional-changelog) - A PHP tool built to generate a changelog from a project&#39;s commit messages and metadata following the conventionalcommits.org and automate versioning with semver.org. (1 week ago)
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design (3 weeks ago)
 - [spatie/laravel-image-optimizer](https://github.com/spatie/laravel-image-optimizer) - Optimize images in your Laravel app (1 month ago)
 - [LeBezout/clean-code-fr](https://github.com/LeBezout/clean-code-fr) - Vue d&#39;ensemble des principes de codage propre (4 months ago)
