@@ -27,7 +27,7 @@
 
 #### ⭐ Recent Stars
 
-- [MrGlox/creative-lorem-theme](https://github.com/MrGlox/creative-lorem-theme) -  (today)
+- [MrGlox/creative-lorem-theme](https://github.com/MrGlox/creative-lorem-theme) -  (1 day ago)
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands. (1 week ago)
 - [marcocesarato/php-conventional-changelog](https://github.com/marcocesarato/php-conventional-changelog) - A PHP tool built to generate a changelog from a project&#39;s commit messages and metadata following the conventionalcommits.org and automate versioning with semver.org. (2 weeks ago)
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design (1 month ago)
