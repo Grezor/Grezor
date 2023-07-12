@@ -16,7 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: add section mailhog](https://github.com/quentinsvn/barcodefinder/pull/2) on [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) (8 months ago)
+- [docs: add section mailhog](https://github.com/quentinsvn/barcodefinder/pull/2) on [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) (9 months ago)
 - [latest version phpmyadmin #298](https://github.com/leokhoa/laragon/pull/299) on [leokhoa/laragon](https://github.com/leokhoa/laragon) (1 year ago)
 - [Develop](https://github.com/Grezor/symfony-book/pull/2) on [Grezor/symfony-book](https://github.com/Grezor/symfony-book) (1 year ago)
 
@@ -27,9 +27,9 @@
 
 #### ⭐ Recent Stars
 
-- [MrGlox/creative-lorem-theme](https://github.com/MrGlox/creative-lorem-theme) -  (1 day ago)
+- [MrGlox/creative-lorem-theme](https://github.com/MrGlox/creative-lorem-theme) -  (2 days ago)
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands. (1 week ago)
-- [marcocesarato/php-conventional-changelog](https://github.com/marcocesarato/php-conventional-changelog) - A PHP tool built to generate a changelog from a project&#39;s commit messages and metadata following the conventionalcommits.org and automate versioning with semver.org. (2 weeks ago)
+- [marcocesarato/php-conventional-changelog](https://github.com/marcocesarato/php-conventional-changelog) - A PHP tool built to generate a changelog from a project&#39;s commit messages and metadata following the conventionalcommits.org and automate versioning with semver.org. (3 weeks ago)
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design (1 month ago)
 - [spatie/laravel-image-optimizer](https://github.com/spatie/laravel-image-optimizer) - Optimize images in your Laravel app (2 months ago)
 - [LeBezout/clean-code-fr](https://github.com/LeBezout/clean-code-fr) - Vue d&#39;ensemble des principes de codage propre (4 months ago)
