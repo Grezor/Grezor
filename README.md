@@ -27,7 +27,7 @@
 
 #### ⭐ Recent Stars
 
-- [edelstone/tints-and-shades](https://github.com/edelstone/tints-and-shades) - 🌈 Display tints and shades of a given hex color in 10% increments. (today)
+- [edelstone/tints-and-shades](https://github.com/edelstone/tints-and-shades) - 🌈 Display tints and shades of a given hex color in 10% increments. (1 day ago)
 - [MrGlox/creative-lorem-theme](https://github.com/MrGlox/creative-lorem-theme) -  (1 week ago)
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands. (2 weeks ago)
 - [marcocesarato/php-conventional-changelog](https://github.com/marcocesarato/php-conventional-changelog) - A PHP tool built to generate a changelog from a project&#39;s commit messages and metadata following the conventionalcommits.org and automate versioning with semver.org. (3 weeks ago)
