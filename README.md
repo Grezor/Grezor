@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/construction](https://github.com/Grezor/construction) -  (1 day ago)
+- [Grezor/construction](https://github.com/Grezor/construction) -  (2 days ago)
 - [Grezor/learn_Vue.js](https://github.com/Grezor/learn_Vue.js) -  (3 weeks ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 months ago)
 - [Grezor/ChopTaPhoto_2020](https://github.com/Grezor/ChopTaPhoto_2020) - 🛒 [2019/2020] Creation of an e-commerce site for my bts exam. I had to integrate a connection service for the client as well as create the Choptaphoto database and implement the reservation of photo terminals / purchase of photo albums (3 months ago)
@@ -27,13 +27,13 @@
 
 #### ⭐ Recent Stars
 
-- [edelstone/tints-and-shades](https://github.com/edelstone/tints-and-shades) - 🌈 Display tints and shades of a given hex color in 10% increments. (2 days ago)
+- [edelstone/tints-and-shades](https://github.com/edelstone/tints-and-shades) - 🌈 Display tints and shades of a given hex color in 10% increments. (3 days ago)
 - [MrGlox/creative-lorem-theme](https://github.com/MrGlox/creative-lorem-theme) -  (1 week ago)
-- [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands. (2 weeks ago)
+- [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands. (3 weeks ago)
 - [marcocesarato/php-conventional-changelog](https://github.com/marcocesarato/php-conventional-changelog) - A PHP tool built to generate a changelog from a project&#39;s commit messages and metadata following the conventionalcommits.org and automate versioning with semver.org. (4 weeks ago)
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design (1 month ago)
 - [spatie/laravel-image-optimizer](https://github.com/spatie/laravel-image-optimizer) - Optimize images in your Laravel app (2 months ago)
 - [LeBezout/clean-code-fr](https://github.com/LeBezout/clean-code-fr) - Vue d&#39;ensemble des principes de codage propre (4 months ago)
 - [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards. (4 months ago)
-- [Grezor/codeimage](https://github.com/Grezor/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (4 months ago)
-- [Grezor/bootstrap](https://github.com/Grezor/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (4 months ago)
+- [Grezor/codeimage](https://github.com/Grezor/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (5 months ago)
+- [Grezor/bootstrap](https://github.com/Grezor/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (5 months ago)
