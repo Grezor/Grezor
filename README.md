@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
-- [edelstone/tints-and-shades](https://github.com/edelstone/tints-and-shades) - 🌈 Display tints and shades of a given hex color in 10% increments. (1 week ago)
-- [MrGlox/creative-lorem-theme](https://github.com/MrGlox/creative-lorem-theme) -  (2 weeks ago)
+- [edelstone/tints-and-shades](https://github.com/edelstone/tints-and-shades) - 🌈 Display tints and shades of a given hex color in 10% increments. (2 weeks ago)
+- [MrGlox/creative-lorem-theme](https://github.com/MrGlox/creative-lorem-theme) -  (3 weeks ago)
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands. (1 month ago)
 - [marcocesarato/php-conventional-changelog](https://github.com/marcocesarato/php-conventional-changelog) - A PHP tool built to generate a changelog from a project&#39;s commit messages and metadata following the conventionalcommits.org and automate versioning with semver.org. (1 month ago)
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design (1 month ago)
