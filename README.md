@@ -27,7 +27,6 @@
 
 #### ⭐ Recent Stars
 
-- [edelstone/tints-and-shades](https://github.com/edelstone/tints-and-shades) - 🌈 Display tints and shades of a given hex color in 10% increments. (2 weeks ago)
 - [MrGlox/creative-lorem-theme](https://github.com/MrGlox/creative-lorem-theme) -  (3 weeks ago)
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands. (1 month ago)
 - [marcocesarato/php-conventional-changelog](https://github.com/marcocesarato/php-conventional-changelog) - A PHP tool built to generate a changelog from a project&#39;s commit messages and metadata following the conventionalcommits.org and automate versioning with semver.org. (1 month ago)
@@ -37,3 +36,4 @@
 - [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards. (5 months ago)
 - [Grezor/codeimage](https://github.com/Grezor/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (5 months ago)
 - [Grezor/bootstrap](https://github.com/Grezor/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (5 months ago)
+- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (5 months ago)
