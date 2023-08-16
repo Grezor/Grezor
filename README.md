@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3 (6 days ago)
+- [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3 (1 week ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 week ago)
 - [Grezor/construction](https://github.com/Grezor/construction) -  (4 weeks ago)
 - [Grezor/learn_Vue.js](https://github.com/Grezor/learn_Vue.js) -  (1 month ago)
