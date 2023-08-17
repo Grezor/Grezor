@@ -1,9 +1,9 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/ (today)
+- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/ (1 day ago)
 - [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3 (1 week ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 week ago)
-- [Grezor/construction](https://github.com/Grezor/construction) -  (4 weeks ago)
+- [Grezor/construction](https://github.com/Grezor/construction) -  (1 month ago)
 - [Grezor/learn_Vue.js](https://github.com/Grezor/learn_Vue.js) -  (1 month ago)
 
 #### 🌱 My latest projects
