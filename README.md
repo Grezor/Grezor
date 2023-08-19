@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/ (2 days ago)
+- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/ (3 days ago)
 - [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3 (1 week ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 weeks ago)
 - [Grezor/construction](https://github.com/Grezor/construction) -  (1 month ago)
@@ -34,6 +34,6 @@
 - [spatie/laravel-image-optimizer](https://github.com/spatie/laravel-image-optimizer) - Optimize images in your Laravel app (3 months ago)
 - [LeBezout/clean-code-fr](https://github.com/LeBezout/clean-code-fr) - Vue d&#39;ensemble des principes de codage propre (5 months ago)
 - [chartello/chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards. (5 months ago)
-- [Grezor/codeimage](https://github.com/Grezor/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (5 months ago)
-- [Grezor/bootstrap](https://github.com/Grezor/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (5 months ago)
+- [Grezor/codeimage](https://github.com/Grezor/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (6 months ago)
+- [Grezor/bootstrap](https://github.com/Grezor/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (6 months ago)
 - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS (6 months ago)
