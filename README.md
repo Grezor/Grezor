@@ -27,7 +27,7 @@
 
 #### ⭐ Recent Stars
 
-- [livewire/tallstack.dev](https://github.com/livewire/tallstack.dev) - Web site describing the TALL Stack (today)
+- [livewire/tallstack.dev](https://github.com/livewire/tallstack.dev) - Web site describing the TALL Stack (1 day ago)
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP (2 weeks ago)
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands. (1 month ago)
 - [marcocesarato/php-conventional-changelog](https://github.com/marcocesarato/php-conventional-changelog) - A PHP tool built to generate a changelog from a project&#39;s commit messages and metadata following the conventionalcommits.org and automate versioning with semver.org. (2 months ago)
