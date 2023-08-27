@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - https://filamentphp.com/ (today)
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/ (1 week ago)
 - [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3 (2 weeks ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 weeks ago)
 - [Grezor/construction](https://github.com/Grezor/construction) -  (1 month ago)
-- [Grezor/learn_Vue.js](https://github.com/Grezor/learn_Vue.js) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - https://filamentphp.com/
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/
 - [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3
 - [Grezor/learn_Vue.js](https://github.com/Grezor/learn_Vue.js) - 
 - [Grezor/php-for-beginners](https://github.com/Grezor/php-for-beginners) - Laravel
-- [Grezor/PHPForBeginners](https://github.com/Grezor/PHPForBeginners) - Laracast Tutorial
 
 #### 🔨 Latest Pull Requests I published
 
