@@ -27,10 +27,10 @@
 
 #### ⭐ Recent Stars
 
-- [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (4 days ago)
+- [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (5 days ago)
 - [tighten/nova-google-analytics](https://github.com/tighten/nova-google-analytics) - Google Analytics integration with Laravel Nova (1 week ago)
 - [livewire/tallstack.dev](https://github.com/livewire/tallstack.dev) - Web site describing the TALL Stack (1 week ago)
-- [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP (3 weeks ago)
+- [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP (4 weeks ago)
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands. (2 months ago)
 - [marcocesarato/php-conventional-changelog](https://github.com/marcocesarato/php-conventional-changelog) - A PHP tool built to generate a changelog from a project&#39;s commit messages and metadata following the conventionalcommits.org and automate versioning with semver.org. (2 months ago)
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design (3 months ago)
