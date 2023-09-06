@@ -1,8 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - Project to learn filamentphp (1 week ago)
-- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/ (2 weeks ago)
-- [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3 (3 weeks ago)
+- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/ (3 weeks ago)
+- [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3 (4 weeks ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
 - [Grezor/construction](https://github.com/Grezor/construction) -  (1 month ago)
 
@@ -27,7 +27,7 @@
 
 #### ⭐ Recent Stars
 
-- [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (5 days ago)
+- [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (6 days ago)
 - [tighten/nova-google-analytics](https://github.com/tighten/nova-google-analytics) - Google Analytics integration with Laravel Nova (1 week ago)
 - [livewire/tallstack.dev](https://github.com/livewire/tallstack.dev) - Web site describing the TALL Stack (1 week ago)
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP (4 weeks ago)
