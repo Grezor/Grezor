@@ -27,7 +27,7 @@
 
 #### ⭐ Recent Stars
 
-- [binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application (3 days ago)
+- [binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application (4 days ago)
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (1 week ago)
 - [tighten/nova-google-analytics](https://github.com/tighten/nova-google-analytics) - Google Analytics integration with Laravel Nova (2 weeks ago)
 - [livewire/tallstack.dev](https://github.com/livewire/tallstack.dev) - Web site describing the TALL Stack (2 weeks ago)
