@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - Project to learn filamentphp (2 weeks ago)
-- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/ (3 weeks ago)
+- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/ (4 weeks ago)
 - [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3 (1 month ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
 - [Grezor/construction](https://github.com/Grezor/construction) -  (1 month ago)
@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
-- [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (today)
-- [binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application (4 days ago)
+- [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (1 day ago)
+- [binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application (5 days ago)
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (1 week ago)
 - [tighten/nova-google-analytics](https://github.com/tighten/nova-google-analytics) - Google Analytics integration with Laravel Nova (2 weeks ago)
 - [livewire/tallstack.dev](https://github.com/livewire/tallstack.dev) - Web site describing the TALL Stack (2 weeks ago)
