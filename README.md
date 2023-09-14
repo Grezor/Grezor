@@ -27,9 +27,9 @@
 
 #### ⭐ Recent Stars
 
-- [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (1 day ago)
-- [binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application (5 days ago)
-- [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (1 week ago)
+- [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (2 days ago)
+- [binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application (6 days ago)
+- [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (2 weeks ago)
 - [tighten/nova-google-analytics](https://github.com/tighten/nova-google-analytics) - Google Analytics integration with Laravel Nova (2 weeks ago)
 - [livewire/tallstack.dev](https://github.com/livewire/tallstack.dev) - Web site describing the TALL Stack (2 weeks ago)
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP (1 month ago)
