@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - Project to learn filamentphp (2 weeks ago)
-- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/ (4 weeks ago)
+- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/ (1 month ago)
 - [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3 (1 month ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
 - [Grezor/construction](https://github.com/Grezor/construction) -  (1 month ago)
@@ -27,12 +27,12 @@
 
 #### ⭐ Recent Stars
 
-- [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. (today)
-- [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (2 days ago)
-- [binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application (6 days ago)
+- [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. (1 day ago)
+- [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (3 days ago)
+- [binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application (1 week ago)
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (2 weeks ago)
 - [tighten/nova-google-analytics](https://github.com/tighten/nova-google-analytics) - Google Analytics integration with Laravel Nova (2 weeks ago)
-- [livewire/tallstack.dev](https://github.com/livewire/tallstack.dev) - Web site describing the TALL Stack (2 weeks ago)
+- [livewire/tallstack.dev](https://github.com/livewire/tallstack.dev) - Web site describing the TALL Stack (3 weeks ago)
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP (1 month ago)
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands. (2 months ago)
 - [marcocesarato/php-conventional-changelog](https://github.com/marcocesarato/php-conventional-changelog) - A PHP tool built to generate a changelog from a project&#39;s commit messages and metadata following the conventionalcommits.org and automate versioning with semver.org. (2 months ago)
