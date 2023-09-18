@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
-- [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. (3 days ago)
-- [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (5 days ago)
+- [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. (4 days ago)
+- [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (6 days ago)
 - [binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application (1 week ago)
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (2 weeks ago)
 - [tighten/nova-google-analytics](https://github.com/tighten/nova-google-analytics) - Google Analytics integration with Laravel Nova (3 weeks ago)
