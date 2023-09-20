@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
-- [Log1x/envoyer-deploy-commands](https://github.com/Log1x/envoyer-deploy-commands) - Simple deployment with Envoyer using Artisan (1 day ago)
-- [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. (5 days ago)
+- [Log1x/envoyer-deploy-commands](https://github.com/Log1x/envoyer-deploy-commands) - Simple deployment with Envoyer using Artisan (2 days ago)
+- [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. (6 days ago)
 - [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (1 week ago)
 - [binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application (1 week ago)
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (2 weeks ago)
