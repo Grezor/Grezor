@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
-- [thinkverse/laravel-vite-and-bootstrap](https://github.com/thinkverse/laravel-vite-and-bootstrap) - Source for the article - How to use Bootstrap with Laravel and Vite (today)
-- [Log1x/envoyer-deploy-commands](https://github.com/Log1x/envoyer-deploy-commands) - Simple deployment with Envoyer using Artisan (4 days ago)
+- [thinkverse/laravel-vite-and-bootstrap](https://github.com/thinkverse/laravel-vite-and-bootstrap) - Source for the article - How to use Bootstrap with Laravel and Vite (1 day ago)
+- [Log1x/envoyer-deploy-commands](https://github.com/Log1x/envoyer-deploy-commands) - Simple deployment with Envoyer using Artisan (5 days ago)
 - [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. (1 week ago)
 - [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (1 week ago)
 - [binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application (2 weeks ago)
