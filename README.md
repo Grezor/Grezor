@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/Vemos](https://github.com/Grezor/Vemos) - &#34;Site de Tests pour Laravel et Tailwind CSS&#34; (today)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (today)
 - [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - Project to learn filamentphp (3 weeks ago)
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/ (1 month ago)
 - [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3 (1 month ago)
-- [Grezor/construction](https://github.com/Grezor/construction) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [Grezor/Vemos](https://github.com/Grezor/Vemos) - &#34;Site de Tests pour Laravel et Tailwind CSS&#34;
 - [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - Project to learn filamentphp
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/
 - [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3
 - [Grezor/learn_Vue.js](https://github.com/Grezor/learn_Vue.js) - 
-- [Grezor/php-for-beginners](https://github.com/Grezor/php-for-beginners) - Laravel
 
 #### 🔨 Latest Pull Requests I published
 
