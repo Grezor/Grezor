@@ -1,9 +1,9 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (today)
 - [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - Project to learn filamentphp (3 weeks ago)
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/ (1 month ago)
 - [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3 (1 month ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
 - [Grezor/construction](https://github.com/Grezor/construction) -  (2 months ago)
 
 #### 🌱 My latest projects
@@ -27,6 +27,7 @@
 
 #### ⭐ Recent Stars
 
+- [egattor/project-1-of-5-assets](https://github.com/egattor/project-1-of-5-assets) -  (today)
 - [thinkverse/laravel-vite-and-bootstrap](https://github.com/thinkverse/laravel-vite-and-bootstrap) - Source for the article - How to use Bootstrap with Laravel and Vite (1 day ago)
 - [Log1x/envoyer-deploy-commands](https://github.com/Log1x/envoyer-deploy-commands) - Simple deployment with Envoyer using Artisan (5 days ago)
 - [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. (1 week ago)
@@ -36,4 +37,3 @@
 - [tighten/nova-google-analytics](https://github.com/tighten/nova-google-analytics) - Google Analytics integration with Laravel Nova (3 weeks ago)
 - [livewire/tallstack.dev](https://github.com/livewire/tallstack.dev) - Web site describing the TALL Stack (4 weeks ago)
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP (1 month ago)
-- [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands. (2 months ago)
