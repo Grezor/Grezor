@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Vemos](https://github.com/Grezor/Vemos) - &#34;Site de Tests pour Laravel et Tailwind CSS&#34; (3 days ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 days ago)
+- [Grezor/Vemos](https://github.com/Grezor/Vemos) - &#34;Site de Tests pour Laravel et Tailwind CSS&#34; (4 days ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (4 days ago)
 - [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - Project to learn filamentphp (1 month ago)
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/ (1 month ago)
 - [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3 (1 month ago)
@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
-- [egattor/project-1-of-5-assets](https://github.com/egattor/project-1-of-5-assets) -  (3 days ago)
-- [thinkverse/laravel-vite-and-bootstrap](https://github.com/thinkverse/laravel-vite-and-bootstrap) - Source for the article - How to use Bootstrap with Laravel and Vite (4 days ago)
+- [egattor/project-1-of-5-assets](https://github.com/egattor/project-1-of-5-assets) -  (4 days ago)
+- [thinkverse/laravel-vite-and-bootstrap](https://github.com/thinkverse/laravel-vite-and-bootstrap) - Source for the article - How to use Bootstrap with Laravel and Vite (5 days ago)
 - [Log1x/envoyer-deploy-commands](https://github.com/Log1x/envoyer-deploy-commands) - Simple deployment with Envoyer using Artisan (1 week ago)
 - [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. (1 week ago)
 - [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (2 weeks ago)
