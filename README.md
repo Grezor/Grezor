@@ -27,6 +27,7 @@
 
 #### ⭐ Recent Stars
 
+- [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js) - Simple and lightweight community contributed JavaScript SDK for Buy Me a Coffee REST API. 💻☕⚡ (today)
 - [egattor/project-1-of-5-assets](https://github.com/egattor/project-1-of-5-assets) -  (6 days ago)
 - [thinkverse/laravel-vite-and-bootstrap](https://github.com/thinkverse/laravel-vite-and-bootstrap) - Source for the article - How to use Bootstrap with Laravel and Vite (1 week ago)
 - [Log1x/envoyer-deploy-commands](https://github.com/Log1x/envoyer-deploy-commands) - Simple deployment with Envoyer using Artisan (1 week ago)
@@ -36,4 +37,3 @@
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (4 weeks ago)
 - [tighten/nova-google-analytics](https://github.com/tighten/nova-google-analytics) - Google Analytics integration with Laravel Nova (1 month ago)
 - [livewire/tallstack.dev](https://github.com/livewire/tallstack.dev) - Web site describing the TALL Stack (1 month ago)
-- [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP (1 month ago)
