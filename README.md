@@ -4,7 +4,7 @@
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 weeks ago)
 - [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - Project to learn filamentphp (1 month ago)
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://livewire.laravel.com/ (1 month ago)
-- [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3 (1 month ago)
+- [Grezor/offline-first-notes](https://github.com/Grezor/offline-first-notes) - Vuejs 3 (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -35,5 +35,5 @@
 - [Log1x/envoyer-deploy-commands](https://github.com/Log1x/envoyer-deploy-commands) - Simple deployment with Envoyer using Artisan (2 weeks ago)
 - [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. (3 weeks ago)
 - [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (3 weeks ago)
-- [binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application (4 weeks ago)
+- [binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application (1 month ago)
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (1 month ago)
