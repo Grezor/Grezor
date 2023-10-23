@@ -27,6 +27,7 @@
 
 #### ⭐ Recent Stars
 
+- [overtrue/laravel-follow](https://github.com/overtrue/laravel-follow) - :heart: This package helps you to add user based follow system to your model. (today)
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) - A beautiful error page for Laravel apps (3 weeks ago)
 - [blade-ui-kit/blade-ui-kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views. (3 weeks ago)
 - [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js) - Simple and lightweight community contributed JavaScript SDK for Buy Me a Coffee REST API. 💻☕⚡ (3 weeks ago)
@@ -36,4 +37,3 @@
 - [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. (1 month ago)
 - [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (1 month ago)
 - [binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application (1 month ago)
-- [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (1 month ago)
