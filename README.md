@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (1 day ago)
+- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (2 days ago)
 - [Grezor/Laraconvena](https://github.com/Grezor/Laraconvena) - Laravel / Bootstrap (1 week ago)
 - [Grezor/live-wire](https://github.com/Grezor/live-wire) - https://livewire.laravel.com/ (1 week ago)
 - [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10 (2 weeks ago)
@@ -16,7 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (1 day ago)
+- [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (2 days ago)
 - [docs: add section mailhog](https://github.com/quentinsvn/barcodefinder/pull/2) on [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) (1 year ago)
 
 #### 📓 Gists I wrote
