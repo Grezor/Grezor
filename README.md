@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) -  (today)
+- [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - starter kit Laravel 1O (today)
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (4 days ago)
 - [Grezor/Laraconvena](https://github.com/Grezor/Laraconvena) - Laravel / Bootstrap (1 week ago)
 - [Grezor/live-wire](https://github.com/Grezor/live-wire) - https://livewire.laravel.com/ (2 weeks ago)
@@ -8,7 +8,7 @@
 
 #### 🌱 My latest projects
 
-- [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - 
+- [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - starter kit Laravel 1O
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/
 - [Grezor/Laraconvena](https://github.com/Grezor/Laraconvena) - Laravel / Bootstrap
 - [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10
