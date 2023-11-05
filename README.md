@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - starter kit Laravel 1O (today)
-- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (4 days ago)
+- [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - starter kit Laravel 1O (1 day ago)
+- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (5 days ago)
 - [Grezor/Laraconvena](https://github.com/Grezor/Laraconvena) - Laravel / Bootstrap (1 week ago)
 - [Grezor/live-wire](https://github.com/Grezor/live-wire) - https://livewire.laravel.com/ (2 weeks ago)
 - [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10 (3 weeks ago)
@@ -16,9 +16,9 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [install jetstream, add verification mail](https://github.com/Grezor/LaravelFusionX/pull/2) on [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) (today)
-- [install tailwind](https://github.com/Grezor/LaravelFusionX/pull/1) on [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) (today)
-- [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (4 days ago)
+- [install jetstream, add verification mail](https://github.com/Grezor/LaravelFusionX/pull/2) on [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) (1 day ago)
+- [install tailwind](https://github.com/Grezor/LaravelFusionX/pull/1) on [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) (1 day ago)
+- [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (5 days ago)
 
 #### 📓 Gists I wrote
 
