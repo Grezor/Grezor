@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - starter kit Laravel 1O (6 days ago)
+- [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - starter kit Laravel 1O (1 week ago)
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (1 week ago)
 - [Grezor/Laraconvena](https://github.com/Grezor/Laraconvena) - Laravel / Bootstrap (2 weeks ago)
-- [Grezor/live-wire](https://github.com/Grezor/live-wire) - https://livewire.laravel.com/ (2 weeks ago)
-- [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10 (3 weeks ago)
+- [Grezor/live-wire](https://github.com/Grezor/live-wire) - https://livewire.laravel.com/ (3 weeks ago)
+- [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10 (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -16,8 +16,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [install jetstream, add verification mail](https://github.com/Grezor/LaravelFusionX/pull/2) on [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) (6 days ago)
-- [install tailwind](https://github.com/Grezor/LaravelFusionX/pull/1) on [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) (6 days ago)
+- [install jetstream, add verification mail](https://github.com/Grezor/LaravelFusionX/pull/2) on [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) (1 week ago)
+- [install tailwind](https://github.com/Grezor/LaravelFusionX/pull/1) on [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) (1 week ago)
 - [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (1 week ago)
 
 #### 📓 Gists I wrote
@@ -35,5 +35,5 @@
 - [thinkverse/laravel-vite-and-bootstrap](https://github.com/thinkverse/laravel-vite-and-bootstrap) - Source for the article - How to use Bootstrap with Laravel and Vite (1 month ago)
 - [Log1x/envoyer-deploy-commands](https://github.com/Log1x/envoyer-deploy-commands) - Simple deployment with Envoyer using Artisan (1 month ago)
 - [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. (1 month ago)
-- [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (1 month ago)
+- [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (2 months ago)
 - [binafy/laravel-user-monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application (2 months ago)
