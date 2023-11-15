@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (today)
 - [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - starter kit Laravel 1O (1 week ago)
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (2 weeks ago)
 - [Grezor/Laraconvena](https://github.com/Grezor/Laraconvena) - Laravel / Bootstrap (3 weeks ago)
 - [Grezor/live-wire](https://github.com/Grezor/live-wire) - https://livewire.laravel.com/ (3 weeks ago)
-- [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10 (1 month ago)
 
 #### 🌱 My latest projects
 
+- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) - 
 - [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - starter kit Laravel 1O
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/
 - [Grezor/Laraconvena](https://github.com/Grezor/Laraconvena) - Laravel / Bootstrap
 - [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10
-- [Grezor/Vemos](https://github.com/Grezor/Vemos) - &#34;Site de Tests pour Laravel et Tailwind CSS&#34;
 
 #### 🔨 Latest Pull Requests I published
 
