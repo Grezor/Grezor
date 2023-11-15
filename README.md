@@ -2,7 +2,7 @@
 
 - [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - starter kit Laravel 1O (1 week ago)
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (2 weeks ago)
-- [Grezor/Laraconvena](https://github.com/Grezor/Laraconvena) - Laravel / Bootstrap (2 weeks ago)
+- [Grezor/Laraconvena](https://github.com/Grezor/Laraconvena) - Laravel / Bootstrap (3 weeks ago)
 - [Grezor/live-wire](https://github.com/Grezor/live-wire) - https://livewire.laravel.com/ (3 weeks ago)
 - [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10 (1 month ago)
 
@@ -27,7 +27,7 @@
 
 #### ⭐ Recent Stars
 
-- [jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page) - A bookmarkable, searchable cheatsheet for Laravel&#39;s Artisan commands. (today)
+- [jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page) - A bookmarkable, searchable cheatsheet for Laravel&#39;s Artisan commands. (1 day ago)
 - [overtrue/laravel-follow](https://github.com/overtrue/laravel-follow) - :heart: This package helps you to add user based follow system to your model. (3 weeks ago)
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) - A beautiful error page for Laravel apps (1 month ago)
 - [blade-ui-kit/blade-ui-kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views. (1 month ago)
