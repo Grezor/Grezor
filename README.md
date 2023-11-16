@@ -27,6 +27,7 @@
 
 #### ⭐ Recent Stars
 
+- [razaqofficial/laravel-inspire](https://github.com/razaqofficial/laravel-inspire) - A simple laravel package that shows Inspirational quote on your console (today)
 - [jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page) - A bookmarkable, searchable cheatsheet for Laravel&#39;s Artisan commands. (2 days ago)
 - [overtrue/laravel-follow](https://github.com/overtrue/laravel-follow) - :heart: This package helps you to add user based follow system to your model. (3 weeks ago)
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) - A beautiful error page for Laravel apps (1 month ago)
@@ -36,4 +37,3 @@
 - [thinkverse/laravel-vite-and-bootstrap](https://github.com/thinkverse/laravel-vite-and-bootstrap) - Source for the article - How to use Bootstrap with Laravel and Vite (1 month ago)
 - [Log1x/envoyer-deploy-commands](https://github.com/Log1x/envoyer-deploy-commands) - Simple deployment with Envoyer using Artisan (1 month ago)
 - [Jorijn/laravel-security-checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to Enlightn Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. (2 months ago)
-- [laravel/envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP. (2 months ago)
