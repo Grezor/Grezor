@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (1 day ago)
+- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (2 days ago)
 - [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - starter kit Laravel 1O (1 week ago)
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (2 weeks ago)
 - [Grezor/Laraconvena](https://github.com/Grezor/Laraconvena) - Laravel / Bootstrap (3 weeks ago)
@@ -27,10 +27,10 @@
 
 #### ⭐ Recent Stars
 
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? &#43;1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites &amp; apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!  (today)
-- [caendesilva/laravel-blogkit](https://github.com/caendesilva/laravel-blogkit) - Kickstart the development of your Laravel Blog with this Starter Kit built Laravel 9, TailwindCSS, AlpineJS, and Livewire! (today)
-- [razaqofficial/laravel-inspire](https://github.com/razaqofficial/laravel-inspire) - A simple laravel package that shows Inspirational quote on your console (today)
-- [jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page) - A bookmarkable, searchable cheatsheet for Laravel&#39;s Artisan commands. (2 days ago)
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? &#43;1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites &amp; apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!  (1 day ago)
+- [caendesilva/laravel-blogkit](https://github.com/caendesilva/laravel-blogkit) - Kickstart the development of your Laravel Blog with this Starter Kit built Laravel 9, TailwindCSS, AlpineJS, and Livewire! (1 day ago)
+- [razaqofficial/laravel-inspire](https://github.com/razaqofficial/laravel-inspire) - A simple laravel package that shows Inspirational quote on your console (1 day ago)
+- [jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page) - A bookmarkable, searchable cheatsheet for Laravel&#39;s Artisan commands. (3 days ago)
 - [overtrue/laravel-follow](https://github.com/overtrue/laravel-follow) - :heart: This package helps you to add user based follow system to your model. (3 weeks ago)
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) - A beautiful error page for Laravel apps (1 month ago)
 - [blade-ui-kit/blade-ui-kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views. (1 month ago)
