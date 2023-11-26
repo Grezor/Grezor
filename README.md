@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 days ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 days ago)
 - [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (1 week ago)
 - [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - starter kit Laravel 1O (3 weeks ago)
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (3 weeks ago)
