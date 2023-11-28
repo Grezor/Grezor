@@ -1,9 +1,9 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (4 days ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (5 days ago)
 - [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (1 week ago)
 - [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - starter kit Laravel 1O (3 weeks ago)
-- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (3 weeks ago)
+- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (4 weeks ago)
 - [Grezor/Laraconvena](https://github.com/Grezor/Laraconvena) - Laravel / Bootstrap (1 month ago)
 
 #### 🌱 My latest projects
@@ -18,7 +18,7 @@
 
 - [install jetstream, add verification mail](https://github.com/Grezor/LaravelFusionX/pull/2) on [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) (3 weeks ago)
 - [install tailwind](https://github.com/Grezor/LaravelFusionX/pull/1) on [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) (3 weeks ago)
-- [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (3 weeks ago)
+- [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -31,9 +31,9 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? &#43;1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites &amp; apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!  (1 week ago)
 - [caendesilva/laravel-blogkit](https://github.com/caendesilva/laravel-blogkit) - Kickstart the development of your Laravel Blog with this Starter Kit built Laravel 9, TailwindCSS, AlpineJS, and Livewire! (1 week ago)
 - [razaqofficial/laravel-inspire](https://github.com/razaqofficial/laravel-inspire) - A simple laravel package that shows Inspirational quote on your console (1 week ago)
-- [jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page) - A bookmarkable, searchable cheatsheet for Laravel&#39;s Artisan commands. (1 week ago)
+- [jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page) - A bookmarkable, searchable cheatsheet for Laravel&#39;s Artisan commands. (2 weeks ago)
 - [overtrue/laravel-follow](https://github.com/overtrue/laravel-follow) - :heart: This package helps you to add user based follow system to your model. (1 month ago)
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) - A beautiful error page for Laravel apps (1 month ago)
 - [blade-ui-kit/blade-ui-kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views. (1 month ago)
-- [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js) - Simple and lightweight community contributed JavaScript SDK for Buy Me a Coffee REST API. 💻☕⚡ (1 month ago)
+- [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js) - Simple and lightweight community contributed JavaScript SDK for Buy Me a Coffee REST API. 💻☕⚡ (2 months ago)
 - [egattor/project-1-of-5-assets](https://github.com/egattor/project-1-of-5-assets) -  (2 months ago)
