@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 week ago)
-- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (2 weeks ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (today)
+- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (today)
+- [Grezor/Frontend-Mentor-Challenge](https://github.com/Grezor/Frontend-Mentor-Challenge) - Challenges Frontend Mentor (today)
 - [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - starter kit Laravel 1O (1 month ago)
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (1 month ago)
-- [Grezor/Laraconvena](https://github.com/Grezor/Laraconvena) - Laravel / Bootstrap (1 month ago)
 
 #### 🌱 My latest projects
 
