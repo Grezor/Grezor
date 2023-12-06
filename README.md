@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 days ago)
+- [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (today)
 - [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (2 days ago)
 - [Grezor/Frontend-Mentor-Challenge](https://github.com/Grezor/Frontend-Mentor-Challenge) - Challenges Frontend Mentor (2 days ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 days ago)
 - [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - starter kit Laravel 1O (1 month ago)
-- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (1 month ago)
 
 #### 🌱 My latest projects
 
