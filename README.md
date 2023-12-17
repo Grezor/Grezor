@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (today)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (1 week ago)
-- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (1 week ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 week ago)
 - [Grezor/Frontend-Mentor-Challenge](https://github.com/Grezor/Frontend-Mentor-Challenge) - Challenges Frontend Mentor (1 week ago)
 - [Grezor/LaravelFusionX](https://github.com/Grezor/LaravelFusionX) - starter kit Laravel 1O (1 month ago)
