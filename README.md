@@ -27,6 +27,7 @@
 
 #### ⭐ Recent Stars
 
+- [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (today)
 - [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes (1 month ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? &#43;1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites &amp; apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!  (1 month ago)
 - [caendesilva/laravel-blogkit](https://github.com/caendesilva/laravel-blogkit) - Kickstart the development of your Laravel Blog with this Starter Kit built Laravel 9, TailwindCSS, AlpineJS, and Livewire! (1 month ago)
@@ -36,4 +37,3 @@
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) - A beautiful error page for Laravel apps (2 months ago)
 - [blade-ui-kit/blade-ui-kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views. (2 months ago)
 - [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js) - Simple and lightweight community contributed JavaScript SDK for Buy Me a Coffee REST API. 💻☕⚡ (2 months ago)
-- [egattor/project-1-of-5-assets](https://github.com/egattor/project-1-of-5-assets) -  (2 months ago)
