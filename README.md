@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (3 days ago)
+- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (4 days ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (2 weeks ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 weeks ago)
 - [Grezor/Frontend-Mentor-Challenge](https://github.com/Grezor/Frontend-Mentor-Challenge) - Challenges Frontend Mentor (2 weeks ago)
@@ -27,7 +27,7 @@
 
 #### ⭐ Recent Stars
 
-- [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (2 days ago)
+- [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (3 days ago)
 - [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes (1 month ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? &#43;1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites &amp; apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!  (1 month ago)
 - [caendesilva/laravel-blogkit](https://github.com/caendesilva/laravel-blogkit) - Kickstart the development of your Laravel Blog with this Starter Kit built Laravel 9, TailwindCSS, AlpineJS, and Livewire! (1 month ago)
