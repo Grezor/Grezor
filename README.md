@@ -27,6 +27,7 @@
 
 #### ⭐ Recent Stars
 
+- [acdphp/laravel-schedule-police](https://github.com/acdphp/laravel-schedule-police) -  (today)
 - [remijouannet/graftorio2](https://github.com/remijouannet/graftorio2) - (fork of graftorio) factorio mod for creating grafana dashboard  (3 days ago)
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (1 week ago)
 - [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes (1 month ago)
@@ -36,4 +37,3 @@
 - [jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page) - A bookmarkable, searchable cheatsheet for Laravel&#39;s Artisan commands. (1 month ago)
 - [overtrue/laravel-follow](https://github.com/overtrue/laravel-follow) - :heart: This package helps you to add user based follow system to your model. (2 months ago)
 - [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) - A beautiful error page for Laravel apps (2 months ago)
-- [blade-ui-kit/blade-ui-kit](https://github.com/blade-ui-kit/blade-ui-kit) - A set of renderless components to utilise in your Laravel Blade views. (2 months ago)
