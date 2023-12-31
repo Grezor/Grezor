@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10 (2 days ago)
+- [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10 (today)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (5 days ago)
 - [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (2 weeks ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (3 weeks ago)
@@ -27,6 +27,7 @@
 
 #### ⭐ Recent Stars
 
+- [MrPunyapal/go-get-laravel](https://github.com/MrPunyapal/go-get-laravel) - Explore and contribute to the Laravel Best Practices Examples repository! A community-driven collection of real-world examples showcasing best practices for Laravel development. Elevate your coding standards, optimize performance, and build robust applications together. Fork, pull request, and level up your Laravel skills! (today)
 - [acdphp/laravel-schedule-police](https://github.com/acdphp/laravel-schedule-police) -  (5 days ago)
 - [remijouannet/graftorio2](https://github.com/remijouannet/graftorio2) - (fork of graftorio) factorio mod for creating grafana dashboard  (1 week ago)
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (1 week ago)
@@ -36,4 +37,3 @@
 - [razaqofficial/laravel-inspire](https://github.com/razaqofficial/laravel-inspire) - A simple laravel package that shows Inspirational quote on your console (1 month ago)
 - [jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page) - A bookmarkable, searchable cheatsheet for Laravel&#39;s Artisan commands. (1 month ago)
 - [overtrue/laravel-follow](https://github.com/overtrue/laravel-follow) - :heart: This package helps you to add user based follow system to your model. (2 months ago)
-- [spatie/laravel-ignition](https://github.com/spatie/laravel-ignition) - A beautiful error page for Laravel apps (3 months ago)
