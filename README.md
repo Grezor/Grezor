@@ -1,8 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10 (1 day ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (4 days ago)
-- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (1 week ago)
+- [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10 (2 days ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (5 days ago)
+- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (2 weeks ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (3 weeks ago)
 - [Grezor/Frontend-Mentor-Challenge](https://github.com/Grezor/Frontend-Mentor-Challenge) - Challenges Frontend Mentor (3 weeks ago)
 
@@ -27,7 +27,7 @@
 
 #### ⭐ Recent Stars
 
-- [acdphp/laravel-schedule-police](https://github.com/acdphp/laravel-schedule-police) -  (4 days ago)
+- [acdphp/laravel-schedule-police](https://github.com/acdphp/laravel-schedule-police) -  (5 days ago)
 - [remijouannet/graftorio2](https://github.com/remijouannet/graftorio2) - (fork of graftorio) factorio mod for creating grafana dashboard  (1 week ago)
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (1 week ago)
 - [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes (1 month ago)
