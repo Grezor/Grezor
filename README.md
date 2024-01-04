@@ -27,6 +27,7 @@
 
 #### ⭐ Recent Stars
 
+- [whitecube/laravel-cookie-consent](https://github.com/whitecube/laravel-cookie-consent) - Register, configure and ask for cookies consent in a EU-compliant way (today)
 - [MrPunyapal/go-get-laravel](https://github.com/MrPunyapal/go-get-laravel) - Explore and contribute to the Laravel Best Practices Examples repository! A community-driven collection of real-world examples showcasing best practices for Laravel development. Elevate your coding standards, optimize performance, and build robust applications together. Fork, pull request, and level up your Laravel skills! (4 days ago)
 - [acdphp/laravel-schedule-police](https://github.com/acdphp/laravel-schedule-police) -  (1 week ago)
 - [remijouannet/graftorio2](https://github.com/remijouannet/graftorio2) - (fork of graftorio) factorio mod for creating grafana dashboard  (1 week ago)
@@ -36,4 +37,3 @@
 - [caendesilva/laravel-blogkit](https://github.com/caendesilva/laravel-blogkit) - Kickstart the development of your Laravel Blog with this Starter Kit built Laravel 9, TailwindCSS, AlpineJS, and Livewire! (1 month ago)
 - [razaqofficial/laravel-inspire](https://github.com/razaqofficial/laravel-inspire) - A simple laravel package that shows Inspirational quote on your console (1 month ago)
 - [jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page) - A bookmarkable, searchable cheatsheet for Laravel&#39;s Artisan commands. (1 month ago)
-- [overtrue/laravel-follow](https://github.com/overtrue/laravel-follow) - :heart: This package helps you to add user based follow system to your model. (2 months ago)
