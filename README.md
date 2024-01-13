@@ -17,7 +17,6 @@
 #### 🔨 Latest Pull Requests I published
 
 - [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (2 months ago)
-- [docs: add section mailhog](https://github.com/quentinsvn/barcodefinder/pull/2) on [quentinsvn/barcodefinder](https://github.com/quentinsvn/barcodefinder) (1 year ago)
 
 #### 📓 Gists I wrote
 
