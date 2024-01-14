@@ -1,9 +1,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - Project to learn filamentphp (1 week ago)
-- [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10 (1 week ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 week ago)
-- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (3 weeks ago)
+- [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10 (2 weeks ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 weeks ago)
+- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (4 weeks ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (1 month ago)
 
 #### 🌱 My latest projects
@@ -25,11 +25,11 @@
 
 #### ⭐ Recent Stars
 
-- [hungthai1401/vulnerable](https://github.com/hungthai1401/vulnerable) - A Laravel Pulse card to show security vulnerability composer dependencies (today)
-- [maantje/pulse-php-fpm](https://github.com/maantje/pulse-php-fpm) - PHP FPM status card for Laravel Pulse (today)
+- [hungthai1401/vulnerable](https://github.com/hungthai1401/vulnerable) - A Laravel Pulse card to show security vulnerability composer dependencies (1 day ago)
+- [maantje/pulse-php-fpm](https://github.com/maantje/pulse-php-fpm) - PHP FPM status card for Laravel Pulse (1 day ago)
 - [PackagePages/package-pages-blog](https://github.com/PackagePages/package-pages-blog) - Our blog in code (1 week ago)
 - [whitecube/laravel-cookie-consent](https://github.com/whitecube/laravel-cookie-consent) - Register, configure and ask for cookies consent in a EU-compliant way (1 week ago)
-- [MrPunyapal/go-get-laravel](https://github.com/MrPunyapal/go-get-laravel) - Explore and contribute to the Laravel Best Practices Examples repository! A community-driven collection of real-world examples showcasing best practices for Laravel development. Elevate your coding standards, optimize performance, and build robust applications together. Fork, pull request, and level up your Laravel skills! (1 week ago)
+- [MrPunyapal/go-get-laravel](https://github.com/MrPunyapal/go-get-laravel) - Explore and contribute to the Laravel Best Practices Examples repository! A community-driven collection of real-world examples showcasing best practices for Laravel development. Elevate your coding standards, optimize performance, and build robust applications together. Fork, pull request, and level up your Laravel skills! (2 weeks ago)
 - [acdphp/laravel-schedule-police](https://github.com/acdphp/laravel-schedule-police) -  (2 weeks ago)
 - [remijouannet/graftorio2](https://github.com/remijouannet/graftorio2) - (fork of graftorio) factorio mod for creating grafana dashboard  (3 weeks ago)
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (3 weeks ago)
