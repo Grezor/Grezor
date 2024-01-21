@@ -1,16 +1,16 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/LaraKit](https://github.com/Grezor/LaraKit) - Larakit une trousse de démarrage personnalisée pour les projets Laravel, offrant des fonctionnalités éssentielles et des configurations préétablies pour un développement rapide et efficace (today)
 - [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - Project to learn filamentphp (2 weeks ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 weeks ago)
-- [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10 (3 weeks ago)
 - [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (1 month ago)
 - [Grezor/Weather-App](https://github.com/Grezor/Weather-App) - 🔆Creation of a weather application, REST API, Node.JS❄️Openweathermap site for weather api and mapbox locations (1 month ago)
 
 #### 🌱 My latest projects
 
+- [Grezor/LaraKit](https://github.com/Grezor/LaraKit) - Larakit une trousse de démarrage personnalisée pour les projets Laravel, offrant des fonctionnalités éssentielles et des configurations préétablies pour un développement rapide et efficace
 - [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) - 
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/
-- [Grezor/starterkit-laravel](https://github.com/Grezor/starterkit-laravel) - Laravel10
 - [Grezor/Vemos](https://github.com/Grezor/Vemos) - &#34;Site de Tests pour Laravel et Tailwind CSS&#34;
 - [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - Project to learn filamentphp
 
@@ -25,6 +25,7 @@
 
 #### ⭐ Recent Stars
 
+- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar) (today)
 - [hungthai1401/vulnerable](https://github.com/hungthai1401/vulnerable) - A Laravel Pulse card to show security vulnerability composer dependencies (1 week ago)
 - [maantje/pulse-php-fpm](https://github.com/maantje/pulse-php-fpm) - PHP FPM status card for Laravel Pulse (1 week ago)
 - [PackagePages/package-pages-blog](https://github.com/PackagePages/package-pages-blog) - Our blog in code (2 weeks ago)
@@ -34,4 +35,3 @@
 - [remijouannet/graftorio2](https://github.com/remijouannet/graftorio2) - (fork of graftorio) factorio mod for creating grafana dashboard  (4 weeks ago)
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (1 month ago)
 - [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes (2 months ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? &#43;1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites &amp; apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!  (2 months ago)
