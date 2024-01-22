@@ -25,6 +25,7 @@
 
 #### ⭐ Recent Stars
 
+- [kachidk/atlas](https://github.com/kachidk/atlas) - Atlas: A React (Typescript), Laravel, Tailwind &amp; Inertia starter kit. (Jetstream alternative) (today)
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar) (1 day ago)
 - [hungthai1401/vulnerable](https://github.com/hungthai1401/vulnerable) - A Laravel Pulse card to show security vulnerability composer dependencies (1 week ago)
 - [maantje/pulse-php-fpm](https://github.com/maantje/pulse-php-fpm) - PHP FPM status card for Laravel Pulse (1 week ago)
@@ -34,4 +35,3 @@
 - [acdphp/laravel-schedule-police](https://github.com/acdphp/laravel-schedule-police) -  (3 weeks ago)
 - [remijouannet/graftorio2](https://github.com/remijouannet/graftorio2) - (fork of graftorio) factorio mod for creating grafana dashboard  (1 month ago)
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (1 month ago)
-- [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes (2 months ago)
