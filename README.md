@@ -27,8 +27,8 @@
 
 - [kachidk/atlas](https://github.com/kachidk/atlas) - Atlas: A React (Typescript), Laravel, Tailwind &amp; Inertia starter kit. (Jetstream alternative) (2 weeks ago)
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar) (2 weeks ago)
-- [hungthai1401/vulnerable](https://github.com/hungthai1401/vulnerable) - A Laravel Pulse card to show security vulnerability composer dependencies (3 weeks ago)
-- [maantje/pulse-php-fpm](https://github.com/maantje/pulse-php-fpm) - PHP FPM status card for Laravel Pulse (3 weeks ago)
+- [hungthai1401/vulnerable](https://github.com/hungthai1401/vulnerable) - A Laravel Pulse card to show security vulnerability composer dependencies (4 weeks ago)
+- [maantje/pulse-php-fpm](https://github.com/maantje/pulse-php-fpm) - PHP FPM status card for Laravel Pulse (4 weeks ago)
 - [PackagePages/package-pages-blog](https://github.com/PackagePages/package-pages-blog) - Our blog in code (1 month ago)
 - [whitecube/laravel-cookie-consent](https://github.com/whitecube/laravel-cookie-consent) - Register, configure and ask for cookies consent in a EU-compliant way (1 month ago)
 - [MrPunyapal/go-get-laravel](https://github.com/MrPunyapal/go-get-laravel) - Explore and contribute to the Laravel Best Practices Examples repository! A community-driven collection of real-world examples showcasing best practices for Laravel development. Elevate your coding standards, optimize performance, and build robust applications together. Fork, pull request, and level up your Laravel skills! (1 month ago)
