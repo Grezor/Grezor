@@ -26,6 +26,7 @@
 
 #### ⭐ Recent Stars
 
+- [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away (today)
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (3 days ago)
 - [kachidk/atlas](https://github.com/kachidk/atlas) - Atlas: A React (Typescript), Laravel, Tailwind &amp; Inertia starter kit. (Jetstream alternative) (4 weeks ago)
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar) (4 weeks ago)
@@ -35,4 +36,3 @@
 - [whitecube/laravel-cookie-consent](https://github.com/whitecube/laravel-cookie-consent) - Register, configure and ask for cookies consent in a EU-compliant way (1 month ago)
 - [MrPunyapal/go-get-laravel](https://github.com/MrPunyapal/go-get-laravel) - Explore and contribute to the Laravel Best Practices Examples repository! A community-driven collection of real-world examples showcasing best practices for Laravel development. Elevate your coding standards, optimize performance, and build robust applications together. Fork, pull request, and level up your Laravel skills! (1 month ago)
 - [acdphp/laravel-schedule-police](https://github.com/acdphp/laravel-schedule-police) -  (1 month ago)
-- [remijouannet/graftorio2](https://github.com/remijouannet/graftorio2) - (fork of graftorio) factorio mod for creating grafana dashboard  (1 month ago)
