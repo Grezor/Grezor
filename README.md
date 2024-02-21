@@ -16,7 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [[10.x] add apache configuration in deployment](https://github.com/laravel/docs/pull/9349) on [laravel/docs](https://github.com/laravel/docs) (4 days ago)
+- [[10.x] add apache configuration in deployment](https://github.com/laravel/docs/pull/9349) on [laravel/docs](https://github.com/laravel/docs) (5 days ago)
 - [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (3 months ago)
 
 #### 📓 Gists I wrote
@@ -26,10 +26,10 @@
 
 #### ⭐ Recent Stars
 
-- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 10.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher (today)
-- [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away (1 day ago)
-- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (4 days ago)
-- [kachidk/atlas](https://github.com/kachidk/atlas) - Atlas: A React (Typescript), Laravel, Tailwind &amp; Inertia starter kit. (Jetstream alternative) (4 weeks ago)
+- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 10.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher (1 day ago)
+- [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away (2 days ago)
+- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (5 days ago)
+- [kachidk/atlas](https://github.com/kachidk/atlas) - Atlas: A React (Typescript), Laravel, Tailwind &amp; Inertia starter kit. (Jetstream alternative) (1 month ago)
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar) (1 month ago)
 - [hungthai1401/vulnerable](https://github.com/hungthai1401/vulnerable) - A Laravel Pulse card to show security vulnerability composer dependencies (1 month ago)
 - [maantje/pulse-php-fpm](https://github.com/maantje/pulse-php-fpm) - PHP FPM status card for Laravel Pulse (1 month ago)
