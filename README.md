@@ -3,7 +3,7 @@
 - [Grezor/Learn-vue3](https://github.com/Grezor/Learn-vue3) -  (2 weeks ago)
 - [Grezor/LaraKit](https://github.com/Grezor/LaraKit) - Larakit une trousse de démarrage personnalisée pour les projets Laravel, offrant des fonctionnalités éssentielles et des configurations préétablies pour un développement rapide et efficace (1 month ago)
 - [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - Project to learn filamentphp (1 month ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 months ago)
 - [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (2 months ago)
 
 #### 🌱 My latest projects
@@ -35,4 +35,4 @@
 - [maantje/pulse-php-fpm](https://github.com/maantje/pulse-php-fpm) - PHP FPM status card for Laravel Pulse (1 month ago)
 - [PackagePages/package-pages-blog](https://github.com/PackagePages/package-pages-blog) - Our blog in code (1 month ago)
 - [whitecube/laravel-cookie-consent](https://github.com/whitecube/laravel-cookie-consent) - Register, configure and ask for cookies consent in a EU-compliant way (1 month ago)
-- [MrPunyapal/go-get-laravel](https://github.com/MrPunyapal/go-get-laravel) - Explore and contribute to the Laravel Best Practices Examples repository! A community-driven collection of real-world examples showcasing best practices for Laravel development. Elevate your coding standards, optimize performance, and build robust applications together. Fork, pull request, and level up your Laravel skills! (1 month ago)
+- [MrPunyapal/go-get-laravel](https://github.com/MrPunyapal/go-get-laravel) - Explore and contribute to the Laravel Best Practices Examples repository! A community-driven collection of real-world examples showcasing best practices for Laravel development. Elevate your coding standards, optimize performance, and build robust applications together. Fork, pull request, and level up your Laravel skills! (2 months ago)
