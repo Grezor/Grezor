@@ -26,6 +26,7 @@
 
 #### ⭐ Recent Stars
 
+- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers (today)
 - [TommieeN/country-flags-api](https://github.com/TommieeN/country-flags-api) - Full stack app for the frontend mentor challenge. Filter and search country flags from an api and learn more details about the selected country. (today)
 - [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 10.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher (1 week ago)
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away (1 week ago)
@@ -35,4 +36,3 @@
 - [hungthai1401/vulnerable](https://github.com/hungthai1401/vulnerable) - A Laravel Pulse card to show security vulnerability composer dependencies (1 month ago)
 - [maantje/pulse-php-fpm](https://github.com/maantje/pulse-php-fpm) - PHP FPM status card for Laravel Pulse (1 month ago)
 - [PackagePages/package-pages-blog](https://github.com/PackagePages/package-pages-blog) - Our blog in code (1 month ago)
-- [whitecube/laravel-cookie-consent](https://github.com/whitecube/laravel-cookie-consent) - Register, configure and ask for cookies consent in a EU-compliant way (1 month ago)
