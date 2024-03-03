@@ -26,8 +26,8 @@
 
 #### ⭐ Recent Stars
 
-- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers (1 day ago)
-- [TommieeN/country-flags-api](https://github.com/TommieeN/country-flags-api) - Full stack app for the frontend mentor challenge. Filter and search country flags from an api and learn more details about the selected country. (1 day ago)
+- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers (2 days ago)
+- [TommieeN/country-flags-api](https://github.com/TommieeN/country-flags-api) - Full stack app for the frontend mentor challenge. Filter and search country flags from an api and learn more details about the selected country. (2 days ago)
 - [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 10.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher (1 week ago)
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away (1 week ago)
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (2 weeks ago)
