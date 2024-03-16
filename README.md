@@ -4,7 +4,7 @@
 - [Grezor/LaraKit](https://github.com/Grezor/LaraKit) - Larakit une trousse de démarrage personnalisée pour les projets Laravel, offrant des fonctionnalités éssentielles et des configurations préétablies pour un développement rapide et efficace (1 month ago)
 - [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - Project to learn filamentphp (2 months ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 months ago)
-- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (2 months ago)
+- [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) -  (3 months ago)
 
 #### 🌱 My latest projects
 
