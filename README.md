@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/LaraTranslatio](https://github.com/Grezor/LaraTranslatio) -  (4 days ago)
+- [Grezor/LaraTranslatio](https://github.com/Grezor/LaraTranslatio) -  (5 days ago)
 - [Grezor/Learn-vue3](https://github.com/Grezor/Learn-vue3) -  (1 month ago)
 - [Grezor/LaraKit](https://github.com/Grezor/LaraKit) - Larakit une trousse de démarrage personnalisée pour les projets Laravel, offrant des fonctionnalités éssentielles et des configurations préétablies pour un développement rapide et efficace (2 months ago)
 - [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - Project to learn filamentphp (3 months ago)
