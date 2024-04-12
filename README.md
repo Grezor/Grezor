@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (2 days ago)
+- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (3 days ago)
 - [Grezor/LaraTranslatio](https://github.com/Grezor/LaraTranslatio) - This repository is dedicated to multilingual learning  (1 week ago)
 - [Grezor/Learn-vue3](https://github.com/Grezor/Learn-vue3) -  (2 months ago)
 - [Grezor/LaraKit](https://github.com/Grezor/LaraKit) - Larakit une trousse de démarrage personnalisée pour les projets Laravel, offrant des fonctionnalités éssentielles et des configurations préétablies pour un développement rapide et efficace (2 months ago)
@@ -35,4 +35,4 @@
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (1 month ago)
 - [kachidk/atlas](https://github.com/kachidk/atlas) - Atlas: A React (Typescript), Laravel, Tailwind &amp; Inertia starter kit. (Jetstream alternative) (2 months ago)
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar) (2 months ago)
-- [hungthai1401/vulnerable](https://github.com/hungthai1401/vulnerable) - A Laravel Pulse card to show security vulnerability composer dependencies (2 months ago)
+- [hungthai1401/vulnerable](https://github.com/hungthai1401/vulnerable) - A Laravel Pulse card to show security vulnerability composer dependencies (3 months ago)
