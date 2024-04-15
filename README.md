@@ -1,8 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/duplessigeoffrey.fr](https://github.com/Grezor/duplessigeoffrey.fr) -  (2 days ago)
-- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (5 days ago)
-- [Grezor/LaraTranslatio](https://github.com/Grezor/LaraTranslatio) - This repository is dedicated to multilingual learning  (1 week ago)
+- [Grezor/duplessigeoffrey.fr](https://github.com/Grezor/duplessigeoffrey.fr) -  (3 days ago)
+- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (6 days ago)
+- [Grezor/LaraTranslatio](https://github.com/Grezor/LaraTranslatio) - This repository is dedicated to multilingual learning  (2 weeks ago)
 - [Grezor/Learn-vue3](https://github.com/Grezor/Learn-vue3) -  (2 months ago)
 - [Grezor/LaraKit](https://github.com/Grezor/LaraKit) - Larakit une trousse de démarrage personnalisée pour les projets Laravel, offrant des fonctionnalités éssentielles et des configurations préétablies pour un développement rapide et efficace (2 months ago)
 
