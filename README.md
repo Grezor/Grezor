@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/duplessigeoffrey.fr](https://github.com/Grezor/duplessigeoffrey.fr) -  (3 days ago)
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (6 days ago)
 - [Grezor/LaraTranslatio](https://github.com/Grezor/LaraTranslatio) - This repository is dedicated to multilingual learning  (2 weeks ago)
 - [Grezor/Learn-vue3](https://github.com/Grezor/Learn-vue3) -  (2 months ago)
 - [Grezor/LaraKit](https://github.com/Grezor/LaraKit) - Larakit une trousse de démarrage personnalisée pour les projets Laravel, offrant des fonctionnalités éssentielles et des configurations préétablies pour un développement rapide et efficace (2 months ago)
+- [Grezor/LuminaLoom](https://github.com/Grezor/LuminaLoom) - Project to learn filamentphp (3 months ago)
 
 #### 🌱 My latest projects
 
-- [Grezor/duplessigeoffrey.fr](https://github.com/Grezor/duplessigeoffrey.fr) - 
 - [Grezor/LaraTranslatio](https://github.com/Grezor/LaraTranslatio) - This repository is dedicated to multilingual learning 
 - [Grezor/Learn-vue3](https://github.com/Grezor/Learn-vue3) - 
 - [Grezor/LaraKit](https://github.com/Grezor/LaraKit) - Larakit une trousse de démarrage personnalisée pour les projets Laravel, offrant des fonctionnalités éssentielles et des configurations préétablies pour un développement rapide et efficace
 - [Grezor/LoremIpsum](https://github.com/Grezor/LoremIpsum) - 
+- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/
 
 #### 🔨 Latest Pull Requests I published
 
