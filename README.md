@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (1 week ago)
-- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (4 weeks ago)
+- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (1 month ago)
 - [Grezor/LaraTranslatio](https://github.com/Grezor/LaraTranslatio) - This repository is dedicated to multilingual learning  (1 month ago)
 - [Grezor/Learn-vue3](https://github.com/Grezor/Learn-vue3) -  (2 months ago)
 - [Grezor/LaraKit](https://github.com/Grezor/LaraKit) - Larakit une trousse de démarrage personnalisée pour les projets Laravel, offrant des fonctionnalités éssentielles et des configurations préétablies pour un développement rapide et efficace (3 months ago)
