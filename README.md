@@ -16,7 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [[10.x] add apache configuration in deployment](https://github.com/laravel/docs/pull/9349) on [laravel/docs](https://github.com/laravel/docs) (4 months ago)
+- [[10.x] add apache configuration in deployment](https://github.com/laravel/docs/pull/9349) on [laravel/docs](https://github.com/laravel/docs) (5 months ago)
 - [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (8 months ago)
 
 #### 📓 Gists I wrote
@@ -33,6 +33,6 @@
 - [TommieeN/country-flags-api](https://github.com/TommieeN/country-flags-api) - Full stack app for the frontend mentor challenge. Filter and search country flags from an api and learn more details about the selected country. (4 months ago)
 - [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 10.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher (4 months ago)
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away (4 months ago)
-- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (4 months ago)
+- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (5 months ago)
 - [kachidk/atlas](https://github.com/kachidk/atlas) - Atlas: A React (Typescript), Laravel, Tailwind &amp; Inertia starter kit. (Jetstream alternative) (5 months ago)
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar) (5 months ago)
