@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (3 weeks ago)
-- [Grezor/Nebula](https://github.com/Grezor/Nebula) -  (3 weeks ago)
+- [Grezor/Nebula](https://github.com/Grezor/Nebula) -  (4 weeks ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
 - [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (2 months ago)
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (3 months ago)
@@ -17,7 +17,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [[10.x] add apache configuration in deployment](https://github.com/laravel/docs/pull/9349) on [laravel/docs](https://github.com/laravel/docs) (5 months ago)
-- [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (8 months ago)
+- [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (9 months ago)
 
 #### 📓 Gists I wrote
 
