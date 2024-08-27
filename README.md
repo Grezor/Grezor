@@ -2,7 +2,7 @@
 
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (1 month ago)
 - [Grezor/Nebula](https://github.com/Grezor/Nebula) -  (1 month ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 months ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 months ago)
 - [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (3 months ago)
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/ (4 months ago)
 
@@ -26,7 +26,7 @@
 
 #### ⭐ Recent Stars
 
-- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (6 days ago)
+- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (1 week ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 weeks ago)
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel (2 months ago)
 - [clivebeckett/matomo-opt-out](https://github.com/clivebeckett/matomo-opt-out) - Matomo Opt-Out Javascript without iframe and without cookies (5 months ago)
