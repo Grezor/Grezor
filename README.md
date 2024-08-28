@@ -26,6 +26,7 @@
 
 #### ⭐ Recent Stars
 
+- [JAGFx/lafony](https://github.com/JAGFx/lafony) -  (today)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (1 week ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 weeks ago)
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel (2 months ago)
@@ -35,4 +36,3 @@
 - [TommieeN/country-flags-api](https://github.com/TommieeN/country-flags-api) - Full stack app for the frontend mentor challenge. Filter and search country flags from an api and learn more details about the selected country. (6 months ago)
 - [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 10.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher (6 months ago)
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away (6 months ago)
-- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (6 months ago)
