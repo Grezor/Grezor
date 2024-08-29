@@ -8,11 +8,11 @@
 
 #### 🌱 My latest projects
 
+- [Grezor/Solara](https://github.com/Grezor/Solara) - docker &#43; laravel 11 
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse
 - [Grezor/Nebula](https://github.com/Grezor/Nebula) - 
 - [Grezor/LaraTranslatio](https://github.com/Grezor/LaraTranslatio) - This repository is dedicated to multilingual learning 
 - [Grezor/LaraKit](https://github.com/Grezor/LaraKit) - Larakit une trousse de démarrage personnalisée pour les projets Laravel, offrant des fonctionnalités éssentielles et des configurations préétablies pour un développement rapide et efficace
-- [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/
 
 #### 🔨 Latest Pull Requests I published
 
