@@ -26,7 +26,7 @@
 
 #### ⭐ Recent Stars
 
-- [JAGFx/lafony](https://github.com/JAGFx/lafony) -  (2 days ago)
+- [JAGFx/lafony](https://github.com/JAGFx/lafony) -  (3 days ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (1 week ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 weeks ago)
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel (3 months ago)
