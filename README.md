@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/LaraLabs](https://github.com/Grezor/LaraLabs) - LaraLabs est un projet conçu pour expérimenter, tester et optimiser différentes fonctionnalités de Laravel. (today)
-- [Grezor/Solara](https://github.com/Grezor/Solara) - docker &#43; laravel 11  (4 days ago)
+- [Grezor/LaraLabs](https://github.com/Grezor/LaraLabs) - LaraLabs est un projet conçu pour expérimenter, tester et optimiser différentes fonctionnalités de Laravel. (1 day ago)
+- [Grezor/Solara](https://github.com/Grezor/Solara) - docker &#43; laravel 11  (5 days ago)
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (2 months ago)
 - [Grezor/Nebula](https://github.com/Grezor/Nebula) -  (2 months ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 months ago)
@@ -16,7 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [[10.x] add apache configuration in deployment](https://github.com/laravel/docs/pull/9349) on [laravel/docs](https://github.com/laravel/docs) (6 months ago)
+- [[10.x] add apache configuration in deployment](https://github.com/laravel/docs/pull/9349) on [laravel/docs](https://github.com/laravel/docs) (7 months ago)
 - [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (10 months ago)
 
 #### 📓 Gists I wrote
@@ -26,7 +26,7 @@
 
 #### ⭐ Recent Stars
 
-- [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. (4 days ago)
+- [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. (5 days ago)
 - [JAGFx/lafony](https://github.com/JAGFx/lafony) -  (2 weeks ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (3 weeks ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 month ago)
