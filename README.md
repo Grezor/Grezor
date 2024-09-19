@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/LaraLabs](https://github.com/Grezor/LaraLabs) - LaraLabs est un projet conçu pour expérimenter, tester et optimiser différentes fonctionnalités de Laravel. (6 days ago)
+- [Grezor/LaraLabs](https://github.com/Grezor/LaraLabs) - LaraLabs est un projet conçu pour expérimenter, tester et optimiser différentes fonctionnalités de Laravel. (1 week ago)
 - [Grezor/Solara](https://github.com/Grezor/Solara) - docker &#43; laravel 11  (1 week ago)
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (2 months ago)
 - [Grezor/Nebula](https://github.com/Grezor/Nebula) -  (2 months ago)
@@ -28,7 +28,7 @@
 
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. (1 week ago)
 - [JAGFx/lafony](https://github.com/JAGFx/lafony) -  (3 weeks ago)
-- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (4 weeks ago)
+- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (1 month ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 month ago)
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel (3 months ago)
 - [clivebeckett/matomo-opt-out](https://github.com/clivebeckett/matomo-opt-out) - Matomo Opt-Out Javascript without iframe and without cookies (5 months ago)
