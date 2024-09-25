@@ -17,7 +17,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [[10.x] add apache configuration in deployment](https://github.com/laravel/docs/pull/9349) on [laravel/docs](https://github.com/laravel/docs) (7 months ago)
-- [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (10 months ago)
+- [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (11 months ago)
 
 #### 📓 Gists I wrote
 
@@ -27,7 +27,7 @@
 #### ⭐ Recent Stars
 
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. (2 weeks ago)
-- [JAGFx/lafony](https://github.com/JAGFx/lafony) -  (3 weeks ago)
+- [JAGFx/lafony](https://github.com/JAGFx/lafony) -  (4 weeks ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (1 month ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 month ago)
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel (3 months ago)
