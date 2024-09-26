@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/LaraLabs](https://github.com/Grezor/LaraLabs) - LaraLabs est un projet conçu pour expérimenter, tester et optimiser différentes fonctionnalités de Laravel. (1 week ago)
+- [Grezor/LaraLabs](https://github.com/Grezor/LaraLabs) - LaraLabs est un projet conçu pour expérimenter, tester et optimiser différentes fonctionnalités de Laravel. (2 weeks ago)
 - [Grezor/Solara](https://github.com/Grezor/Solara) - docker &#43; laravel 11  (2 weeks ago)
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (2 months ago)
 - [Grezor/Nebula](https://github.com/Grezor/Nebula) -  (2 months ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 months ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (4 months ago)
 
 #### 🌱 My latest projects
 
