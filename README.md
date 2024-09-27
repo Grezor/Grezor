@@ -26,6 +26,7 @@
 
 #### ⭐ Recent Stars
 
+- [moonshine-software/moonshine](https://github.com/moonshine-software/moonshine) - Laravel Admin panel and more. Simple for beginners and powerful for experts. Using Blade, Alpine.js and Tailwind CSS. (today)
 - [nasirkhan/laravel-starter](https://github.com/nasirkhan/laravel-starter) - A CMS like modular starter application project built with Laravel 11.x. (today)
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. (2 weeks ago)
 - [JAGFx/lafony](https://github.com/JAGFx/lafony) -  (1 month ago)
@@ -35,4 +36,3 @@
 - [clivebeckett/matomo-opt-out](https://github.com/clivebeckett/matomo-opt-out) - Matomo Opt-Out Javascript without iframe and without cookies (6 months ago)
 - [jeremykenedy/laravel2step](https://github.com/jeremykenedy/laravel2step) - Laravel 2-Step verification is a package to add 2-Step user authentication to any Laravel project easily. It is configurable and customizable. It uses notifications to send the user an email with a 4-digit verification code.  Laravel 2-Step Authentication Verification for Laravel. Can be used in out the box with Laravel&#39;s authentication scaffolding or integrated into other projects. (6 months ago)
 - [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. Now includes React and Vue components. (7 months ago)
-- [TommieeN/country-flags-api](https://github.com/TommieeN/country-flags-api) - Full stack app for the frontend mentor challenge. Filter and search country flags from an api and learn more details about the selected country. (7 months ago)
