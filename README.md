@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/LaraLabs](https://github.com/Grezor/LaraLabs) - LaraLabs est un projet conçu pour expérimenter, tester et optimiser différentes fonctionnalités de Laravel. (4 weeks ago)
+- [Grezor/LaraLabs](https://github.com/Grezor/LaraLabs) - LaraLabs est un projet conçu pour expérimenter, tester et optimiser différentes fonctionnalités de Laravel. (1 month ago)
 - [Grezor/Solara](https://github.com/Grezor/Solara) - docker &#43; laravel 11  (1 month ago)
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (3 months ago)
 - [Grezor/Nebula](https://github.com/Grezor/Nebula) -  (3 months ago)
@@ -26,7 +26,7 @@
 
 #### ⭐ Recent Stars
 
-- [CorentinGS/CorentinGS](https://github.com/CorentinGS/CorentinGS) -  (today)
+- [CorentinGS/CorentinGS](https://github.com/CorentinGS/CorentinGS) -  (1 day ago)
 - [moonshine-software/moonshine](https://github.com/moonshine-software/moonshine) - Laravel Admin panel and more. Simple for beginners and powerful for experts. Using Blade, Alpine.js and Tailwind CSS. (2 weeks ago)
 - [nasirkhan/laravel-starter](https://github.com/nasirkhan/laravel-starter) - A CMS like modular starter application project built with Laravel 11.x. (2 weeks ago)
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. (1 month ago)
