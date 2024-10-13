@@ -16,7 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [[10.x] add apache configuration in deployment](https://github.com/laravel/docs/pull/9349) on [laravel/docs](https://github.com/laravel/docs) (7 months ago)
+- [[10.x] add apache configuration in deployment](https://github.com/laravel/docs/pull/9349) on [laravel/docs](https://github.com/laravel/docs) (8 months ago)
 - [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (11 months ago)
 
 #### 📓 Gists I wrote
@@ -26,7 +26,7 @@
 
 #### ⭐ Recent Stars
 
-- [CorentinGS/CorentinGS](https://github.com/CorentinGS/CorentinGS) -  (1 day ago)
+- [CorentinGS/CorentinGS](https://github.com/CorentinGS/CorentinGS) -  (2 days ago)
 - [moonshine-software/moonshine](https://github.com/moonshine-software/moonshine) - Laravel Admin panel and more. Simple for beginners and powerful for experts. Using Blade, Alpine.js and Tailwind CSS. (2 weeks ago)
 - [nasirkhan/laravel-starter](https://github.com/nasirkhan/laravel-starter) - A CMS like modular starter application project built with Laravel 11.x. (2 weeks ago)
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. (1 month ago)
