@@ -26,9 +26,9 @@
 
 #### ⭐ Recent Stars
 
-- [CorentinGS/CorentinGS](https://github.com/CorentinGS/CorentinGS) -  (6 days ago)
-- [moonshine-software/moonshine](https://github.com/moonshine-software/moonshine) - Laravel Admin panel and more. Simple for beginners and powerful for experts. Using Blade, Alpine.js and Tailwind CSS. (2 weeks ago)
-- [nasirkhan/laravel-starter](https://github.com/nasirkhan/laravel-starter) - A CMS like modular starter application project built with Laravel 11.x. (2 weeks ago)
+- [CorentinGS/CorentinGS](https://github.com/CorentinGS/CorentinGS) -  (1 week ago)
+- [moonshine-software/moonshine](https://github.com/moonshine-software/moonshine) - Laravel Admin panel and more. Simple for beginners and powerful for experts. Using Blade, Alpine.js and Tailwind CSS. (3 weeks ago)
+- [nasirkhan/laravel-starter](https://github.com/nasirkhan/laravel-starter) - A CMS like modular starter application project built with Laravel 11.x. (3 weeks ago)
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. (1 month ago)
 - [JAGFx/lafony](https://github.com/JAGFx/lafony) -  (1 month ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (1 month ago)
