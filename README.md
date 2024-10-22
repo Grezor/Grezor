@@ -26,7 +26,7 @@
 
 #### ⭐ Recent Stars
 
-- [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system (1 day ago)
+- [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system (2 days ago)
 - [CorentinGS/CorentinGS](https://github.com/CorentinGS/CorentinGS) -  (1 week ago)
 - [moonshine-software/moonshine](https://github.com/moonshine-software/moonshine) - Laravel Admin panel and more. Simple for beginners and powerful for experts. Using Blade, Alpine.js and Tailwind CSS. (3 weeks ago)
 - [nasirkhan/laravel-starter](https://github.com/nasirkhan/laravel-starter) - A CMS like modular starter application project built with Laravel 11.x. (3 weeks ago)
@@ -35,4 +35,4 @@
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (2 months ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 months ago)
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel (4 months ago)
-- [clivebeckett/matomo-opt-out](https://github.com/clivebeckett/matomo-opt-out) - Matomo Opt-Out Javascript without iframe and without cookies (6 months ago)
+- [clivebeckett/matomo-opt-out](https://github.com/clivebeckett/matomo-opt-out) - Matomo Opt-Out Javascript without iframe and without cookies (7 months ago)
