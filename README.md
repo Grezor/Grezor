@@ -4,7 +4,7 @@
 - [Grezor/Solara](https://github.com/Grezor/Solara) - docker &#43; laravel 11  (1 month ago)
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (3 months ago)
 - [Grezor/Nebula](https://github.com/Grezor/Nebula) -  (3 months ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (4 months ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -26,7 +26,7 @@
 
 #### ⭐ Recent Stars
 
-- [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system (5 days ago)
+- [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system (6 days ago)
 - [CorentinGS/CorentinGS](https://github.com/CorentinGS/CorentinGS) -  (2 weeks ago)
 - [moonshine-software/moonshine](https://github.com/moonshine-software/moonshine) - Laravel Admin panel and more. Simple for beginners and powerful for experts. Using Blade, Alpine.js and Tailwind CSS. (4 weeks ago)
 - [nasirkhan/laravel-starter](https://github.com/nasirkhan/laravel-starter) - A CMS like modular starter application project built with Laravel 11.x. (4 weeks ago)
