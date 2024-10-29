@@ -34,5 +34,5 @@
 - [JAGFx/lafony](https://github.com/JAGFx/lafony) -  (2 months ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (2 months ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 months ago)
-- [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel (4 months ago)
+- [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel (5 months ago)
 - [clivebeckett/matomo-opt-out](https://github.com/clivebeckett/matomo-opt-out) - Matomo Opt-Out Javascript without iframe and without cookies (7 months ago)
