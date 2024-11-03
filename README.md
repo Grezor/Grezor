@@ -26,13 +26,13 @@
 
 #### ⭐ Recent Stars
 
-- [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system (1 week ago)
+- [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system (2 weeks ago)
 - [CorentinGS/CorentinGS](https://github.com/CorentinGS/CorentinGS) -  (3 weeks ago)
 - [moonshine-software/moonshine](https://github.com/moonshine-software/moonshine) - Laravel Admin panel and more. Simple for beginners and powerful for experts. Using Blade, Alpine.js and Tailwind CSS. (1 month ago)
 - [nasirkhan/laravel-starter](https://github.com/nasirkhan/laravel-starter) - A CMS like modular starter application project built with Laravel 11.x. (1 month ago)
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. (1 month ago)
 - [JAGFx/lafony](https://github.com/JAGFx/lafony) -  (2 months ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (2 months ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 months ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 months ago)
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel (5 months ago)
 - [clivebeckett/matomo-opt-out](https://github.com/clivebeckett/matomo-opt-out) - Matomo Opt-Out Javascript without iframe and without cookies (7 months ago)
