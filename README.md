@@ -26,6 +26,7 @@
 
 #### ⭐ Recent Stars
 
+- [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance &amp; security consultant, an artisan command away. (today)
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system (3 weeks ago)
 - [CorentinGS/CorentinGS](https://github.com/CorentinGS/CorentinGS) -  (1 month ago)
 - [moonshine-software/moonshine](https://github.com/moonshine-software/moonshine) - Laravel Admin panel and more. Simple for beginners and powerful for experts. Using Blade, Alpine.js and Tailwind CSS. (1 month ago)
@@ -35,4 +36,3 @@
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (2 months ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 months ago)
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel (5 months ago)
-- [clivebeckett/matomo-opt-out](https://github.com/clivebeckett/matomo-opt-out) - Matomo Opt-Out Javascript without iframe and without cookies (7 months ago)
