@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/LaraLabs](https://github.com/Grezor/LaraLabs) - LaraLabs est un projet conçu pour expérimenter, tester et optimiser différentes fonctionnalités de Laravel. (1 month ago)
+- [Grezor/LaraLabs](https://github.com/Grezor/LaraLabs) - LaraLabs est un projet conçu pour expérimenter, tester et optimiser différentes fonctionnalités de Laravel. (2 months ago)
 - [Grezor/Solara](https://github.com/Grezor/Solara) - docker &#43; laravel 11  (2 months ago)
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (4 months ago)
 - [Grezor/Nebula](https://github.com/Grezor/Nebula) -  (4 months ago)
@@ -26,7 +26,7 @@
 
 #### ⭐ Recent Stars
 
-- [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance &amp; security consultant, an artisan command away. (today)
+- [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance &amp; security consultant, an artisan command away. (1 day ago)
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system (3 weeks ago)
 - [CorentinGS/CorentinGS](https://github.com/CorentinGS/CorentinGS) -  (1 month ago)
 - [moonshine-software/moonshine](https://github.com/moonshine-software/moonshine) - Laravel Admin panel and more. Simple for beginners and powerful for experts. Using Blade, Alpine.js and Tailwind CSS. (1 month ago)
