@@ -33,6 +33,6 @@
 - [nasirkhan/laravel-starter](https://github.com/nasirkhan/laravel-starter) - A CMS like modular starter application project built with Laravel 11.x. (1 month ago)
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. (2 months ago)
 - [JAGFx/lafony](https://github.com/JAGFx/lafony) -  (2 months ago)
-- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (2 months ago)
+- [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (3 months ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 months ago)
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel (5 months ago)
