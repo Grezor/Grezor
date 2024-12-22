@@ -26,6 +26,8 @@
 
 #### ⭐ Recent Stars
 
+- [alkrauss48/simple-slides](https://github.com/alkrauss48/simple-slides) - Simple Slides is a responsive and text-first presentation tool that keeps your audience engaged. (today)
+- [laravel/telescope](https://github.com/laravel/telescope) - An elegant debug assistant for the Laravel framework. (today)
 - [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance &amp; security consultant, an artisan command away. (1 month ago)
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system (2 months ago)
 - [CorentinGS/CorentinGS](https://github.com/CorentinGS/CorentinGS) -  (2 months ago)
@@ -34,5 +36,3 @@
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. (3 months ago)
 - [JAGFx/lafony](https://github.com/JAGFx/lafony) -  (3 months ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A DOMPDF Wrapper for Laravel (4 months ago)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (4 months ago)
-- [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel (6 months ago)
