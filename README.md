@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (2 days ago)
+- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (3 days ago)
 - [Grezor/LaraLabs](https://github.com/Grezor/LaraLabs) - LaraLabs est un projet conçu pour expérimenter, tester et optimiser différentes fonctionnalités de Laravel. (3 months ago)
 - [Grezor/Solara](https://github.com/Grezor/Solara) - docker &#43; laravel 11  (3 months ago)
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (5 months ago)
@@ -26,9 +26,9 @@
 
 #### ⭐ Recent Stars
 
-- [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations (1 day ago)
-- [alkrauss48/simple-slides](https://github.com/alkrauss48/simple-slides) - Simple Slides is a responsive and text-first presentation tool that keeps your audience engaged. (2 days ago)
-- [laravel/telescope](https://github.com/laravel/telescope) - An elegant debug assistant for the Laravel framework. (2 days ago)
+- [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations (2 days ago)
+- [alkrauss48/simple-slides](https://github.com/alkrauss48/simple-slides) - Simple Slides is a responsive and text-first presentation tool that keeps your audience engaged. (3 days ago)
+- [laravel/telescope](https://github.com/laravel/telescope) - An elegant debug assistant for the Laravel framework. (3 days ago)
 - [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance &amp; security consultant, an artisan command away. (1 month ago)
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system (2 months ago)
 - [CorentinGS/CorentinGS](https://github.com/CorentinGS/CorentinGS) -  (2 months ago)
