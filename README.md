@@ -26,6 +26,7 @@
 
 #### ⭐ Recent Stars
 
+- [lorisleiva/laravel-actions](https://github.com/lorisleiva/laravel-actions) - ⚡️ Laravel components that take care of one specific task (today)
 - [beyondcode/livewire-devtools](https://github.com/beyondcode/livewire-devtools) - Chrome and Firefox DevTools extension for debugging Livewire applications (1 day ago)
 - [TappNetwork/filament-google-autocomplete-field](https://github.com/TappNetwork/filament-google-autocomplete-field) - Filament plugin that provides an address autocomplete using Google Places autocomplete API, with fully customizable address fields. (4 days ago)
 - [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations (1 week ago)
@@ -35,4 +36,3 @@
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system (2 months ago)
 - [CorentinGS/CorentinGS](https://github.com/CorentinGS/CorentinGS) -  (2 months ago)
 - [moonshine-software/moonshine](https://github.com/moonshine-software/moonshine) - Laravel Admin panel and more. Simple for beginners and powerful for experts. Using Blade, Alpine.js and Tailwind CSS. (3 months ago)
-- [nasirkhan/laravel-starter](https://github.com/nasirkhan/laravel-starter) - A CMS like modular starter application project built with Laravel 11.x. (3 months ago)
