@@ -26,9 +26,9 @@
 
 #### ⭐ Recent Stars
 
-- [lorisleiva/laravel-actions](https://github.com/lorisleiva/laravel-actions) - ⚡️ Laravel components that take care of one specific task (today)
-- [beyondcode/livewire-devtools](https://github.com/beyondcode/livewire-devtools) - Chrome and Firefox DevTools extension for debugging Livewire applications (1 day ago)
-- [TappNetwork/filament-google-autocomplete-field](https://github.com/TappNetwork/filament-google-autocomplete-field) - Filament plugin that provides an address autocomplete using Google Places autocomplete API, with fully customizable address fields. (4 days ago)
+- [lorisleiva/laravel-actions](https://github.com/lorisleiva/laravel-actions) - ⚡️ Laravel components that take care of one specific task (1 day ago)
+- [beyondcode/livewire-devtools](https://github.com/beyondcode/livewire-devtools) - Chrome and Firefox DevTools extension for debugging Livewire applications (2 days ago)
+- [TappNetwork/filament-google-autocomplete-field](https://github.com/TappNetwork/filament-google-autocomplete-field) - Filament plugin that provides an address autocomplete using Google Places autocomplete API, with fully customizable address fields. (5 days ago)
 - [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations (1 week ago)
 - [alkrauss48/simple-slides](https://github.com/alkrauss48/simple-slides) - Simple Slides is a responsive and text-first presentation tool that keeps your audience engaged. (1 week ago)
 - [laravel/telescope](https://github.com/laravel/telescope) - An elegant debug assistant for the Laravel framework. (1 week ago)
