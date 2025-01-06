@@ -2,7 +2,7 @@
 
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (2 weeks ago)
 - [Grezor/LaraLabs](https://github.com/Grezor/LaraLabs) - LaraLabs est un projet conçu pour expérimenter, tester et optimiser différentes fonctionnalités de Laravel. (3 months ago)
-- [Grezor/Solara](https://github.com/Grezor/Solara) - docker &#43; laravel 11  (3 months ago)
+- [Grezor/Solara](https://github.com/Grezor/Solara) - docker &#43; laravel 11  (4 months ago)
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (6 months ago)
 - [Grezor/Nebula](https://github.com/Grezor/Nebula) -  (6 months ago)
 
@@ -26,10 +26,10 @@
 
 #### ⭐ Recent Stars
 
-- [lorisleiva/laravel-actions](https://github.com/lorisleiva/laravel-actions) - ⚡️ Laravel components that take care of one specific task (4 days ago)
-- [beyondcode/livewire-devtools](https://github.com/beyondcode/livewire-devtools) - Chrome and Firefox DevTools extension for debugging Livewire applications (5 days ago)
+- [lorisleiva/laravel-actions](https://github.com/lorisleiva/laravel-actions) - ⚡️ Laravel components that take care of one specific task (5 days ago)
+- [beyondcode/livewire-devtools](https://github.com/beyondcode/livewire-devtools) - Chrome and Firefox DevTools extension for debugging Livewire applications (6 days ago)
 - [TappNetwork/filament-google-autocomplete-field](https://github.com/TappNetwork/filament-google-autocomplete-field) - Filament plugin that provides an address autocomplete using Google Places autocomplete API, with fully customizable address fields. (1 week ago)
-- [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations (1 week ago)
+- [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations (2 weeks ago)
 - [alkrauss48/simple-slides](https://github.com/alkrauss48/simple-slides) - Simple Slides is a responsive and text-first presentation tool that keeps your audience engaged. (2 weeks ago)
 - [laravel/telescope](https://github.com/laravel/telescope) - An elegant debug assistant for the Laravel framework. (2 weeks ago)
 - [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance &amp; security consultant, an artisan command away. (1 month ago)
