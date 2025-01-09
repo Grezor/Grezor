@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (2 weeks ago)
-- [Grezor/LaraLabs](https://github.com/Grezor/LaraLabs) - LaraLabs est un projet conçu pour expérimenter, tester et optimiser différentes fonctionnalités de Laravel. (3 months ago)
 - [Grezor/Solara](https://github.com/Grezor/Solara) - docker &#43; laravel 11  (4 months ago)
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (6 months ago)
 - [Grezor/Nebula](https://github.com/Grezor/Nebula) -  (6 months ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (7 months ago)
 
 #### 🌱 My latest projects
 
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker
-- [Grezor/LaraLabs](https://github.com/Grezor/LaraLabs) - LaraLabs est un projet conçu pour expérimenter, tester et optimiser différentes fonctionnalités de Laravel.
 - [Grezor/Solara](https://github.com/Grezor/Solara) - docker &#43; laravel 11 
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse
 - [Grezor/Nebula](https://github.com/Grezor/Nebula) - 
+- [Grezor/LaraKit](https://github.com/Grezor/LaraKit) - Larakit une trousse de démarrage personnalisée pour les projets Laravel, offrant des fonctionnalités éssentielles et des configurations préétablies pour un développement rapide et efficace
 
 #### 🔨 Latest Pull Requests I published
 
