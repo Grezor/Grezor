@@ -26,13 +26,13 @@
 
 #### ⭐ Recent Stars
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (today)
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (today)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (1 day ago)
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (1 day ago)
 - [lorisleiva/laravel-actions](https://github.com/lorisleiva/laravel-actions) - ⚡️ Laravel components that take care of one specific task (1 week ago)
 - [beyondcode/livewire-devtools](https://github.com/beyondcode/livewire-devtools) - Chrome and Firefox DevTools extension for debugging Livewire applications (1 week ago)
 - [TappNetwork/filament-google-autocomplete-field](https://github.com/TappNetwork/filament-google-autocomplete-field) - Filament plugin that provides an address autocomplete using Google Places autocomplete API, with fully customizable address fields. (1 week ago)
 - [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations (2 weeks ago)
 - [alkrauss48/simple-slides](https://github.com/alkrauss48/simple-slides) - Simple Slides is a responsive and text-first presentation tool that keeps your audience engaged. (2 weeks ago)
 - [laravel/telescope](https://github.com/laravel/telescope) - An elegant debug assistant for the Laravel framework. (2 weeks ago)
-- [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance &amp; security consultant, an artisan command away. (1 month ago)
+- [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance &amp; security consultant, an artisan command away. (2 months ago)
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system (2 months ago)
