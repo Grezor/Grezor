@@ -26,6 +26,7 @@
 
 #### ⭐ Recent Stars
 
+- [pepa-linha/Adminer-Design-Dark](https://github.com/pepa-linha/Adminer-Design-Dark) - Custom dark design for Adminer (today)
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (3 days ago)
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (3 days ago)
 - [lorisleiva/laravel-actions](https://github.com/lorisleiva/laravel-actions) - ⚡️ Laravel components that take care of one specific task (1 week ago)
@@ -35,4 +36,3 @@
 - [alkrauss48/simple-slides](https://github.com/alkrauss48/simple-slides) - Simple Slides is a responsive and text-first presentation tool that keeps your audience engaged. (2 weeks ago)
 - [laravel/telescope](https://github.com/laravel/telescope) - An elegant debug assistant for the Laravel framework. (2 weeks ago)
 - [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance &amp; security consultant, an artisan command away. (2 months ago)
-- [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system (2 months ago)
