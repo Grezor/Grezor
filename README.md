@@ -26,8 +26,8 @@
 
 #### ⭐ Recent Stars
 
-- [monteirofutila/laravel-backup-pulse](https://github.com/monteirofutila/laravel-backup-pulse) - A Laravel Pulse card to monitor the health of the backups, and show an overview of all backups. (1 day ago)
-- [pepa-linha/Adminer-Design-Dark](https://github.com/pepa-linha/Adminer-Design-Dark) - Custom dark design for Adminer (4 days ago)
+- [monteirofutila/laravel-backup-pulse](https://github.com/monteirofutila/laravel-backup-pulse) - A Laravel Pulse card to monitor the health of the backups, and show an overview of all backups. (2 days ago)
+- [pepa-linha/Adminer-Design-Dark](https://github.com/pepa-linha/Adminer-Design-Dark) - Custom dark design for Adminer (5 days ago)
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (1 week ago)
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (1 week ago)
 - [lorisleiva/laravel-actions](https://github.com/lorisleiva/laravel-actions) - ⚡️ Laravel components that take care of one specific task (2 weeks ago)
