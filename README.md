@@ -22,10 +22,10 @@
 #### 📓 Gists I wrote
 
 - [Memo_Prestashop_1.7.8.5 | docker-compose.yml](https://gist.github.com/eb78b378ed9f40780dc077b361ead337) (2 years ago)
-- [file config phpcs](https://gist.github.com/27d8a6056d2e171aed20c26699439861) (2 years ago)
 
 #### ⭐ Recent Stars
 
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.  (today)
 - [monteirofutila/laravel-backup-pulse](https://github.com/monteirofutila/laravel-backup-pulse) - A Laravel Pulse card to monitor the health of the backups, and show an overview of all backups. (1 week ago)
 - [pepa-linha/Adminer-Design-Dark](https://github.com/pepa-linha/Adminer-Design-Dark) - Custom dark design for Adminer (1 week ago)
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (2 weeks ago)
@@ -35,4 +35,3 @@
 - [TappNetwork/filament-google-autocomplete-field](https://github.com/TappNetwork/filament-google-autocomplete-field) - Filament plugin that provides an address autocomplete using Google Places autocomplete API, with fully customizable address fields. (3 weeks ago)
 - [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations (1 month ago)
 - [alkrauss48/simple-slides](https://github.com/alkrauss48/simple-slides) - Simple Slides is a responsive and text-first presentation tool that keeps your audience engaged. (1 month ago)
-- [laravel/telescope](https://github.com/laravel/telescope) - An elegant debug assistant for the Laravel framework. (1 month ago)
