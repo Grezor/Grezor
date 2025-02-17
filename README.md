@@ -25,6 +25,7 @@
 
 #### ⭐ Recent Stars
 
+- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9/10/11 (today)
 - [sjardim/livewire-advanced-filter-by-tags-demo](https://github.com/sjardim/livewire-advanced-filter-by-tags-demo) - A Laravel 8 and Livewire 2 demo showing how to search and filter by tags, showing article and video counts for each tag (Polymorphic relationship)  (1 week ago)
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser (3 weeks ago)
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.  (3 weeks ago)
@@ -34,4 +35,3 @@
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (1 month ago)
 - [lorisleiva/laravel-actions](https://github.com/lorisleiva/laravel-actions) - ⚡️ Laravel components that take care of one specific task (1 month ago)
 - [beyondcode/livewire-devtools](https://github.com/beyondcode/livewire-devtools) - Chrome and Firefox DevTools extension for debugging Livewire applications (1 month ago)
-- [TappNetwork/filament-google-autocomplete-field](https://github.com/TappNetwork/filament-google-autocomplete-field) - Filament plugin that provides an address autocomplete using Google Places autocomplete API, with fully customizable address fields. (1 month ago)
