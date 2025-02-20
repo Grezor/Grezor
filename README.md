@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (1 month ago)
+- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (2 months ago)
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (7 months ago)
 - [Grezor/Nebula](https://github.com/Grezor/Nebula) -  (7 months ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (8 months ago)
@@ -25,10 +25,10 @@
 
 #### ⭐ Recent Stars
 
-- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9/10/11 (2 days ago)
+- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9/10/11 (3 days ago)
 - [sjardim/livewire-advanced-filter-by-tags-demo](https://github.com/sjardim/livewire-advanced-filter-by-tags-demo) - A Laravel 8 and Livewire 2 demo showing how to search and filter by tags, showing article and video counts for each tag (Polymorphic relationship)  (1 week ago)
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser (3 weeks ago)
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.  (3 weeks ago)
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.  (4 weeks ago)
 - [monteirofutila/laravel-backup-pulse](https://github.com/monteirofutila/laravel-backup-pulse) - A Laravel Pulse card to monitor the health of the backups, and show an overview of all backups. (1 month ago)
 - [pepa-linha/Adminer-Design-Dark](https://github.com/pepa-linha/Adminer-Design-Dark) - Custom dark design for Adminer (1 month ago)
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (1 month ago)
