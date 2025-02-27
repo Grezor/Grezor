@@ -25,7 +25,7 @@
 
 #### ⭐ Recent Stars
 
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (5 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
 - [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9/10/11 (1 week ago)
 - [sjardim/livewire-advanced-filter-by-tags-demo](https://github.com/sjardim/livewire-advanced-filter-by-tags-demo) - A Laravel 8 and Livewire 2 demo showing how to search and filter by tags, showing article and video counts for each tag (Polymorphic relationship)  (2 weeks ago)
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser (1 month ago)
