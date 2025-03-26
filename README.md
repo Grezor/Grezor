@@ -25,6 +25,7 @@
 
 #### ⭐ Recent Stars
 
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (today)
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap (1 day ago)
 - [vale-s-code/vale-s-code-Pi-hole-API-Control-Disable-Enable-via-URL](https://github.com/vale-s-code/vale-s-code-Pi-hole-API-Control-Disable-Enable-via-URL) -  (3 weeks ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 month ago)
@@ -34,4 +35,3 @@
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.  (2 months ago)
 - [monteirofutila/laravel-backup-pulse](https://github.com/monteirofutila/laravel-backup-pulse) - A Laravel Pulse card to monitor the health of the backups, and show an overview of all backups. (2 months ago)
 - [pepa-linha/Adminer-Design-Dark](https://github.com/pepa-linha/Adminer-Design-Dark) - Custom dark design for Adminer (2 months ago)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (2 months ago)
