@@ -25,6 +25,7 @@
 
 #### ⭐ Recent Stars
 
+- [joshhanley/livewire-dusk-testbench](https://github.com/joshhanley/livewire-dusk-testbench) - For testing your package&#39;s Livewire components with Laravel Dusk (today)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 week ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 week ago)
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap (1 week ago)
@@ -34,4 +35,3 @@
 - [sjardim/livewire-advanced-filter-by-tags-demo](https://github.com/sjardim/livewire-advanced-filter-by-tags-demo) - A Laravel 8 and Livewire 2 demo showing how to search and filter by tags, showing article and video counts for each tag (Polymorphic relationship)  (1 month ago)
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser (2 months ago)
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.  (2 months ago)
-- [monteirofutila/laravel-backup-pulse](https://github.com/monteirofutila/laravel-backup-pulse) - A Laravel Pulse card to monitor the health of the backups, and show an overview of all backups. (2 months ago)
