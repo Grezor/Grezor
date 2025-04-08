@@ -25,13 +25,13 @@
 
 #### ⭐ Recent Stars
 
-- [leventcz/laravel-top](https://github.com/leventcz/laravel-top) - 🚀 Real-time monitoring from the command line for Laravel applications. (3 days ago)
-- [Xammie/mailbook](https://github.com/Xammie/mailbook) - ✉️ Laravel Mail Explorer (3 days ago)
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform (3 days ago)
-- [joshhanley/livewire-dusk-testbench](https://github.com/joshhanley/livewire-dusk-testbench) - For testing your package&#39;s Livewire components with Laravel Dusk (3 days ago)
+- [leventcz/laravel-top](https://github.com/leventcz/laravel-top) - 🚀 Real-time monitoring from the command line for Laravel applications. (4 days ago)
+- [Xammie/mailbook](https://github.com/Xammie/mailbook) - ✉️ Laravel Mail Explorer (4 days ago)
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform (4 days ago)
+- [joshhanley/livewire-dusk-testbench](https://github.com/joshhanley/livewire-dusk-testbench) - For testing your package&#39;s Livewire components with Laravel Dusk (4 days ago)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 week ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 week ago)
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap (1 week ago)
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap (2 weeks ago)
 - [vale-s-code/vale-s-code-Pi-hole-API-Control-Disable-Enable-via-URL](https://github.com/vale-s-code/vale-s-code-Pi-hole-API-Control-Disable-Enable-via-URL) -  (1 month ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 month ago)
 - [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9/10/11/12 (1 month ago)
