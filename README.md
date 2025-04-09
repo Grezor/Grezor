@@ -25,6 +25,7 @@
 
 #### ⭐ Recent Stars
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (today)
 - [leventcz/laravel-top](https://github.com/leventcz/laravel-top) - 🚀 Real-time monitoring from the command line for Laravel applications. (5 days ago)
 - [Xammie/mailbook](https://github.com/Xammie/mailbook) - ✉️ Laravel Mail Explorer (5 days ago)
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform (5 days ago)
@@ -34,4 +35,3 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap (2 weeks ago)
 - [vale-s-code/vale-s-code-Pi-hole-API-Control-Disable-Enable-via-URL](https://github.com/vale-s-code/vale-s-code-Pi-hole-API-Control-Disable-Enable-via-URL) -  (1 month ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 month ago)
-- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9/10/11/12 (1 month ago)
