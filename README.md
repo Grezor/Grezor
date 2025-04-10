@@ -25,11 +25,11 @@
 
 #### ⭐ Recent Stars
 
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (today)
-- [leventcz/laravel-top](https://github.com/leventcz/laravel-top) - 🚀 Real-time monitoring from the command line for Laravel applications. (5 days ago)
-- [Xammie/mailbook](https://github.com/Xammie/mailbook) - ✉️ Laravel Mail Explorer (5 days ago)
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform (5 days ago)
-- [joshhanley/livewire-dusk-testbench](https://github.com/joshhanley/livewire-dusk-testbench) - For testing your package&#39;s Livewire components with Laravel Dusk (5 days ago)
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (1 day ago)
+- [leventcz/laravel-top](https://github.com/leventcz/laravel-top) - 🚀 Real-time monitoring from the command line for Laravel applications. (6 days ago)
+- [Xammie/mailbook](https://github.com/Xammie/mailbook) - ✉️ Laravel Mail Explorer (6 days ago)
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform (6 days ago)
+- [joshhanley/livewire-dusk-testbench](https://github.com/joshhanley/livewire-dusk-testbench) - For testing your package&#39;s Livewire components with Laravel Dusk (6 days ago)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 week ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (2 weeks ago)
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap (2 weeks ago)
