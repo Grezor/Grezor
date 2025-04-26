@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (4 months ago)
-- [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (9 months ago)
+- [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (10 months ago)
 - [Grezor/Nebula](https://github.com/Grezor/Nebula) -  (10 months ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (11 months ago)
-- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (11 months ago)
+- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -25,7 +25,7 @@
 
 #### ⭐ Recent Stars
 
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (5 days ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (6 days ago)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (2 weeks ago)
 - [leventcz/laravel-top](https://github.com/leventcz/laravel-top) - 🚀 Real-time monitoring from the command line for Laravel applications. (3 weeks ago)
 - [Xammie/mailbook](https://github.com/Xammie/mailbook) - ✉️ Laravel Mail Explorer (3 weeks ago)
