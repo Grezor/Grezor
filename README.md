@@ -25,6 +25,7 @@
 
 #### ⭐ Recent Stars
 
+- [aerni/laravel-spotify](https://github.com/aerni/laravel-spotify) - Spotify for Laravel is a simple wrapper around the Spotify Web API that makes working with its endpoints a breeze! (today)
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React. (2 days ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 week ago)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (3 weeks ago)
@@ -34,4 +35,3 @@
 - [joshhanley/livewire-dusk-testbench](https://github.com/joshhanley/livewire-dusk-testbench) - For testing your package&#39;s Livewire components with Laravel Dusk (3 weeks ago)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 month ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 month ago)
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap (1 month ago)
