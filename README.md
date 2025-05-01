@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/Spotifun](https://github.com/Grezor/Spotifun) -  (today)
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (4 months ago)
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (10 months ago)
 - [Grezor/Nebula](https://github.com/Grezor/Nebula) -  (10 months ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (11 months ago)
-- [Grezor/Todolist](https://github.com/Grezor/Todolist) - Creating a Todo (REST API, NodeJS, Express) (1 year ago)
 
 #### 🌱 My latest projects
 
+- [Grezor/Spotifun](https://github.com/Grezor/Spotifun) - 
 - [Grezor/Galaxydev](https://github.com/Grezor/Galaxydev) - 
 - [Grezor/UmamiBoard](https://github.com/Grezor/UmamiBoard) - 
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse
-- [Grezor/Nebula](https://github.com/Grezor/Nebula) - 
 
 #### 🔨 Latest Pull Requests I published
 
