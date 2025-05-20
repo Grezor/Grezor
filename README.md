@@ -25,6 +25,7 @@
 
 #### ⭐ Recent Stars
 
+- [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio (today)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (1 week ago)
 - [aerni/laravel-spotify](https://github.com/aerni/laravel-spotify) - Spotify for Laravel is a simple wrapper around the Spotify Web API that makes working with its endpoints a breeze! (2 weeks ago)
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React. (3 weeks ago)
@@ -34,4 +35,3 @@
 - [Xammie/mailbook](https://github.com/Xammie/mailbook) - ✉️ Laravel Mail Explorer (1 month ago)
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform (1 month ago)
 - [joshhanley/livewire-dusk-testbench](https://github.com/joshhanley/livewire-dusk-testbench) - For testing your package&#39;s Livewire components with Laravel Dusk (1 month ago)
-- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 month ago)
