@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/Spotifun](https://github.com/Grezor/Spotifun) -  (2 weeks ago)
-- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (4 months ago)
+- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (5 months ago)
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (10 months ago)
 - [Grezor/Nebula](https://github.com/Grezor/Nebula) -  (10 months ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (11 months ago)
@@ -25,7 +25,7 @@
 
 #### ⭐ Recent Stars
 
-- [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio (today)
+- [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio (1 day ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (1 week ago)
 - [aerni/laravel-spotify](https://github.com/aerni/laravel-spotify) - Spotify for Laravel is a simple wrapper around the Spotify Web API that makes working with its endpoints a breeze! (2 weeks ago)
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React. (3 weeks ago)
