@@ -2,7 +2,6 @@
 
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (5 months ago)
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (11 months ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 year ago)
 
 #### 🌱 My latest projects
 
