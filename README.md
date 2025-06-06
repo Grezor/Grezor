@@ -22,6 +22,7 @@
 
 #### ⭐ Recent Stars
 
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters. (today)
 - [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio (2 weeks ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (3 weeks ago)
 - [aerni/laravel-spotify](https://github.com/aerni/laravel-spotify) - Spotify for Laravel is a simple wrapper around the Spotify Web API that makes working with its endpoints a breeze! (1 month ago)
@@ -31,4 +32,3 @@
 - [leventcz/laravel-top](https://github.com/leventcz/laravel-top) - 🚀 Real-time monitoring from the command line for Laravel applications. (2 months ago)
 - [Xammie/mailbook](https://github.com/Xammie/mailbook) - ✉️ Laravel Mail Explorer (2 months ago)
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform (2 months ago)
-- [joshhanley/livewire-dusk-testbench](https://github.com/joshhanley/livewire-dusk-testbench) - For testing your package&#39;s Livewire components with Laravel Dusk (2 months ago)
