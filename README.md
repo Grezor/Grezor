@@ -22,10 +22,10 @@
 
 #### ⭐ Recent Stars
 
-- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists. (today)
-- [CalvoTom/MarketPlace](https://github.com/CalvoTom/MarketPlace) -  (2 days ago)
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters. (3 days ago)
-- [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio (2 weeks ago)
+- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists. (1 day ago)
+- [CalvoTom/MarketPlace](https://github.com/CalvoTom/MarketPlace) -  (3 days ago)
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters. (4 days ago)
+- [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio (3 weeks ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (1 month ago)
 - [aerni/laravel-spotify](https://github.com/aerni/laravel-spotify) - Spotify for Laravel is a simple wrapper around the Spotify Web API that makes working with its endpoints a breeze! (1 month ago)
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React. (1 month ago)
