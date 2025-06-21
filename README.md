@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [CorentinGS/email-tracker](https://github.com/CorentinGS/email-tracker) -  (2 days ago)
+- [CorentinGS/email-tracker](https://github.com/CorentinGS/email-tracker) -  (3 days ago)
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists. (1 week ago)
-- [CalvoTom/MarketPlace](https://github.com/CalvoTom/MarketPlace) -  (1 week ago)
+- [CalvoTom/MarketPlace](https://github.com/CalvoTom/MarketPlace) -  (2 weeks ago)
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters. (2 weeks ago)
 - [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio (1 month ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (1 month ago)
