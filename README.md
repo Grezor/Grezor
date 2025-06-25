@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (6 months ago)
-- [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (11 months ago)
+- [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [CorentinGS/email-tracker](https://github.com/CorentinGS/email-tracker) -  (6 days ago)
+- [CorentinGS/email-tracker](https://github.com/CorentinGS/email-tracker) -  (1 week ago)
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists. (2 weeks ago)
 - [CalvoTom/MarketPlace](https://github.com/CalvoTom/MarketPlace) -  (2 weeks ago)
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters. (2 weeks ago)
