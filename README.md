@@ -1,7 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (6 months ago)
-- [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse (1 year ago)
 
 #### 🌱 My latest projects
 
