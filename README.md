@@ -13,7 +13,6 @@
 #### 🔨 Latest Pull Requests I published
 
 - [[10.x] add apache configuration in deployment](https://github.com/laravel/docs/pull/9349) on [laravel/docs](https://github.com/laravel/docs) (1 year ago)
-- [add counter view](https://github.com/Grezor/learn-livewire/pull/1) on [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) (2 years ago)
 
 #### 📓 Gists I wrote
 
