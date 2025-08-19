@@ -20,6 +20,7 @@
 
 #### ⭐ Recent Stars
 
+- [Barbapapazes/dotfiles](https://github.com/Barbapapazes/dotfiles) -  (today)
 - [jamesfairhurst/smart-playlists-for-spotify](https://github.com/jamesfairhurst/smart-playlists-for-spotify) - A Laravel App to Create Smart Playlists with Track/Album rules (2 weeks ago)
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (3 weeks ago)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (3 weeks ago)
@@ -29,4 +30,3 @@
 - [CorentinGS/email-tracker](https://github.com/CorentinGS/email-tracker) -  (2 months ago)
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists. (2 months ago)
 - [CalvoTom/MarketPlace](https://github.com/CalvoTom/MarketPlace) -  (2 months ago)
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters. (2 months ago)
