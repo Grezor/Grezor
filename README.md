@@ -4,11 +4,11 @@
 
 #### 🌱 My latest projects
 
+- [Grezor/runbook-docs](https://github.com/Grezor/runbook-docs) - 
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker
 - [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse
 - [Grezor/LaraKit](https://github.com/Grezor/LaraKit) - Larakit une trousse de démarrage personnalisée pour les projets Laravel, offrant des fonctionnalités éssentielles et des configurations préétablies pour un développement rapide et efficace
 - [Grezor/learn-livewire](https://github.com/Grezor/learn-livewire) - https://laravel-livewire.com/
-- [Grezor/Vemos](https://github.com/Grezor/Vemos) - &#34;Site de Tests pour Laravel et Tailwind CSS&#34;
 
 #### 🔨 Latest Pull Requests I published
 
