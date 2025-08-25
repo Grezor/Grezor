@@ -20,12 +20,12 @@
 
 #### ⭐ Recent Stars
 
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀 (today)
-- [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire (today)
-- [binafy/laravel-reactions](https://github.com/binafy/laravel-reactions) - Laravel Reactions is a lightweight and flexible package that makes it easy to add reaction functionality (like likes, loves, etc.) to your Laravel application (today)
-- [Grazulex/laravel-sharelink](https://github.com/Grazulex/laravel-sharelink) - 🔐 Generate, manage, and secure temporary share links for files, routes, and model previews. (today)
-- [Barbapapazes/dotfiles](https://github.com/Barbapapazes/dotfiles) -  (5 days ago)
-- [jamesfairhurst/smart-playlists-for-spotify](https://github.com/jamesfairhurst/smart-playlists-for-spotify) - A Laravel App to Create Smart Playlists with Track/Album rules (2 weeks ago)
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀 (1 day ago)
+- [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire (1 day ago)
+- [binafy/laravel-reactions](https://github.com/binafy/laravel-reactions) - Laravel Reactions is a lightweight and flexible package that makes it easy to add reaction functionality (like likes, loves, etc.) to your Laravel application (1 day ago)
+- [Grazulex/laravel-sharelink](https://github.com/Grazulex/laravel-sharelink) - 🔐 Generate, manage, and secure temporary share links for files, routes, and model previews. (1 day ago)
+- [Barbapapazes/dotfiles](https://github.com/Barbapapazes/dotfiles) -  (6 days ago)
+- [jamesfairhurst/smart-playlists-for-spotify](https://github.com/jamesfairhurst/smart-playlists-for-spotify) - A Laravel App to Create Smart Playlists with Track/Album rules (3 weeks ago)
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (3 weeks ago)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (1 month ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - The Easiest way to add coding standard to your PHP project (1 month ago)
