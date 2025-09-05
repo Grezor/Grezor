@@ -21,6 +21,7 @@
 
 #### ⭐ Recent Stars
 
+- [JAGFx/pyxis](https://github.com/JAGFx/pyxis) -  (today)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀 (1 week ago)
 - [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire (1 week ago)
 - [binafy/laravel-reactions](https://github.com/binafy/laravel-reactions) - Laravel Reactions is a lightweight and flexible package that makes it easy to add reaction functionality (like likes, loves, etc.) to your Laravel application (1 week ago)
@@ -30,4 +31,3 @@
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (1 month ago)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (1 month ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - The Easiest way to add coding standard to your PHP project (1 month ago)
-- [websealevel/awesome-fr](https://github.com/websealevel/awesome-fr) - Une liste organisée de ressources gratuites pour la programmation, le web et le design. Régulièrement mise à jour (1 month ago)
