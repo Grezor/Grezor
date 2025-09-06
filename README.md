@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [JAGFx/pyxis](https://github.com/JAGFx/pyxis) -  (today)
+- [JAGFx/pyxis](https://github.com/JAGFx/pyxis) -  (1 day ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀 (1 week ago)
 - [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire (1 week ago)
 - [binafy/laravel-reactions](https://github.com/binafy/laravel-reactions) - Laravel Reactions is a lightweight and flexible package that makes it easy to add reaction functionality (like likes, loves, etc.) to your Laravel application (1 week ago)
