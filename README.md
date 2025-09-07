@@ -21,11 +21,11 @@
 
 #### ⭐ Recent Stars
 
-- [JAGFx/pyxis](https://github.com/JAGFx/pyxis) -  (1 day ago)
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀 (1 week ago)
-- [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire (1 week ago)
-- [binafy/laravel-reactions](https://github.com/binafy/laravel-reactions) - Laravel Reactions is a lightweight and flexible package that makes it easy to add reaction functionality (like likes, loves, etc.) to your Laravel application (1 week ago)
-- [Grazulex/laravel-sharelink](https://github.com/Grazulex/laravel-sharelink) - 🔐 Generate, manage, and secure temporary share links for files, routes, and model previews. (1 week ago)
+- [JAGFx/pyxis](https://github.com/JAGFx/pyxis) -  (2 days ago)
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀 (2 weeks ago)
+- [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire (2 weeks ago)
+- [binafy/laravel-reactions](https://github.com/binafy/laravel-reactions) - Laravel Reactions is a lightweight and flexible package that makes it easy to add reaction functionality (like likes, loves, etc.) to your Laravel application (2 weeks ago)
+- [Grazulex/laravel-sharelink](https://github.com/Grazulex/laravel-sharelink) - 🔐 Generate, manage, and secure temporary share links for files, routes, and model previews. (2 weeks ago)
 - [Barbapapazes/dotfiles](https://github.com/Barbapapazes/dotfiles) -  (2 weeks ago)
 - [jamesfairhurst/smart-playlists-for-spotify](https://github.com/jamesfairhurst/smart-playlists-for-spotify) - A Laravel App to Create Smart Playlists with Track/Album rules (1 month ago)
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (1 month ago)
