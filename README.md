@@ -22,7 +22,7 @@
 #### ⭐ Recent Stars
 
 - [ludoguenet/laravel-zap](https://github.com/ludoguenet/laravel-zap) - The missing schedule management for Laravel (1 day ago)
-- [JAGFx/pyxis](https://github.com/JAGFx/pyxis) - Mobilize the static, energize the acquired -- Mobile-first personal savings app that helps you manage your spending money separately from monthly savings for annual expenses (vacations, insurance, equipment, etc.), providing clear visualization and control over both financial pools. (3 days ago)
+- [JAGFx/pyxis](https://github.com/JAGFx/pyxis) - Mobilize the static, energize the acquired -- Mobile-first personal savings app that separates your available spending money from monthly provisions for annual expenses (vacations, insurance, equipment, etc.), helping you build reserves throughout the year while knowing exactly how much you can freely spend. (3 days ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀 (2 weeks ago)
 - [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire (2 weeks ago)
 - [binafy/laravel-reactions](https://github.com/binafy/laravel-reactions) - Laravel Reactions is a lightweight and flexible package that makes it easy to add reaction functionality (like likes, loves, etc.) to your Laravel application (2 weeks ago)
