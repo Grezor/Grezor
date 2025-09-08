@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 week ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 weeks ago)
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (8 months ago)
 
 #### 🌱 My latest projects
@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [ludoguenet/laravel-zap](https://github.com/ludoguenet/laravel-zap) - The missing schedule management for Laravel (today)
-- [JAGFx/pyxis](https://github.com/JAGFx/pyxis) -  (2 days ago)
+- [ludoguenet/laravel-zap](https://github.com/ludoguenet/laravel-zap) - The missing schedule management for Laravel (1 day ago)
+- [JAGFx/pyxis](https://github.com/JAGFx/pyxis) -  (3 days ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀 (2 weeks ago)
 - [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire (2 weeks ago)
 - [binafy/laravel-reactions](https://github.com/binafy/laravel-reactions) - Laravel Reactions is a lightweight and flexible package that makes it easy to add reaction functionality (like likes, loves, etc.) to your Laravel application (2 weeks ago)
