@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [ludoguenet/laravel-zap](https://github.com/ludoguenet/laravel-zap) - The missing schedule management for Laravel (5 days ago)
+- [ludoguenet/laravel-zap](https://github.com/ludoguenet/laravel-zap) - The missing schedule management for Laravel (6 days ago)
 - [JAGFx/pyxis](https://github.com/JAGFx/pyxis) - Mobilize the static, energize the acquired -- Mobile-first personal savings app that separates your available spending money from monthly provisions for annual expenses (vacations, insurance, equipment, etc.), helping you build reserves throughout the year while knowing exactly how much you can freely spend. (1 week ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀 (2 weeks ago)
 - [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire (2 weeks ago)
