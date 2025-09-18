@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 weeks ago)
-- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (8 months ago)
+- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,7 +27,7 @@
 - [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire (3 weeks ago)
 - [binafy/laravel-reactions](https://github.com/binafy/laravel-reactions) - Laravel Reactions is a lightweight and flexible package that makes it easy to add reaction functionality (like likes, loves, etc.) to your Laravel application (3 weeks ago)
 - [Grazulex/laravel-sharelink](https://github.com/Grazulex/laravel-sharelink) - 🔐 Generate, manage, and secure temporary share links for files, routes, and model previews. (3 weeks ago)
-- [Barbapapazes/dotfiles](https://github.com/Barbapapazes/dotfiles) -  (4 weeks ago)
+- [Barbapapazes/dotfiles](https://github.com/Barbapapazes/dotfiles) -  (1 month ago)
 - [jamesfairhurst/smart-playlists-for-spotify](https://github.com/jamesfairhurst/smart-playlists-for-spotify) - A Laravel App to Create Smart Playlists with Track/Album rules (1 month ago)
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (1 month ago)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (1 month ago)
