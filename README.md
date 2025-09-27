@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (3 days ago)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (4 days ago)
 - [ludoguenet/zap-for-laravel](https://github.com/ludoguenet/zap-for-laravel) - The missing calendar management for Laravel (2 weeks ago)
 - [JAGFx/pyxis](https://github.com/JAGFx/pyxis) - Mobilize the static, energize the acquired -- Mobile-first personal savings app that separates your available spending money from monthly provisions for annual expenses (vacations, insurance, equipment, etc.), helping you build reserves throughout the year while knowing exactly how much you can freely spend. (3 weeks ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀 (1 month ago)
@@ -30,4 +30,4 @@
 - [Grazulex/laravel-sharelink](https://github.com/Grazulex/laravel-sharelink) - 🔐 Generate, manage, and secure temporary share links for files, routes, and model previews. (1 month ago)
 - [Barbapapazes/dotfiles](https://github.com/Barbapapazes/dotfiles) -  (1 month ago)
 - [jamesfairhurst/smart-playlists-for-spotify](https://github.com/jamesfairhurst/smart-playlists-for-spotify) - A Laravel App to Create Smart Playlists with Track/Album rules (1 month ago)
-- [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (1 month ago)
+- [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (2 months ago)
