@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (4 days ago)
-- [ludoguenet/zap-for-laravel](https://github.com/ludoguenet/zap-for-laravel) - The missing calendar management for Laravel (2 weeks ago)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (5 days ago)
+- [ludoguenet/zap-for-laravel](https://github.com/ludoguenet/zap-for-laravel) - The missing calendar management for Laravel (3 weeks ago)
 - [JAGFx/pyxis](https://github.com/JAGFx/pyxis) - Mobilize the static, energize the acquired -- Mobile-first personal savings app that separates your available spending money from monthly provisions for annual expenses (vacations, insurance, equipment, etc.), helping you build reserves throughout the year while knowing exactly how much you can freely spend. (3 weeks ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀 (1 month ago)
 - [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire (1 month ago)
