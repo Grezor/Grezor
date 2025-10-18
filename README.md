@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
-- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (9 months ago)
+- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -30,4 +30,4 @@
 - [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire (1 month ago)
 - [binafy/laravel-reactions](https://github.com/binafy/laravel-reactions) - Laravel Reactions is a lightweight and flexible package that makes it easy to add reaction functionality (like likes, loves, etc.) to your Laravel application (1 month ago)
 - [Grazulex/laravel-sharelink](https://github.com/Grazulex/laravel-sharelink) - 🔐 Generate, manage, and secure temporary share links for files, routes, and model previews. (1 month ago)
-- [Barbapapazes/dotfiles](https://github.com/Barbapapazes/dotfiles) -  (1 month ago)
+- [Barbapapazes/dotfiles](https://github.com/Barbapapazes/dotfiles) -  (2 months ago)
