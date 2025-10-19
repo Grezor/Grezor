@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [pxlrbt/filament-activity-log](https://github.com/pxlrbt/filament-activity-log) - Spatie activity log integration into Filament (today)
+- [pxlrbt/filament-activity-log](https://github.com/pxlrbt/filament-activity-log) - Spatie activity log integration into Filament (1 day ago)
 - [Propaganistas/Laravel-Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number functionality for Laravel (1 week ago)
 - [christianjombo/Laravel-Phone](https://github.com/christianjombo/Laravel-Phone) - This package adds phone number functionality to Laravel and Lumen based on the PHP port of Google&#39;s libphonenumber API by giggsey (1 week ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (3 weeks ago)
