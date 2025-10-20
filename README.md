@@ -21,6 +21,7 @@
 
 #### ⭐ Recent Stars
 
+- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal (today)
 - [pxlrbt/filament-activity-log](https://github.com/pxlrbt/filament-activity-log) - Spatie activity log integration into Filament (2 days ago)
 - [Propaganistas/Laravel-Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number functionality for Laravel (2 weeks ago)
 - [christianjombo/Laravel-Phone](https://github.com/christianjombo/Laravel-Phone) - This package adds phone number functionality to Laravel and Lumen based on the PHP port of Google&#39;s libphonenumber API by giggsey (2 weeks ago)
@@ -30,4 +31,3 @@
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀 (1 month ago)
 - [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire (1 month ago)
 - [binafy/laravel-reactions](https://github.com/binafy/laravel-reactions) - Laravel Reactions is a lightweight and flexible package that makes it easy to add reaction functionality (like likes, loves, etc.) to your Laravel application (1 month ago)
-- [Grazulex/laravel-sharelink](https://github.com/Grazulex/laravel-sharelink) - 🔐 Generate, manage, and secure temporary share links for files, routes, and model previews. (1 month ago)
