@@ -21,6 +21,7 @@
 
 #### ⭐ Recent Stars
 
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600&#43; icons, supporting React, React Native, Flutter, Vue, Figma, and Framer. (today)
 - [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) - A Laravel package that provides a Cookies consent floating window and publishes the Cookies for all consent categories (1 day ago)
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal (4 days ago)
 - [pxlrbt/filament-activity-log](https://github.com/pxlrbt/filament-activity-log) - Spatie activity log integration into Filament (6 days ago)
@@ -30,4 +31,3 @@
 - [ludoguenet/zap-for-laravel](https://github.com/ludoguenet/zap-for-laravel) - The missing calendar management for Laravel (1 month ago)
 - [JAGFx/pyxis](https://github.com/JAGFx/pyxis) - Mobilize the static, energize the acquired -- Mobile-first personal savings app that separates your available spending money from monthly provisions for annual expenses (vacations, insurance, equipment, etc.), helping you build reserves throughout the year while knowing exactly how much you can freely spend. (1 month ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀 (2 months ago)
-- [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire (2 months ago)
