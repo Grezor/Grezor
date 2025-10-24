@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (2 days ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (1 month ago)
+- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (3 days ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) - A Laravel package that provides a Cookies consent floating window and publishes the Cookies for all consent categories (today)
-- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal (3 days ago)
-- [pxlrbt/filament-activity-log](https://github.com/pxlrbt/filament-activity-log) - Spatie activity log integration into Filament (5 days ago)
+- [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) - A Laravel package that provides a Cookies consent floating window and publishes the Cookies for all consent categories (1 day ago)
+- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal (4 days ago)
+- [pxlrbt/filament-activity-log](https://github.com/pxlrbt/filament-activity-log) - Spatie activity log integration into Filament (6 days ago)
 - [Propaganistas/Laravel-Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number functionality for Laravel (2 weeks ago)
 - [christianjombo/Laravel-Phone](https://github.com/christianjombo/Laravel-Phone) - This package adds phone number functionality to Laravel and Lumen based on the PHP port of Google&#39;s libphonenumber API by giggsey (2 weeks ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (1 month ago)
