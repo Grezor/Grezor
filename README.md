@@ -23,10 +23,10 @@
 
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600&#43; icons, supporting React, React Native, Flutter, Vue, Figma, and Framer. (1 week ago)
 - [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) - A Laravel package that provides a Cookies consent floating window and publishes the Cookies for all consent categories (1 week ago)
-- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal (1 week ago)
+- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal (2 weeks ago)
 - [pxlrbt/filament-activity-log](https://github.com/pxlrbt/filament-activity-log) - Spatie activity log integration into Filament (2 weeks ago)
-- [Propaganistas/Laravel-Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number functionality for Laravel (3 weeks ago)
-- [christianjombo/Laravel-Phone](https://github.com/christianjombo/Laravel-Phone) - This package adds phone number functionality to Laravel and Lumen based on the PHP port of Google&#39;s libphonenumber API by giggsey (3 weeks ago)
+- [Propaganistas/Laravel-Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number functionality for Laravel (4 weeks ago)
+- [christianjombo/Laravel-Phone](https://github.com/christianjombo/Laravel-Phone) - This package adds phone number functionality to Laravel and Lumen based on the PHP port of Google&#39;s libphonenumber API by giggsey (4 weeks ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (1 month ago)
 - [ludoguenet/zap-for-laravel](https://github.com/ludoguenet/zap-for-laravel) - The missing calendar management for Laravel (1 month ago)
 - [JAGFx/pyxis](https://github.com/JAGFx/pyxis) - Mobilize the static, energize the acquired -- Mobile-first personal savings app that separates your available spending money from monthly provisions for annual expenses (vacations, insurance, equipment, etc.), helping you build reserves throughout the year while knowing exactly how much you can freely spend. (1 month ago)
