@@ -21,6 +21,7 @@
 
 #### ⭐ Recent Stars
 
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring (today)
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client. (3 days ago)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (3 days ago)
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600&#43; icons, supporting React, React Native, Flutter, Vue, Figma, and Framer. (2 weeks ago)
@@ -30,4 +31,3 @@
 - [Propaganistas/Laravel-Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number functionality for Laravel (1 month ago)
 - [christianjombo/Laravel-Phone](https://github.com/christianjombo/Laravel-Phone) - This package adds phone number functionality to Laravel and Lumen based on the PHP port of Google&#39;s libphonenumber API by giggsey (1 month ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (1 month ago)
-- [ludoguenet/zap-for-laravel](https://github.com/ludoguenet/zap-for-laravel) - The missing calendar management for Laravel (2 months ago)
