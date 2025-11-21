@@ -24,7 +24,7 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring (1 week ago)
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client. (2 weeks ago)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (2 weeks ago)
-- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600&#43; icons, supporting React, React Native, Flutter, Vue, Figma, and Framer. (3 weeks ago)
+- [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600&#43; icons, supporting React, React Native, Flutter, Vue, Figma, and Framer. (4 weeks ago)
 - [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) - A Laravel package that provides a Cookies consent floating window and publishes the Cookies for all consent categories (4 weeks ago)
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal (1 month ago)
 - [pxlrbt/filament-activity-log](https://github.com/pxlrbt/filament-activity-log) - Spatie activity log integration into Filament (1 month ago)
