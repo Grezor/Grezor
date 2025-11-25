@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif (today)
+- [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif (1 day ago)
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (1 month ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 months ago)
 
@@ -14,7 +14,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [add docker, config, setup](https://github.com/Grezor/CreativeWind/pull/1) on [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) (today)
+- [add docker, config, setup](https://github.com/Grezor/CreativeWind/pull/1) on [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (3 days ago)
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (4 days ago)
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring (2 weeks ago)
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client. (2 weeks ago)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (2 weeks ago)
