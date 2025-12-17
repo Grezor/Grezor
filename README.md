@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [AlexandreLegrandDev/photopotam](https://github.com/AlexandreLegrandDev/photopotam) -  (2 weeks ago)
+- [AlexandreLegrandDev/photopotam](https://github.com/AlexandreLegrandDev/photopotam) -  (3 weeks ago)
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (3 weeks ago)
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring (1 month ago)
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client. (1 month ago)
@@ -30,5 +30,5 @@
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600&#43; icons, supporting React, React Native, Flutter, Vue, Figma, and Framer. (1 month ago)
 - [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) - A Laravel package that provides a Cookies consent floating window and publishes the Cookies for all consent categories (1 month ago)
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal (1 month ago)
-- [pxlrbt/filament-activity-log](https://github.com/pxlrbt/filament-activity-log) - Spatie activity log integration into Filament (1 month ago)
+- [pxlrbt/filament-activity-log](https://github.com/pxlrbt/filament-activity-log) - Spatie activity log integration into Filament (2 months ago)
 - [Propaganistas/Laravel-Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number functionality for Laravel (2 months ago)
