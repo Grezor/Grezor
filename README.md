@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) -  (1 day ago)
+- [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) -  (2 days ago)
 - [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif (3 weeks ago)
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (2 months ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (3 months ago)
@@ -24,7 +24,7 @@
 #### ⭐ Recent Stars
 
 - [AlexandreLegrandDev/photopotam](https://github.com/AlexandreLegrandDev/photopotam) -  (3 weeks ago)
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (4 weeks ago)
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (1 month ago)
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring (1 month ago)
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client. (1 month ago)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (1 month ago)
