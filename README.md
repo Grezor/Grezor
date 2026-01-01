@@ -23,6 +23,7 @@
 
 #### ⭐ Recent Stars
 
+- [cymox1/samsung_health_steps_summary](https://github.com/cymox1/samsung_health_steps_summary) - A simple Android app that uses Samsung Health SDK to summarize your steps counts in the current week and calculate how many steps you need to take to at least achieve the previous weeks daily average (today)
 - [AlexandreLegrandDev/photopotam](https://github.com/AlexandreLegrandDev/photopotam) -  (1 month ago)
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (1 month ago)
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring (1 month ago)
@@ -32,4 +33,3 @@
 - [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) - A Laravel package that provides a Cookies consent floating window and publishes the Cookies for all consent categories (2 months ago)
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal (2 months ago)
 - [pxlrbt/filament-activity-log](https://github.com/pxlrbt/filament-activity-log) - Spatie activity log integration into Filament (2 months ago)
-- [Propaganistas/Laravel-Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number functionality for Laravel (2 months ago)
