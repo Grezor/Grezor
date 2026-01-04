@@ -23,13 +23,13 @@
 
 #### ⭐ Recent Stars
 
-- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup. (1 day ago)
-- [cymox1/samsung_health_steps_summary](https://github.com/cymox1/samsung_health_steps_summary) - A simple Android app that uses Samsung Health SDK to summarize your steps counts in the current week and calculate how many steps you need to take to at least achieve the previous weeks daily average (2 days ago)
+- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup. (2 days ago)
+- [cymox1/samsung_health_steps_summary](https://github.com/cymox1/samsung_health_steps_summary) - A simple Android app that uses Samsung Health SDK to summarize your steps counts in the current week and calculate how many steps you need to take to at least achieve the previous weeks daily average (3 days ago)
 - [AlexandreLegrandDev/photopotam](https://github.com/AlexandreLegrandDev/photopotam) -  (1 month ago)
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (1 month ago)
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring (1 month ago)
-- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client. (1 month ago)
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (1 month ago)
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client. (2 months ago)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (2 months ago)
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600&#43; icons, supporting React, React Native, Flutter, Vue, Figma, and Framer. (2 months ago)
 - [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) - A Laravel package that provides a Cookies consent floating window and publishes the Cookies for all consent categories (2 months ago)
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal (2 months ago)
