@@ -24,7 +24,7 @@
 #### ⭐ Recent Stars
 
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup. (1 week ago)
-- [cymox1/samsung_health_steps_summary](https://github.com/cymox1/samsung_health_steps_summary) - A simple Android app that uses Samsung Health SDK to summarize your steps counts in the current week and calculate how many steps you need to take to at least achieve the previous weeks daily average (1 week ago)
+- [cymox1/samsung_health_steps_summary](https://github.com/cymox1/samsung_health_steps_summary) - A simple Android app that uses Samsung Health SDK to summarize your steps counts in the current week and calculate how many steps you need to take to at least achieve the previous weeks daily average (2 weeks ago)
 - [AlexandreLegrandDev/photopotam](https://github.com/AlexandreLegrandDev/photopotam) -  (1 month ago)
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (1 month ago)
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring (2 months ago)
