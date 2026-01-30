@@ -1,8 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (today)
 - [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) -  (1 month ago)
 - [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif (2 months ago)
-- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (3 months ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (5 months ago)
 
 #### 🌱 My latest projects
