@@ -23,6 +23,8 @@
 
 #### ⭐ Recent Stars
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (today)
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (today)
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer&#39;s development branch (mirror of git.haproxy.org) (1 week ago)
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. (1 week ago)
 - [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay) - An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️ (2 weeks ago)
@@ -31,5 +33,3 @@
 - [AlexandreLegrandDev/photopotam](https://github.com/AlexandreLegrandDev/photopotam) -  (3 months ago)
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (3 months ago)
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring (3 months ago)
-- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client. (3 months ago)
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (3 months ago)
