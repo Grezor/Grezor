@@ -23,13 +23,13 @@
 
 #### ⭐ Recent Stars
 
-- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 day ago)
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (1 day ago)
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (2 days ago)
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 days ago)
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer&#39;s development branch (mirror of git.haproxy.org) (1 week ago)
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. (1 week ago)
 - [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay) - An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️ (2 weeks ago)
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup. (1 month ago)
-- [cymox1/samsung_health_steps_summary](https://github.com/cymox1/samsung_health_steps_summary) - A simple Android app that uses Samsung Health SDK to summarize your steps counts in the current week and calculate how many steps you need to take to at least achieve the previous weeks daily average (1 month ago)
+- [cymox1/samsung_health_steps_summary](https://github.com/cymox1/samsung_health_steps_summary) - A simple Android app that uses Samsung Health SDK to summarize your steps counts in the current week and calculate how many steps you need to take to at least achieve the previous weeks daily average (2 months ago)
 - [AlexandreLegrandDev/photopotam](https://github.com/AlexandreLegrandDev/photopotam) -  (3 months ago)
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox (3 months ago)
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring (3 months ago)
