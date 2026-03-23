@@ -3,7 +3,7 @@
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (1 month ago)
 - [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) -  (3 months ago)
 - [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif (3 months ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (6 months ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -23,7 +23,7 @@
 
 #### ⭐ Recent Stars
 
-- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (4 days ago)
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (5 days ago)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (3 weeks ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (3 weeks ago)
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer&#39;s development branch (mirror of git.haproxy.org) (1 month ago)
