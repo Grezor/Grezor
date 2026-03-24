@@ -2,7 +2,7 @@
 
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (1 month ago)
 - [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) -  (3 months ago)
-- [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif (3 months ago)
+- [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif (4 months ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (7 months ago)
 
 #### 🌱 My latest projects
@@ -15,7 +15,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [add docker, config, setup](https://github.com/Grezor/CreativeWind/pull/1) on [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) (3 months ago)
+- [add docker, config, setup](https://github.com/Grezor/CreativeWind/pull/1) on [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) (4 months ago)
 
 #### 📓 Gists I wrote
 
@@ -23,8 +23,8 @@
 
 #### ⭐ Recent Stars
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (today)
-- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (5 days ago)
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1 day ago)
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (6 days ago)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (3 weeks ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (3 weeks ago)
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer&#39;s development branch (mirror of git.haproxy.org) (1 month ago)
