@@ -25,7 +25,7 @@
 #### ⭐ Recent Stars
 
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (2 weeks ago)
-- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (2 weeks ago)
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (3 weeks ago)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 month ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (1 month ago)
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer&#39;s development branch (mirror of git.haproxy.org) (1 month ago)
