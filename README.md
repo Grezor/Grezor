@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Resizr](https://github.com/Grezor/Resizr) -  (2 weeks ago)
+- [Grezor/Resizr](https://github.com/Grezor/Resizr) -  (3 weeks ago)
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (2 months ago)
 - [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) -  (3 months ago)
 - [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif (4 months ago)
