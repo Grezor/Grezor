@@ -2,7 +2,7 @@
 
 - [Grezor/Resizr](https://github.com/Grezor/Resizr) -  (3 weeks ago)
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (2 months ago)
-- [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) -  (3 months ago)
+- [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) -  (4 months ago)
 - [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif (4 months ago)
 - [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (7 months ago)
 
