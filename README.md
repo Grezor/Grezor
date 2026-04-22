@@ -4,7 +4,7 @@
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (2 months ago)
 - [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) -  (4 months ago)
 - [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif (4 months ago)
-- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (7 months ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@
 
 #### ⭐ Recent Stars
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (4 weeks ago)
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1 month ago)
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (1 month ago)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 month ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (1 month ago)
