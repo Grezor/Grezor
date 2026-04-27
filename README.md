@@ -24,6 +24,7 @@
 
 #### ⭐ Recent Stars
 
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed. (today)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 day ago)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1 month ago)
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (1 month ago)
@@ -33,4 +34,3 @@
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. (2 months ago)
 - [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay) - An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️ (2 months ago)
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup. (3 months ago)
-- [cymox1/samsung_health_steps_summary](https://github.com/cymox1/samsung_health_steps_summary) - A simple Android app that uses Samsung Health SDK to summarize your steps counts in the current week and calculate how many steps you need to take to at least achieve the previous weeks daily average (3 months ago)
