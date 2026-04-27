@@ -20,11 +20,11 @@
 
 #### 📓 Gists I wrote
 
-- [Memo_Prestashop_1.7.8.5 | docker-compose.yml](https://gist.github.com/eb78b378ed9f40780dc077b361ead337) (3 years ago)
+- [Memo_Prestashop_1.7.8.5 | docker-compose.yml](https://gist.github.com/eb78b378ed9f40780dc077b361ead337) (4 years ago)
 
 #### ⭐ Recent Stars
 
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (today)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 day ago)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1 month ago)
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (1 month ago)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 month ago)
