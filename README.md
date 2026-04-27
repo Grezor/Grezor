@@ -8,11 +8,11 @@
 
 #### 🌱 My latest projects
 
+- [Grezor/marked-custom-project](https://github.com/Grezor/marked-custom-project) - Custom Markdown style
 - [Grezor/Resizr](https://github.com/Grezor/Resizr) - 
 - [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) - 
 - [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker
-- [Grezor/PulseWave](https://github.com/Grezor/PulseWave) - Laravel pulse
 
 #### 🔨 Latest Pull Requests I published
 
