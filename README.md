@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (today)
+- [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (1 day ago)
 - [Grezor/Resizr](https://github.com/Grezor/Resizr) -  (1 month ago)
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (2 months ago)
 - [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) -  (4 months ago)
@@ -24,13 +24,13 @@
 
 #### ⭐ Recent Stars
 
-- [Lauwed/tabula-docs](https://github.com/Lauwed/tabula-docs) - Static, dependency-free API documentation driven by a single JSON file. (today)
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 day ago)
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed. (1 day ago)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (2 days ago)
+- [Lauwed/tabula-docs](https://github.com/Lauwed/tabula-docs) - Static, dependency-free API documentation driven by a single JSON file. (1 day ago)
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (2 days ago)
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed. (2 days ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (3 days ago)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1 month ago)
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (1 month ago)
-- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 month ago)
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (1 month ago)
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (2 months ago)
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 months ago)
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer&#39;s development branch (mirror of git.haproxy.org) (2 months ago)
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. (2 months ago)
