@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (6 days ago)
+- [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (1 week ago)
 - [Grezor/Resizr](https://github.com/Grezor/Resizr) -  (1 month ago)
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (3 months ago)
 - [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) -  (4 months ago)
@@ -24,8 +24,8 @@
 
 #### ⭐ Recent Stars
 
-- [aimeos/aimeos](https://github.com/aimeos/aimeos) - Integrated online shop based on Laravel 12 and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce (today)
-- [Lauwed/tabula-docs](https://github.com/Lauwed/tabula-docs) - Static, dependency-free API documentation driven by a single JSON file. (6 days ago)
+- [aimeos/aimeos](https://github.com/aimeos/aimeos) - Integrated online shop based on Laravel 12 and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce (1 day ago)
+- [Lauwed/tabula-docs](https://github.com/Lauwed/tabula-docs) - Static, dependency-free API documentation driven by a single JSON file. (1 week ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 week ago)
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed. (1 week ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 week ago)
