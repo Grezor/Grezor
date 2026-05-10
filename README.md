@@ -8,11 +8,11 @@
 
 #### 🌱 My latest projects
 
-- [Grezor/geoffreyduplessi](https://github.com/Grezor/geoffreyduplessi) - 
 - [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro
 - [Grezor/marked-custom-project](https://github.com/Grezor/marked-custom-project) - Custom Markdown style
 - [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) - 
 - [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif
+- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker
 
 #### 🔨 Latest Pull Requests I published
 
