@@ -1,16 +1,16 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (1 week ago)
-- [Grezor/Resizr](https://github.com/Grezor/Resizr) -  (1 month ago)
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (3 months ago)
 - [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) -  (4 months ago)
 - [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif (5 months ago)
+- [Grezor/Tools](https://github.com/Grezor/Tools) - Repository of my useful tools or links (8 months ago)
 
 #### 🌱 My latest projects
 
+- [Grezor/geoffreyduplessi](https://github.com/Grezor/geoffreyduplessi) - 
 - [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro
 - [Grezor/marked-custom-project](https://github.com/Grezor/marked-custom-project) - Custom Markdown style
-- [Grezor/Resizr](https://github.com/Grezor/Resizr) - 
 - [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) - 
 - [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif
 
