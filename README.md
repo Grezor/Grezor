@@ -24,10 +24,10 @@
 
 #### ⭐ Recent Stars
 
-- [aimeos/aimeos](https://github.com/aimeos/aimeos) - Integrated online shop based on Laravel 12 and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce (6 days ago)
+- [aimeos/aimeos](https://github.com/aimeos/aimeos) - Integrated online shop based on Laravel 12 and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce (1 week ago)
 - [Lauwed/tabula-docs](https://github.com/Lauwed/tabula-docs) - Static, dependency-free API documentation driven by a single JSON file. (1 week ago)
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 week ago)
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed. (1 week ago)
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (2 weeks ago)
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed. (2 weeks ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (2 weeks ago)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1 month ago)
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (1 month ago)
