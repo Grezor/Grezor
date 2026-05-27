@@ -32,5 +32,5 @@
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows. (1 week ago)
 - [aimeos/aimeos](https://github.com/aimeos/aimeos) - Integrated online shop based on Laravel and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce (3 weeks ago)
 - [Lauwed/tabula-docs](https://github.com/Lauwed/tabula-docs) - Static, dependency-free API documentation driven by a single JSON file. (4 weeks ago)
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (4 weeks ago)
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed. (4 weeks ago)
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 month ago)
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed. (1 month ago)
