@@ -24,6 +24,7 @@
 
 #### ⭐ Recent Stars
 
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (today)
 - [mattenarle10/markamd](https://github.com/mattenarle10/markamd) - 🐙 local markdown, live markdown editor &#43; live preview built with tauri &#43; react. (2 weeks ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 weeks ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 weeks ago)
@@ -33,4 +34,3 @@
 - [aimeos/aimeos](https://github.com/aimeos/aimeos) - Integrated online shop based on Laravel and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce (4 weeks ago)
 - [Lauwed/tabula-docs](https://github.com/Lauwed/tabula-docs) - Static, dependency-free API documentation driven by a single JSON file. (1 month ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 month ago)
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed. (1 month ago)
