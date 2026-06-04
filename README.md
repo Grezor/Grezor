@@ -24,6 +24,7 @@
 
 #### ⭐ Recent Stars
 
+- [ralphjsmit/laravel-seo](https://github.com/ralphjsmit/laravel-seo) - A package to handle the SEO in any Laravel application, big or small. (today)
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI. (2 days ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (2 days ago)
 - [mattenarle10/markamd](https://github.com/mattenarle10/markamd) - 🐙 local markdown, live markdown editor &#43; live preview built with tauri &#43; react. (2 weeks ago)
@@ -33,4 +34,3 @@
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack &amp; prompt protect. Advanced Prompt Engineering papers. (2 weeks ago)
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows. (2 weeks ago)
 - [aimeos/aimeos](https://github.com/aimeos/aimeos) - Integrated online shop based on Laravel and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce (1 month ago)
-- [Lauwed/tabula-docs](https://github.com/Lauwed/tabula-docs) - Static, dependency-free API documentation driven by a single JSON file. (1 month ago)
