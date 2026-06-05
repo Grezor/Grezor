@@ -24,12 +24,12 @@
 
 #### ⭐ Recent Stars
 
-- [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤. (today)
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (today)
-- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills. (today)
-- [ralphjsmit/laravel-seo](https://github.com/ralphjsmit/laravel-seo) - A package to handle the SEO in any Laravel application, big or small. (today)
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI. (2 days ago)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (2 days ago)
+- [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤. (1 day ago)
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (1 day ago)
+- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills. (1 day ago)
+- [ralphjsmit/laravel-seo](https://github.com/ralphjsmit/laravel-seo) - A package to handle the SEO in any Laravel application, big or small. (1 day ago)
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI. (3 days ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (3 days ago)
 - [mattenarle10/markamd](https://github.com/mattenarle10/markamd) - 🐙 local markdown, live markdown editor &#43; live preview built with tauri &#43; react. (2 weeks ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 weeks ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 weeks ago)
