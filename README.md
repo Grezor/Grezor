@@ -4,7 +4,7 @@
 - [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (1 month ago)
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (4 months ago)
 - [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) -  (6 months ago)
-- [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif (6 months ago)
+- [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -16,7 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [add docker, config, setup](https://github.com/Grezor/CreativeWind/pull/1) on [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) (6 months ago)
+- [add docker, config, setup](https://github.com/Grezor/CreativeWind/pull/1) on [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) (7 months ago)
 
 #### 📓 Gists I wrote
 
