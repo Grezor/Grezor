@@ -8,11 +8,11 @@
 
 #### 🌱 My latest projects
 
+- [Grezor/spotify-liked-organizer](https://github.com/Grezor/spotify-liked-organizer) - 
 - [Grezor/TaskVel](https://github.com/Grezor/TaskVel) - Projet d’apprentissage de Taskfile.dev pour moderniser l’automatisation des commandes. Remplace Makefile par une approche plus lisible et structurée, intégrée à un environnement Docker &#43; Laravel pour standardiser les workflows de développement.
 - [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro
 - [Grezor/marked-custom-project](https://github.com/Grezor/marked-custom-project) - Custom Markdown style
 - [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) - 
-- [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) - moodboard évolutif
 
 #### 🔨 Latest Pull Requests I published
 
