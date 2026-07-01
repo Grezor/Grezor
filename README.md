@@ -24,6 +24,7 @@
 
 #### ⭐ Recent Stars
 
+- [dakotafelder/open-gorton](https://github.com/dakotafelder/open-gorton) - Open source font for the keycap designer community (today)
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤. (3 weeks ago)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (3 weeks ago)
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills. (3 weeks ago)
@@ -33,4 +34,3 @@
 - [mattenarle10/markamd](https://github.com/mattenarle10/markamd) - local-first markdown editor with live preview, reading mode, diagrams, themes, and context bundles. (1 month ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 month ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 month ago)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 month ago)
