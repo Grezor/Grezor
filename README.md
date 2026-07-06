@@ -24,7 +24,7 @@
 
 #### ⭐ Recent Stars
 
-- [dakotafelder/open-gorton](https://github.com/dakotafelder/open-gorton) - Open source font for the keycap designer community (4 days ago)
+- [dakotafelder/open-gorton](https://github.com/dakotafelder/open-gorton) - Open source font for the keycap designer community (5 days ago)
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤. (1 month ago)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (1 month ago)
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills. (1 month ago)
