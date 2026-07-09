@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) -  (1 day ago)
+- [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) -  (2 days ago)
 - [Grezor/TaskVel](https://github.com/Grezor/TaskVel) - Projet d’apprentissage de Taskfile.dev pour moderniser l’automatisation des commandes. Remplace Makefile par une approche plus lisible et structurée, intégrée à un environnement Docker &#43; Laravel pour standardiser les workflows de développement. (1 month ago)
 - [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (2 months ago)
 - [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (5 months ago)
@@ -16,7 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [create docker-compose](https://github.com/Grezor/Trouv-Outils/pull/1) on [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) (1 day ago)
+- [create docker-compose](https://github.com/Grezor/Trouv-Outils/pull/1) on [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) (2 days ago)
 - [add docker, config, setup](https://github.com/Grezor/CreativeWind/pull/1) on [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) (7 months ago)
 
 #### 📓 Gists I wrote
