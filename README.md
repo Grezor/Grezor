@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) - Analyseur personnel de performances running (today)
-- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (3 days ago)
+- [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) - Analyseur personnel de performances running (1 day ago)
+- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (4 days ago)
 - [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) -  (1 week ago)
 - [Grezor/TaskVel](https://github.com/Grezor/TaskVel) - Projet d’apprentissage de Taskfile.dev pour moderniser l’automatisation des commandes. Remplace Makefile par une approche plus lisible et structurée, intégrée à un environnement Docker &#43; Laravel pour standardiser les workflows de développement. (1 month ago)
 - [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (2 months ago)
@@ -25,8 +25,8 @@
 
 #### ⭐ Recent Stars
 
-- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri &amp; Svelte) (2 days ago)
-- [dakotafelder/open-gorton](https://github.com/dakotafelder/open-gorton) - Open source font for the keycap designer community (1 week ago)
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri &amp; Svelte) (3 days ago)
+- [dakotafelder/open-gorton](https://github.com/dakotafelder/open-gorton) - Open source font for the keycap designer community (2 weeks ago)
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤. (1 month ago)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (1 month ago)
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills. (1 month ago)
