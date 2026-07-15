@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) - Analyseur personnel de performances running (1 day ago)
-- [Grezor/FromScratchLaravel](https://github.com/Grezor/FromScratchLaravel) - Création d&#39;un projet Laravel - Docker (4 days ago)
+- [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) - Analyseur personnel de performances running (today)
 - [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) -  (1 week ago)
 - [Grezor/TaskVel](https://github.com/Grezor/TaskVel) - Projet d’apprentissage de Taskfile.dev pour moderniser l’automatisation des commandes. Remplace Makefile par une approche plus lisible et structurée, intégrée à un environnement Docker &#43; Laravel pour standardiser les workflows de développement. (1 month ago)
 - [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (2 months ago)
+- [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) -  (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -16,6 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Feature/add composer autoload](https://github.com/Grezor/RunAnalysex/pull/1) on [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) (today)
 - [create docker-compose](https://github.com/Grezor/Trouv-Outils/pull/1) on [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) (1 week ago)
 - [add docker, config, setup](https://github.com/Grezor/CreativeWind/pull/1) on [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) (7 months ago)
 
@@ -25,6 +26,7 @@
 
 #### ⭐ Recent Stars
 
+- [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software (today)
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri &amp; Svelte) (3 days ago)
 - [dakotafelder/open-gorton](https://github.com/dakotafelder/open-gorton) - Open source font for the keycap designer community (2 weeks ago)
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤. (1 month ago)
@@ -34,4 +36,3 @@
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI. (1 month ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (1 month ago)
 - [mattenarle10/markamd](https://github.com/mattenarle10/markamd) - local-first markdown editor with live preview, reading mode, diagrams, themes, and context bundles. (1 month ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 month ago)
