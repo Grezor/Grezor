@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
+- [Grezor/grezor-spectra](https://github.com/Grezor/grezor-spectra) - Theme Vscode DevGirl (today)
 - [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) - Analyseur personnel de performances running (1 week ago)
 - [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) -  (2 weeks ago)
 - [Grezor/TaskVel](https://github.com/Grezor/TaskVel) - Projet d’apprentissage de Taskfile.dev pour moderniser l’automatisation des commandes. Remplace Makefile par une approche plus lisible et structurée, intégrée à un environnement Docker &#43; Laravel pour standardiser les workflows de développement. (2 months ago)
 - [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (2 months ago)
-- [Grezor/DepartureBoard](https://github.com/Grezor/DepartureBoard) -  (7 months ago)
 
 #### 🌱 My latest projects
 
+- [Grezor/grezor-spectra](https://github.com/Grezor/grezor-spectra) - Theme Vscode DevGirl
 - [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) - Analyseur personnel de performances running
 - [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) - 
 - [Grezor/TaskVel](https://github.com/Grezor/TaskVel) - Projet d’apprentissage de Taskfile.dev pour moderniser l’automatisation des commandes. Remplace Makefile par une approche plus lisible et structurée, intégrée à un environnement Docker &#43; Laravel pour standardiser les workflows de développement.
 - [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro
-- [Grezor/marked-custom-project](https://github.com/Grezor/marked-custom-project) - Custom Markdown style
 
 #### 🔨 Latest Pull Requests I published
 
