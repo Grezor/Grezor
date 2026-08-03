@@ -26,13 +26,13 @@
 
 #### ⭐ Recent Stars
 
-- [roboes/strava-club-scraper](https://github.com/roboes/strava-club-scraper) - Web-scraping tool to extract public activities data from Strava Clubs (without Strava&#39;s API) using Selenium library in Python. (today)
-- [roboes/strava-local-heatmap-tool](https://github.com/roboes/strava-local-heatmap-tool) - Create Strava heatmaps locally using Folium library in Python. (today)
-- [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) - The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/ (2 days ago)
-- [rafaeldrrmachado/strava-activity-downloader](https://github.com/rafaeldrrmachado/strava-activity-downloader) - Download and archive your Strava activities without API access.  Export all your Strava activities directly from the Strava website using Playwright.  No API access required. (3 days ago)
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (6 days ago)
+- [roboes/strava-club-scraper](https://github.com/roboes/strava-club-scraper) - Web-scraping tool to extract public activities data from Strava Clubs (without Strava&#39;s API) using Selenium library in Python. (1 day ago)
+- [roboes/strava-local-heatmap-tool](https://github.com/roboes/strava-local-heatmap-tool) - Create Strava heatmaps locally using Folium library in Python. (1 day ago)
+- [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) - The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/ (3 days ago)
+- [rafaeldrrmachado/strava-activity-downloader](https://github.com/rafaeldrrmachado/strava-activity-downloader) - Download and archive your Strava activities without API access.  Export all your Strava activities directly from the Strava website using Playwright.  No API access required. (4 days ago)
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (1 week ago)
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software (2 weeks ago)
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri &amp; Svelte) (3 weeks ago)
 - [dakotafelder/open-gorton](https://github.com/dakotafelder/open-gorton) - Open source font for the keycap designer community (1 month ago)
-- [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤. (1 month ago)
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (1 month ago)
+- [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤. (2 months ago)
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (2 months ago)
