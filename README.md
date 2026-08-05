@@ -26,6 +26,7 @@
 
 #### ⭐ Recent Stars
 
+- [darkomania/getcurate](https://github.com/darkomania/getcurate) - Customizable Chrome new tab page built from your bookmark folders — drag &amp; drop, themes, multi-language, tab groups (today)
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (1 day ago)
 - [roboes/strava-club-scraper](https://github.com/roboes/strava-club-scraper) - Web-scraping tool to extract public activities data from Strava Clubs (without Strava&#39;s API) using Selenium library in Python. (3 days ago)
 - [roboes/strava-local-heatmap-tool](https://github.com/roboes/strava-local-heatmap-tool) - Create Strava heatmaps locally using Folium library in Python. (3 days ago)
@@ -35,4 +36,3 @@
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software (3 weeks ago)
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri &amp; Svelte) (3 weeks ago)
 - [dakotafelder/open-gorton](https://github.com/dakotafelder/open-gorton) - Open source font for the keycap designer community (1 month ago)
-- [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤. (2 months ago)
