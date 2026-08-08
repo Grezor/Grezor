@@ -26,10 +26,10 @@
 
 #### ⭐ Recent Stars
 
-- [darkomania/getcurate](https://github.com/darkomania/getcurate) - Customizable Chrome new tab page built from your bookmark folders — drag &amp; drop, themes, multi-language, tab groups (2 days ago)
-- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (3 days ago)
-- [roboes/strava-club-scraper](https://github.com/roboes/strava-club-scraper) - Web-scraping tool to extract public activities data from Strava Clubs (without Strava&#39;s API) using Selenium library in Python. (5 days ago)
-- [roboes/strava-local-heatmap-tool](https://github.com/roboes/strava-local-heatmap-tool) - Create Strava heatmaps locally using Folium library in Python. (5 days ago)
+- [darkomania/getcurate](https://github.com/darkomania/getcurate) - Customizable Chrome new tab page built from your bookmark folders — drag &amp; drop, themes, multi-language, tab groups (3 days ago)
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (4 days ago)
+- [roboes/strava-club-scraper](https://github.com/roboes/strava-club-scraper) - Web-scraping tool to extract public activities data from Strava Clubs (without Strava&#39;s API) using Selenium library in Python. (6 days ago)
+- [roboes/strava-local-heatmap-tool](https://github.com/roboes/strava-local-heatmap-tool) - Create Strava heatmaps locally using Folium library in Python. (6 days ago)
 - [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) - The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/ (1 week ago)
 - [rafaeldrrmachado/strava-activity-downloader](https://github.com/rafaeldrrmachado/strava-activity-downloader) - Download and archive your Strava activities without API access.  Export all your Strava activities directly from the Strava website using Playwright.  No API access required. (1 week ago)
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (1 week ago)
