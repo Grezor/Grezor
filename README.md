@@ -18,7 +18,6 @@
 
 - [Feature/add composer autoload](https://github.com/Grezor/RunAnalysex/pull/1) on [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) (1 month ago)
 - [create docker-compose](https://github.com/Grezor/Trouv-Outils/pull/1) on [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) (1 month ago)
-- [add docker, config, setup](https://github.com/Grezor/CreativeWind/pull/1) on [Grezor/CreativeWind](https://github.com/Grezor/CreativeWind) (8 months ago)
 
 #### 📓 Gists I wrote
 
