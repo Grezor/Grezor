@@ -25,11 +25,11 @@
 
 #### ⭐ Recent Stars
 
-- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (4 days ago)
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts. (5 days ago)
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (5 days ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts. (6 days ago)
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone (1 week ago)
 - [darkomania/getcurate](https://github.com/darkomania/getcurate) - Customizable Chrome new tab page built from your bookmark folders — drag &amp; drop, themes, multi-language, tab groups (1 week ago)
-- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (1 week ago)
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (2 weeks ago)
 - [roboes/strava-club-scraper](https://github.com/roboes/strava-club-scraper) - Web-scraping tool to extract public activities data from Strava Clubs (without Strava&#39;s API) using Selenium library in Python. (2 weeks ago)
 - [roboes/strava-local-heatmap-tool](https://github.com/roboes/strava-local-heatmap-tool) - Create Strava heatmaps locally using Folium library in Python. (2 weeks ago)
 - [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) - The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/ (2 weeks ago)
