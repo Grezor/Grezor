@@ -4,7 +4,7 @@
 - [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) - Analyseur personnel de performances running (1 month ago)
 - [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) -  (1 month ago)
 - [Grezor/TaskVel](https://github.com/Grezor/TaskVel) - Projet d’apprentissage de Taskfile.dev pour moderniser l’automatisation des commandes. Remplace Makefile par une approche plus lisible et structurée, intégrée à un environnement Docker &#43; Laravel pour standardiser les workflows de développement. (3 months ago)
-- [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (3 months ago)
+- [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -25,11 +25,11 @@
 
 #### ⭐ Recent Stars
 
-- [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP&#39;s Worker Mode. (today)
+- [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP&#39;s Worker Mode. (1 day ago)
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (1 week ago)
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts. (1 week ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts. (2 weeks ago)
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone (2 weeks ago)
-- [darkomania/getcurate](https://github.com/darkomania/getcurate) - Customizable Chrome new tab page built from your bookmark folders — drag &amp; drop, themes, multi-language, tab groups (2 weeks ago)
+- [darkomania/getcurate](https://github.com/darkomania/getcurate) - Customizable Chrome new tab page built from your bookmark folders — drag &amp; drop, themes, multi-language, tab groups (3 weeks ago)
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (3 weeks ago)
 - [roboes/strava-club-scraper](https://github.com/roboes/strava-club-scraper) - Web-scraping tool to extract public activities data from Strava Clubs (without Strava&#39;s API) using Selenium library in Python. (3 weeks ago)
 - [roboes/strava-local-heatmap-tool](https://github.com/roboes/strava-local-heatmap-tool) - Create Strava heatmaps locally using Folium library in Python. (3 weeks ago)
