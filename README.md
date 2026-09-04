@@ -29,7 +29,7 @@
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (3 weeks ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts. (3 weeks ago)
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone (3 weeks ago)
-- [darkomania/getcurate](https://github.com/darkomania/getcurate) - Customizable Chrome new tab page built from your bookmark folders — drag &amp; drop, themes, multi-language, tab groups (4 weeks ago)
+- [darkomania/getcurate](https://github.com/darkomania/getcurate) - Customizable Chrome new tab page built from your bookmark folders — drag &amp; drop, themes, multi-language, tab groups (1 month ago)
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (1 month ago)
 - [roboes/strava-club-scraper](https://github.com/roboes/strava-club-scraper) - Web-scraping tool to extract public activities data from Strava Clubs (without Strava&#39;s API) using Selenium library in Python. (1 month ago)
 - [roboes/strava-local-heatmap-tool](https://github.com/roboes/strava-local-heatmap-tool) - Create Strava heatmaps locally using Folium library in Python. (1 month ago)
