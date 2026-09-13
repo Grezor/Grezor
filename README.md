@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Grezor/grezor-spectra](https://github.com/Grezor/grezor-spectra) - Theme Vscode DevGirl (1 month ago)
-- [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) - Analyseur personnel de performances running (1 month ago)
+- [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) - Analyseur personnel de performances running (2 months ago)
 - [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) -  (2 months ago)
 - [Grezor/TaskVel](https://github.com/Grezor/TaskVel) - Projet d’apprentissage de Taskfile.dev pour moderniser l’automatisation des commandes. Remplace Makefile par une approche plus lisible et structurée, intégrée à un environnement Docker &#43; Laravel pour standardiser les workflows de développement. (3 months ago)
 - [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (4 months ago)
@@ -16,7 +16,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Feature/add composer autoload](https://github.com/Grezor/RunAnalysex/pull/1) on [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) (1 month ago)
+- [Feature/add composer autoload](https://github.com/Grezor/RunAnalysex/pull/1) on [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) (2 months ago)
 - [create docker-compose](https://github.com/Grezor/Trouv-Outils/pull/1) on [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) (2 months ago)
 
 #### 📓 Gists I wrote
