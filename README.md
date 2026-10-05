@@ -2,7 +2,7 @@
 
 - [Grezor/grezor-spectra](https://github.com/Grezor/grezor-spectra) - Theme Vscode DevGirl (2 months ago)
 - [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) - Analyseur personnel de performances running (2 months ago)
-- [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) -  (2 months ago)
+- [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) -  (3 months ago)
 - [Grezor/TaskVel](https://github.com/Grezor/TaskVel) - Projet d’apprentissage de Taskfile.dev pour moderniser l’automatisation des commandes. Remplace Makefile par une approche plus lisible et structurée, intégrée à un environnement Docker &#43; Laravel pour standardiser les workflows de développement. (4 months ago)
 - [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (5 months ago)
 
@@ -17,7 +17,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [Feature/add composer autoload](https://github.com/Grezor/RunAnalysex/pull/1) on [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) (2 months ago)
-- [create docker-compose](https://github.com/Grezor/Trouv-Outils/pull/1) on [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) (2 months ago)
+- [create docker-compose](https://github.com/Grezor/Trouv-Outils/pull/1) on [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) (3 months ago)
 
 #### 📓 Gists I wrote
 
@@ -25,7 +25,7 @@
 
 #### ⭐ Recent Stars
 
-- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client (1 day ago)
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client (2 days ago)
 - [rhelmer/umami-kit](https://github.com/rhelmer/umami-kit) - A comprehensive utility package for enhanced Umami Analytics tracking that handles clicks, scroll depth, time on page, element visibility, and more. (1 week ago)
 - [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP&#39;s Worker Mode. (1 month ago)
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (1 month ago)
