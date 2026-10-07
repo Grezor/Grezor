@@ -25,8 +25,8 @@
 
 #### ⭐ Recent Stars
 
-- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client (3 days ago)
-- [rhelmer/umami-kit](https://github.com/rhelmer/umami-kit) - A comprehensive utility package for enhanced Umami Analytics tracking that handles clicks, scroll depth, time on page, element visibility, and more. (1 week ago)
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client (4 days ago)
+- [rhelmer/umami-kit](https://github.com/rhelmer/umami-kit) - A comprehensive utility package for enhanced Umami Analytics tracking that handles clicks, scroll depth, time on page, element visibility, and more. (2 weeks ago)
 - [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP&#39;s Worker Mode. (1 month ago)
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (1 month ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts. (1 month ago)
