@@ -8,11 +8,11 @@
 
 #### 🌱 My latest projects
 
+- [Grezor/PixelMail](https://github.com/Grezor/PixelMail) - Détecter des pixels de suivi dans les mails
 - [Grezor/grezor-spectra](https://github.com/Grezor/grezor-spectra) - Theme Vscode DevGirl
 - [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) - Analyseur personnel de performances running
 - [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) - 
 - [Grezor/TaskVel](https://github.com/Grezor/TaskVel) - Projet d’apprentissage de Taskfile.dev pour moderniser l’automatisation des commandes. Remplace Makefile par une approche plus lisible et structurée, intégrée à un environnement Docker &#43; Laravel pour standardiser les workflows de développement.
-- [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro
 
 #### 🔨 Latest Pull Requests I published
 
