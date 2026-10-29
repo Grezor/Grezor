@@ -25,7 +25,7 @@
 
 #### ⭐ Recent Stars
 
-- [sway-agency/tv](https://github.com/sway-agency/tv) - Open source Android TV and Google TV launcher: minimal, ad-free home screen, one-command reversible debloat, fireplace screensaver. Set up by AI over ADB. (today)
+- [sway-agency/tv](https://github.com/sway-agency/tv) - Open source Android TV and Google TV launcher: minimal, ad-free home screen, one-command reversible debloat, fireplace screensaver. Set up by AI over ADB. (1 day ago)
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. (1 week ago)
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (2 weeks ago)
 - [petricbranko/awstree](https://github.com/petricbranko/awstree) - Understand AWS billing (2 weeks ago)
