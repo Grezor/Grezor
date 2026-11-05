@@ -25,9 +25,9 @@
 
 #### ⭐ Recent Stars
 
-- [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (today)
-- [AR13X3/halation](https://github.com/AR13X3/halation) - Design animated gradient backgrounds in your browser: textured glass, liquid surfaces and seamless video loops. Free and open source. (1 day ago)
-- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (3 days ago)
+- [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (1 day ago)
+- [AR13X3/halation](https://github.com/AR13X3/halation) - Design animated gradient backgrounds in your browser: textured glass, liquid surfaces and seamless video loops. Free and open source. (2 days ago)
+- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (4 days ago)
 - [sway-agency/tv](https://github.com/sway-agency/tv) - Open source Android TV and Google TV launcher: minimal, ad-free home screen, one-command reversible debloat, fireplace screensaver. Set up by AI over ADB. (1 week ago)
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. (2 weeks ago)
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (3 weeks ago)
