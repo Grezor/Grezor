@@ -25,6 +25,7 @@
 
 #### ⭐ Recent Stars
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (today)
 - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (1 day ago)
 - [AR13X3/halation](https://github.com/AR13X3/halation) - Design animated gradient backgrounds in your browser: textured glass, liquid surfaces and seamless video loops. Free and open source. (2 days ago)
 - [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (4 days ago)
@@ -34,4 +35,3 @@
 - [petricbranko/awstree](https://github.com/petricbranko/awstree) - Understand AWS billing (3 weeks ago)
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client (1 month ago)
 - [rhelmer/umami-kit](https://github.com/rhelmer/umami-kit) - A comprehensive utility package for enhanced Umami Analytics tracking that handles clicks, scroll depth, time on page, element visibility, and more. (1 month ago)
-- [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP&#39;s Worker Mode. (2 months ago)
