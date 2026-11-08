@@ -25,13 +25,13 @@
 
 #### ⭐ Recent Stars
 
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (2 days ago)
-- [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (3 days ago)
-- [AR13X3/halation](https://github.com/AR13X3/halation) - Design animated gradient backgrounds in your browser: textured glass, liquid surfaces and seamless video loops. Free and open source. (4 days ago)
-- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (6 days ago)
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (3 days ago)
+- [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (4 days ago)
+- [AR13X3/halation](https://github.com/AR13X3/halation) - Design animated gradient backgrounds in your browser: textured glass, liquid surfaces and seamless video loops. Free and open source. (5 days ago)
+- [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (1 week ago)
 - [sway-agency/tv](https://github.com/sway-agency/tv) - Open source Android TV and Google TV launcher: minimal, ad-free home screen, one-command reversible debloat, fireplace screensaver. Set up by AI over ADB. (1 week ago)
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. (2 weeks ago)
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. (3 weeks ago)
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (3 weeks ago)
-- [petricbranko/awstree](https://github.com/petricbranko/awstree) - Understand AWS billing (3 weeks ago)
+- [petricbranko/awstree](https://github.com/petricbranko/awstree) - Understand AWS billing (4 weeks ago)
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client (1 month ago)
 - [rhelmer/umami-kit](https://github.com/rhelmer/umami-kit) - A comprehensive utility package for enhanced Umami Analytics tracking that handles clicks, scroll depth, time on page, element visibility, and more. (1 month ago)
