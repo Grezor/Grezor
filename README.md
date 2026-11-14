@@ -3,7 +3,7 @@
 - [Grezor/grezor-spectra](https://github.com/Grezor/grezor-spectra) - Theme Vscode DevGirl (3 months ago)
 - [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) - Analyseur personnel de performances running (4 months ago)
 - [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) -  (4 months ago)
-- [Grezor/TaskVel](https://github.com/Grezor/TaskVel) - Projet d’apprentissage de Taskfile.dev pour moderniser l’automatisation des commandes. Remplace Makefile par une approche plus lisible et structurée, intégrée à un environnement Docker &#43; Laravel pour standardiser les workflows de développement. (5 months ago)
+- [Grezor/TaskVel](https://github.com/Grezor/TaskVel) - Projet d’apprentissage de Taskfile.dev pour moderniser l’automatisation des commandes. Remplace Makefile par une approche plus lisible et structurée, intégrée à un environnement Docker &#43; Laravel pour standardiser les workflows de développement. (6 months ago)
 - [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (6 months ago)
 
 #### 🌱 My latest projects
