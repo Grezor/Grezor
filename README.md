@@ -25,8 +25,8 @@
 
 #### ⭐ Recent Stars
 
-- [diamondburned/arikawa](https://github.com/diamondburned/arikawa) - A Golang library and framework for the Discord API. (1 day ago)
-- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (3 days ago)
+- [diamondburned/arikawa](https://github.com/diamondburned/arikawa) - A Golang library and framework for the Discord API. (2 days ago)
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (4 days ago)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (2 weeks ago)
 - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (2 weeks ago)
 - [AR13X3/halation](https://github.com/AR13X3/halation) - Design animated gradient backgrounds in your browser: textured glass, liquid surfaces and seamless video loops. Free and open source. (2 weeks ago)
