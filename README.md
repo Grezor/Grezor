@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Grezor/grezor-spectra](https://github.com/Grezor/grezor-spectra) - Theme Vscode DevGirl (3 months ago)
+- [Grezor/grezor-spectra](https://github.com/Grezor/grezor-spectra) - Theme Vscode DevGirl (4 months ago)
 - [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) - Analyseur personnel de performances running (4 months ago)
 - [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) -  (4 months ago)
 - [Grezor/TaskVel](https://github.com/Grezor/TaskVel) - Projet d’apprentissage de Taskfile.dev pour moderniser l’automatisation des commandes. Remplace Makefile par une approche plus lisible et structurée, intégrée à un environnement Docker &#43; Laravel pour standardiser les workflows de développement. (6 months ago)
@@ -25,8 +25,8 @@
 
 #### ⭐ Recent Stars
 
-- [diamondburned/arikawa](https://github.com/diamondburned/arikawa) - A Golang library and framework for the Discord API. (2 days ago)
-- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (4 days ago)
+- [diamondburned/arikawa](https://github.com/diamondburned/arikawa) - A Golang library and framework for the Discord API. (3 days ago)
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (5 days ago)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (2 weeks ago)
 - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (2 weeks ago)
 - [AR13X3/halation](https://github.com/AR13X3/halation) - Design animated gradient backgrounds in your browser: textured glass, liquid surfaces and seamless video loops. Free and open source. (2 weeks ago)
