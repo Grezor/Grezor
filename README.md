@@ -4,7 +4,7 @@
 - [Grezor/RunAnalysex](https://github.com/Grezor/RunAnalysex) - Analyseur personnel de performances running (4 months ago)
 - [Grezor/Trouv-Outils](https://github.com/Grezor/Trouv-Outils) -  (4 months ago)
 - [Grezor/TaskVel](https://github.com/Grezor/TaskVel) - Projet d’apprentissage de Taskfile.dev pour moderniser l’automatisation des commandes. Remplace Makefile par une approche plus lisible et structurée, intégrée à un environnement Docker &#43; Laravel pour standardiser les workflows de développement. (6 months ago)
-- [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (6 months ago)
+- [Grezor/astralis](https://github.com/Grezor/astralis) - Découverte de Astro (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -25,11 +25,11 @@
 
 #### ⭐ Recent Stars
 
-- [diamondburned/arikawa](https://github.com/diamondburned/arikawa) - A Golang library and framework for the Discord API. (5 days ago)
+- [diamondburned/arikawa](https://github.com/diamondburned/arikawa) - A Golang library and framework for the Discord API. (6 days ago)
 - [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (1 week ago)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (2 weeks ago)
 - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (2 weeks ago)
-- [AR13X3/halation](https://github.com/AR13X3/halation) - Design animated gradient backgrounds in your browser: textured glass, liquid surfaces and seamless video loops. Free and open source. (2 weeks ago)
+- [AR13X3/halation](https://github.com/AR13X3/halation) - Design animated gradient backgrounds in your browser: textured glass, liquid surfaces and seamless video loops. Free and open source. (3 weeks ago)
 - [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (3 weeks ago)
 - [sway-agency/tv](https://github.com/sway-agency/tv) - Open source Android TV and Google TV launcher: minimal, ad-free home screen, one-command reversible debloat, fireplace screensaver. Set up by AI over ADB. (3 weeks ago)
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. (1 month ago)
