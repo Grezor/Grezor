@@ -25,13 +25,13 @@
 
 #### ⭐ Recent Stars
 
-- [diamondburned/arikawa](https://github.com/diamondburned/arikawa) - A Golang library and framework for the Discord API. (6 days ago)
+- [diamondburned/arikawa](https://github.com/diamondburned/arikawa) - A Golang library and framework for the Discord API. (1 week ago)
 - [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (1 week ago)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (2 weeks ago)
-- [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (2 weeks ago)
+- [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (3 weeks ago)
 - [AR13X3/halation](https://github.com/AR13X3/halation) - Design animated gradient backgrounds in your browser: textured glass, liquid surfaces and seamless video loops. Free and open source. (3 weeks ago)
 - [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP (3 weeks ago)
-- [sway-agency/tv](https://github.com/sway-agency/tv) - Open source Android TV and Google TV launcher: minimal, ad-free home screen, one-command reversible debloat, fireplace screensaver. Set up by AI over ADB. (3 weeks ago)
+- [sway-agency/tv](https://github.com/sway-agency/tv) - Open source Android TV and Google TV launcher: minimal, ad-free home screen, one-command reversible debloat, fireplace screensaver. Set up by AI over ADB. (4 weeks ago)
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. (1 month ago)
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (1 month ago)
 - [petricbranko/awstree](https://github.com/petricbranko/awstree) - Understand AWS billing (1 month ago)
